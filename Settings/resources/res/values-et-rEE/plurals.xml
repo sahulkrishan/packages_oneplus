@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="oneplus_applock_wrong_pattern_warning">
+        <item>Teil on veel %1$d võimalus</item>
+        <item>Teil on veel %1$d võimalust</item>
+    </plurals>
+    <plurals name="oneplus_lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item>Proovige uuesti %d sekundi pärast.</item>
+        <item>Proovige uuesti %d sekundi pärast.</item>
+    </plurals>
+</resources>

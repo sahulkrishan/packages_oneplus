@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:settings="http://schemas.android.com/apk/res/com.android.settings" xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:title="@string/oneplus_silent_mode">
+    <Preference android:persistent="false" android:title="@string/zen_mode_alarms" android:key="alarms" android:summary="@string/oneplus_alarm_summary" android:defaultValue="true"/>
+    <SwitchPreference android:persistent="false" android:title="@string/oneplus_media_ring" android:key="media_ring" android:summary="@string/oneplus_media_ring_summary"/>
+    <SwitchPreference android:persistent="false" android:title="@string/oneplus_noise_tips" android:key="noise_tips"/>
+</PreferenceScreen>

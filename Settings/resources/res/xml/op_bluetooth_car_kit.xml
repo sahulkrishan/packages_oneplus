@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:settings="http://schemas.android.com/apk/res/com.android.settings" xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:title="@string/oneplus_add_bluetooth_car_kit" android:key="add_bluetooth_car_kit">
+    <com.oneplus.settings.ui.OPPreferenceHeaderMargin android:key="preference_divider_line"/>
+    <PreferenceCategory android:title="@string/oneplus_recognized_bluetooth_car_kits" android:key="recognized_bluetooth_car_kits" app:controller="com.android.settings.connecteddevice.OPRecognizedBluetoothCarKitsDeviceGroupController"/>
+    <Preference android:enabled="false" android:title="@string/oneplus_recognized_bluetooth_car_kits_no_devices" android:key="recognized_bluetooth_car_kits_no_devices" app:controller="com.android.settings.connecteddevice.OPRecognizedBluetoothCarKitNoDevicesPreferenceController"/>
+    <PreferenceCategory android:title="@string/oneplus_other_paired_bluetooth_devices" android:key="other_paired_bluetooth_devices" app:controller="com.android.settings.connecteddevice.OPOtherPairedBluetoothDevicesGroupController"/>
+    <com.android.settingslib.RestrictedPreference android:icon="@drawable/ic_menu_add" android:title="@string/bluetooth_pairing_pref_title" android:key="add_bt_devices" android:summary="@string/connected_device_add_device_summary" android:fragment="com.android.settings.bluetooth.BluetoothPairingDetail" app:controller="com.android.settings.connecteddevice.AddDevicePreferenceController" app:useAdminDisabledSummary="true" app:userRestriction="no_config_bluetooth"/>
+    <com.android.settingslib.widget.FooterPreference/>
+</PreferenceScreen>

@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item>%d วันที่แล้ว</item>
+        <item>%d วันที่แล้ว</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item>%d นาทีที่แล้ว</item>
+        <item>%d นาทีที่แล้ว</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item>%d ปีที่แล้ว</item>
+        <item>%d ปีที่แล้ว</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item>เวลาหน่วงสั้นที่สุด (%1$d มิลลิวินาที)</item>
+        <item>เวลาหน่วงสั้นที่สุด (%1$d มิลลิวินาที)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item>เวลาหน่วงยาว (%1$d มิลลิวินาที)</item>
+        <item>เวลาหน่วงยาว (%1$d มิลลิวินาที)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item>เวลาหน่วงสั้น (%1$d มิลลิวินาที)</item>
+        <item>เวลาหน่วงสั้น (%1$d มิลลิวินาที)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item>เวลาหน่วงยาวมาก (%1$d มิลลิวินาที)</item>
+        <item>เวลาหน่วงยาวมาก (%1$d มิลลิวินาที)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item>เวลาหน่วงสั้นมาก (%1$d มิลลิวินาที)</item>
+        <item>เวลาหน่วงสั้นมาก (%1$d มิลลิวินาที)</item>
+    </plurals>
+    <plurals name="app_notification_listing_summary_others">
+        <item>ปิดสำหรับ %d แอป</item>
+        <item>ปิดสำหรับ %d แอป</item>
+    </plurals>
+    <plurals name="battery_manager_app_restricted">
+        <item>จำกัดแอป %1$d แอป</item>
+        <item>จำกัดแอป %1$d แอป</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item>จำกัดแอปใช่ไหม</item>
+        <item>จำกัดแอป %1$d แอปใช่ไหม</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_summary">
+        <item>แอปนี้ทำงานในเบื้องหลังไม่ได้</item>
+        <item>แอปเหล่านี้ทำงานในเบื้องหลังไม่ได้</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_title">
+        <item>จำกัดแอป %1$s แอปเมื่อเร็วๆ นี้</item>
+        <item>จำกัดแอป %2$d แอปเมื่อเร็วๆ นี้</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_summary">
+        <item>แอป %1$s แอปใช้แบตเตอรี่ในเบื้องหลังเปลือง</item>
+        <item>แอป %2$d แอปใช้แบตเตอรี่ในเบื้องหลังเปลือง</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_title">
+        <item>จำกัดแอป %1$d แอป</item>
+        <item>จำกัดแอป %1$d แอป</item>
+    </plurals>
+    <plurals name="billing_cycle_days_left">
+        <item>เหลืออีก %d วัน</item>
+        <item>เหลืออีก %d วัน</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item>1 แอปได้รับอนุญาตให้ใช้อินเทอร์เน็ตได้ไม่จำกัดเมื่อเปิดโปรแกรมประหยัดอินเทอร์เน็ต</item>
+        <item>%1$d แอปได้รับอนุญาตให้ใช้อินเทอร์เน็ตได้ไม่จำกัดเมื่อเปิดโปรแกรมประหยัดอินเทอร์เน็ต</item>
+    </plurals>
+    <plurals name="default_camera_app_title">
+        <item>แอปกล้องถ่ายรูป</item>
+        <item>แอปกล้องถ่ายรูป</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item>แอปโปรแกรมรับส่งเมล</item>
+        <item>แอปโปรแกรมรับส่งเมล</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item>แอปโทรศัพท์</item>
+        <item>แอปโทรศัพท์</item>
+    </plurals>
+    <plurals name="deleted_channels">
+        <item>ลบแล้ว %d หมวดหมู่</item>
+        <item>ลบแล้ว %d หมวดหมู่</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item>นำภาษาที่เลือกออกไหม</item>
+        <item>นำภาษาที่เลือกออกไหม</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary_on">
+        <item>มี 1 แอปเปิดลิงก์ที่รองรับได้</item>
+        <item>มี %d แอปเปิดลิงก์ที่รองรับได้</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_ca_certs">
+        <item>มีใบรับรอง CA อย่างน้อย %d รายการ</item>
+        <item>มีใบรับรอง CA อย่างน้อย %d รายการ</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item>พยายามแล้ว %d ครั้ง</item>
+        <item>พยายามแล้ว %d ครั้ง</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item>%d แอป</item>
+        <item>%d แอป</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item>มีแอปอย่างน้อย %d แอป</item>
+        <item>มีแอปอย่างน้อย %d แอป</item>
+    </plurals>
+    <plurals name="hours">
+        <item>1 ชั่วโมง</item>
+        <item>%s ชั่วโมง</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item>ต้องมีตัวอักษรอย่างน้อย 1 ตัว</item>
+        <item>ต้องมีตัวอักษรอย่างน้อย %d ตัว</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item>ต้องมีตัวอักษรพิมพ์เล็กอย่างน้อย 1 ตัว</item>
+        <item>ต้องมีตัวอักษรพิมพ์เล็กอย่างน้อย %d ตัว</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item>ต้องมีอักขระที่ไม่ใช่ตัวอักษรอย่างน้อย 1 ตัว</item>
+        <item>ต้องมีอักขระที่ไม่ใช่ตัวอักษรอย่างน้อย %d ตัว</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item>ต้องมีตัวเลขอย่างน้อย 1 ตัว</item>
+        <item>ต้องมีตัวเลขอย่างน้อย %d ตัว</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item>ต้องมีสัญลักษณ์พิเศษอย่างน้อย 1 ตัว</item>
+        <item>ต้องมีสัญลักษณ์พิเศษอย่างน้อย %d ตัว</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item>ต้องมีตัวอักษรพิมพ์ใหญ่อย่างน้อย 1 ตัว</item>
+        <item>ต้องมีตัวอักษรพิมพ์ใหญ่อย่างน้อย %d ตัว</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item>%d แอปสามารถอ่านการแจ้งเตือนได้</item>
+        <item>%d แอปสามารถอ่านการแจ้งเตือนได้</item>
+    </plurals>
+    <plurals name="manage_trust_agents_summary_on">
+        <item>มีเอเจนต์ความน่าเชื่อถือ 1 รายการ</item>
+        <item>มีเอเจนต์ความน่าเชื่อถือ %d รายการ</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item>1 แอปใช้หน่วยความจำใน %2$sที่ผ่านมา</item>
+        <item>%1$d แอปใช้หน่วยความจำใน %2$sที่ผ่านมา</item>
+    </plurals>
+    <plurals name="minutes">
+        <item>1 นาที</item>
+        <item>%s นาที</item>
+    </plurals>
+    <plurals name="network_restrictions_summary">
+        <item>ข้อจำกัด 1 ข้อ</item>
+        <item>ข้อจำกัด %1$d ข้อ</item>
+    </plurals>
+    <plurals name="notification_group_summary">
+        <item>%d หมวดหมู่</item>
+        <item>%d หมวดหมู่</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item>ปิดสำหรับ 1 แอป</item>
+        <item>ปิดสำหรับ %d แอป</item>
+    </plurals>
+    <plurals name="notifications_categories_off">
+        <item>%d หมวดหมู่ปิดอยู่</item>
+        <item>%d หมวดหมู่ปิดอยู่</item>
+    </plurals>
+    <plurals name="number_of_device_admins">
+        <item>มี %d แอปที่ใช้งานอยู่</item>
+        <item>มี %d แอปที่ใช้งานอยู่</item>
+    </plurals>
+    <plurals name="oneplus_applock_wrong_pattern_warning">
+        <item>คุณยังมีโอกาสอีก %1$d ครั้ง</item>
+    </plurals>
+    <plurals name="oneplus_lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item>ลองใหม่อีกครั้งในอีก %d วินาที</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item>มอบสิทธิ์ %d รายการ</item>
+        <item>มอบสิทธิ์ %d รายการ</item>
+    </plurals>
+    <plurals name="power_high_usage_summary">
+        <item>%1$s มีลักษณะการทำงานผิดปกติ</item>
+        <item>%2$d แอปมีลักษณะการทำงานผิดปกติ</item>
+    </plurals>
+    <plurals name="power_high_usage_title">
+        <item>%1$s ทำให้แบตเตอรี่หมดเร็ว</item>
+        <item>แอปหลายแอปทำให้แบตเตอรี่หมดเร็ว</item>
+    </plurals>
+    <plurals name="print_jobs_summary">
+        <item>งานพิมพ์ 1 รายการ</item>
+        <item>งานพิมพ์ %1$d รายการ</item>
+    </plurals>
+    <plurals name="print_settings_summary">
+        <item>บริการการพิมพ์เปิดอยู่ 1 รายการ</item>
+        <item>บริการการพิมพ์เปิดอยู่ %1$d รายการ</item>
+    </plurals>
+    <plurals name="restricted_app_summary">
+        <item>การจำกัดการใช้งานแบตเตอรี่ของแอป %1$d</item>
+        <item>การจำกัดการใช้งานแบตเตอรี่ของแอป %1$d</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item>สิทธิ์เพิ่มเติม %d รายการ</item>
+        <item>สิทธิ์เพิ่มเติม %d รายการ</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item>อนุญาต %d จาก %d รายการแล้ว</item>
+        <item>อนุญาต %d จาก %d รายการแล้ว</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>1 วินาที</item>
+        <item>%s วินาที</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item>ตั้งค่าลายนิ้วมือ %1$d รายการ</item>
+        <item>ตั้งค่าลายนิ้วมือ %1$d รายการ</item>
+    </plurals>
+    <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item>แสดงรายการที่ซ่อน %d รายการ</item>
+        <item>แสดงรายการที่ซ่อน %d รายการ</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item>คุณกำลังจะได้เป็นนักพัฒนาซอฟต์แวร์ในอีก %1$d ขั้นตอน</item>
+        <item>คุณกำลังจะได้เป็นนักพัฒนาซอฟต์แวร์ในอีก %1$d ขั้นตอน</item>
+    </plurals>
+    <plurals name="show_number_hearingaid_count">
+        <item>บันทึกเครื่องช่วยการได้ยิน %1$d เครื่องแล้ว</item>
+        <item>บันทึกเครื่องช่วยการได้ยิน %1$d เครื่องแล้ว</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item>1 แอปใช้อินเทอร์เน็ตได้ไม่จำกัด</item>
+        <item>%d แอปใช้อินเทอร์เน็ตได้ไม่จำกัด</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item>เชื่อถือหรือนำใบรับรองออก</item>
+        <item>เชื่อถือหรือนำใบรับรองออก</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item>%s ได้ติดตั้งใบรับรอง CA สำหรับโปรไฟล์งานของคุณ ซึ่งอาจช่วยให้เขาตรวจสอบกิจกรรมในเครือข่ายการทำงานได้ รวมถึงอีเมล แอป และเว็บไซต์ที่ปลอดภัย\10\10โปรดติดต่อผู้ดูแลระบบสำหรับข้อมูลเพิ่มเติมเกี่ยวกับใบรับรองนี้</item>
+        <item>%s ได้ติดตั้งใบรับรอง CA สำหรับโปรไฟล์งานของคุณ ซึ่งอาจช่วยให้เขาตรวจสอบกิจกรรมในเครือข่ายการทำงานได้ รวมถึงอีเมล แอป และเว็บไซต์ที่ปลอดภัย\10\10โปรดติดต่อผู้ดูแลระบบสำหรับข้อมูลเพิ่มเติมเกี่ยวกับใบรับรองเหล่านี้</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item>%s ได้ติดตั้งใบรับรอง CA บนอุปกรณ์ของคุณ ซึ่งอาจช่วยในการตรวจสอบกิจกรรมเครือข่ายของอุปกรณ์ได้ รวมถึงอีเมล แอป และเว็บไซต์ที่ปลอดภัย\10\10โปรดติดต่อผู้ดูแลระบบสำหรับข้อมูลเพิ่มเติมเกี่ยวกับใบรับรองนี้</item>
+        <item>%s ได้ติดตั้งใบรับรอง CA บนอุปกรณ์ของคุณ ซึ่งอาจช่วยในการตรวจสอบกิจกรรมเครือข่ายของอุปกรณ์ได้ รวมถึงอีเมล แอป และเว็บไซต์ที่ปลอดภัย\10\10โปรดติดต่อผู้ดูแลระบบสำหรับข้อมูลเพิ่มเติมเกี่ยวกับใบรับรองเหล่านี้</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item>ตรวจสอบใบรับรอง</item>
+        <item>ตรวจสอบใบรับรอง</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_summary">
+        <item>+1 คำแนะนำ</item>
+        <item>+%1$d คำแนะนำ</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_title">
+        <item>1 คำแนะนำ</item>
+        <item>%1$d คำแนะนำ</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item>1 รายการ</item>
+        <item>%d รายการ</item>
+    </plurals>
+    <plurals name="wifi_saved_access_points_summary">
+        <item>1 เครือข่าย</item>
+        <item>%d เครือข่าย</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item>มีอุปกรณ์ที่เชื่อมต่อ %1$d เครื่อง</item>
+        <item>มีอุปกรณ์ที่เชื่อมต่อ %1$d เครื่อง</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item>รหัส PIN ของซิมไม่ถูกต้อง คุณพยายามได้อีก %d ครั้งก่อนที่จะต้องติดต่อผู้ให้บริการเพื่อปลดล็อกอุปกรณ์</item>
+        <item>รหัส PIN ของซิมไม่ถูกต้อง คุณพยายามได้อีก %d ครั้ง</item>
+    </plurals>
+    <plurals name="zen_mode_duration_summary_time_hours">
+        <item>1 ชั่วโมง (ยกเว้นที่เปิดโดยอัตโนมัติ)</item>
+        <item>%d ชั่วโมง (ยกเว้นที่เปิดโดยอัตโนมัติ)</item>
+    </plurals>
+    <plurals name="zen_mode_settings_summary_on">
+        <item>กฎ 1 ข้อ</item>
+        <item>กฎ %d ข้อ</item>
+    </plurals>
+    <plurals name="zen_mode_sound_summary_summary_off_info">
+        <item>กฎ 1 ข้อจะเปิดโดยอัตโนมัติ</item>
+        <item>กฎ %d ข้อจะเปิดโดยอัตโนมัติ</item>
+    </plurals>
+    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+        <item>อีก 1 คน</item>
+        <item>อีก %d คน</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item>เปลี่ยนเป็นเฉพาะปลุกเท่านั้นเป็นเวลา 1 ชั่วโมงจนถึงเวลา %2$s</item>
+        <item>เปลี่ยนเป็นเฉพาะปลุกเท่านั้นเป็นเวลา %1$d ชั่วโมงจนถึงเวลา %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item>เปลี่ยนเป็นเฉพาะปลุกเท่านั้นเป็นเวลา 1 นาทีจนถึงเวลา %2$s</item>
+        <item>เปลี่ยนเป็นเฉพาะปลุกเท่านั้นเป็นเวลา %1$d นาที (จนถึงเวลา %2$s)</item>
+    </plurals>
+</resources>

@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item>%d روز قبل</item>
+        <item>%d روز قبل</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item>%d دقیقه قبل</item>
+        <item>%d دقیقه قبل</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item>%d سال قبل</item>
+        <item>%d سال قبل</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item>تأخیر فوق‌العاده کوتاه (%1$d میلی‌ثانیه)</item>
+        <item>تأخیر فوق‌العاده کوتاه (%1$d میلی‌ثانیه)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item>تأخیر طولانی (%1$d میلی‌ثانیه)</item>
+        <item>تأخیر طولانی (%1$d میلی‌ثانیه)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item>تأخیر کوتاه (%1$d میلی‌ثانیه)</item>
+        <item>تأخیر کوتاه (%1$d میلی‌ثانیه)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item>تأخیر بسیار طولانی (%1$d میلی‌ثانیه)</item>
+        <item>تأخیر بسیار طولانی (%1$d میلی‌ثانیه)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item>تأخیر بسیار کوتاه (%1$d میلی‌ثانیه)</item>
+        <item>تأخیر بسیار کوتاه (%1$d میلی‌ثانیه)</item>
+    </plurals>
+    <plurals name="app_notification_listing_summary_others">
+        <item>برای %d برنامه خاموش است</item>
+        <item>برای %d برنامه خاموش است</item>
+    </plurals>
+    <plurals name="battery_manager_app_restricted">
+        <item>‏%1$d برنامه محدود شد</item>
+        <item>‏%1$d برنامه محدود شد</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item>‏%1$d برنامه محدود شود؟</item>
+        <item>‏%1$d برنامه محدود شود؟</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_summary">
+        <item>این برنامه‌ها نمی‌تواند در پس‌زمینه اجرا شود</item>
+        <item>این برنامه‌ها نمی‌تواند در پس‌زمینه اجرا شود</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_title">
+        <item>‏%2$d برنامه اخیراً محدود شده است</item>
+        <item>‏%2$d برنامه اخیراً محدود شده است</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_summary">
+        <item>‏%2$d مصرف باتری در پس‌زمینه بالایی دارد</item>
+        <item>‏%2$d مصرف باتری در پس‌زمینه بالایی دارد</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_title">
+        <item>‏%1$d برنامه را محدود کنید</item>
+        <item>‏%1$d برنامه را محدود کنید</item>
+    </plurals>
+    <plurals name="billing_cycle_days_left">
+        <item>‏%d روز باقی‌مانده است</item>
+        <item>‏%d روز باقی‌مانده است</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item>هنگام روشن بودن «صرفه‌جویی داده»، %1$d برنامه می‌توانند بدون محدودیت از داده‌ها استفاده کند</item>
+        <item>هنگام روشن بودن «صرفه‌جویی داده»، %1$d برنامه می‌توانند بدون محدودیت از داده‌ها استفاده کند</item>
+    </plurals>
+    <plurals name="default_camera_app_title">
+        <item>برنامه‌های دوربین</item>
+        <item>برنامه‌های دوربین</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item>برنامه‌های کارخواه رایانامه</item>
+        <item>برنامه‌های کارخواه رایانامه</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item>برنامه‌های تلفن</item>
+        <item>برنامه‌های تلفن</item>
+    </plurals>
+    <plurals name="deleted_channels">
+        <item>%d دسته حذف‌ شد</item>
+        <item>%d دسته حذف‌ شد</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item>زبان‌های انتخابی حذف شوند؟</item>
+        <item>زبان‌های انتخابی حذف شوند؟</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary_on">
+        <item>%d برنامه برای باز کردن پیوندهای پشتیبانی‌شده</item>
+        <item>%d برنامه برای باز کردن پیوندهای پشتیبانی‌شده</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_ca_certs">
+        <item>حداقل %d گواهینامه مرکز صدور گواهی</item>
+        <item>حداقل %d گواهینامه مرکز صدور گواهی</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item>%d بار</item>
+        <item>%d بار</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item>%d برنامه</item>
+        <item>%d برنامه</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item>حداقل %d برنامه</item>
+        <item>حداقل %d برنامه</item>
+    </plurals>
+    <plurals name="hours">
+        <item>%s ساعت</item>
+        <item>%s ساعت</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item>باید حداقل %d حرف داشته باشد</item>
+        <item>باید حداقل %d حرف داشته باشد</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item>باید حداقل %d حرف کوچک داشته باشد</item>
+        <item>باید حداقل %d حرف کوچک داشته باشد</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item>باید حداقل %d نویسه غیرحرف داشته باشد</item>
+        <item>باید حداقل %d نویسه غیرحرف داشته باشد</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item>باید حداقل %d عدد داشته باشد</item>
+        <item>باید حداقل %d عدد داشته باشد</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item>باید حداقل %d نماد ویژه داشته باشد</item>
+        <item>باید حداقل %d نماد ویژه داشته باشد</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item>باید حداقل %d حرف بزرگ داشته باشد</item>
+        <item>باید حداقل %d حرف بزرگ داشته باشد</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item>‏%d برنامه می‌تواند اعلان‌ها را بخواند</item>
+        <item>‏%d برنامه می‌تواند اعلان‌ها را بخواند</item>
+    </plurals>
+    <plurals name="manage_trust_agents_summary_on">
+        <item>%d نماینده معتمد فعال</item>
+        <item>%d نماینده معتمد فعال</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item>%1$d برنامه در %2$s گذشته از حافظه استفاده کرده‌اند</item>
+        <item>%1$d برنامه در %2$s گذشته از حافظه استفاده کرده‌اند</item>
+    </plurals>
+    <plurals name="minutes">
+        <item>%s دقیقه</item>
+        <item>%s دقیقه</item>
+    </plurals>
+    <plurals name="network_restrictions_summary">
+        <item>%1$d محدودیت</item>
+        <item>%1$d محدودیت</item>
+    </plurals>
+    <plurals name="notification_group_summary">
+        <item>%d دسته</item>
+        <item>%d دسته</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item>خاموش برای %d برنامه</item>
+        <item>خاموش برای %d برنامه</item>
+    </plurals>
+    <plurals name="notifications_categories_off">
+        <item>%d دسته خاموش شد</item>
+        <item>%d دسته خاموش شد</item>
+    </plurals>
+    <plurals name="number_of_device_admins">
+        <item>%d برنامه فعال</item>
+        <item>%d برنامه فعال</item>
+    </plurals>
+    <plurals name="oneplus_applock_wrong_pattern_warning">
+        <item>همچنان %1$d فرصت در اختیار دارید</item>
+        <item>همچنان %1$d فرصت در اختیار دارید</item>
+    </plurals>
+    <plurals name="oneplus_lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item>بعد از %d ثانیه امتحان کنید.</item>
+        <item>بعد از %d ثانیه امتحان کنید.</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item>%d مجوز اعطا شده</item>
+        <item>%d مجوز اعطا شده</item>
+    </plurals>
+    <plurals name="power_high_usage_summary">
+        <item>%2$d برنامه رفتار غیرعادی دارند</item>
+        <item>%2$d برنامه رفتار غیرعادی دارند</item>
+    </plurals>
+    <plurals name="power_high_usage_title">
+        <item>برنامه‌ها باتری را خالی می‌کنند</item>
+        <item>برنامه‌ها باتری را خالی می‌کنند</item>
+    </plurals>
+    <plurals name="print_jobs_summary">
+        <item>%1$d کار چاپی</item>
+        <item>%1$d کار چاپی</item>
+    </plurals>
+    <plurals name="print_settings_summary">
+        <item>%1$d سرویس چاپ روشن است</item>
+        <item>%1$d سرویس چاپ روشن است</item>
+    </plurals>
+    <plurals name="restricted_app_summary">
+        <item>‏محدود کردن مصرف باتری برای %1$d برنامه</item>
+        <item>‏محدود کردن مصرف باتری برای %1$d برنامه</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item>%d مجوز اضافی</item>
+        <item>%d مجوز اضافی</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item>‏%d از %d اجازه اعطا شد</item>
+        <item>‏%d از %d اجازه اعطا شد</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>‏%s ثانیه</item>
+        <item>‏%s ثانیه</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item>%1$d تنظیم اثر انگشت</item>
+        <item>%1$d تنظیم اثر انگشت</item>
+    </plurals>
+    <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item>‏نمایش %d مورد پنهان</item>
+        <item>‏نمایش %d مورد پنهان</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item>اکنون %1$d قدم با برنامه‌نویس شدن فاصله دارید.</item>
+        <item>اکنون %1$d قدم با برنامه‌نویس شدن فاصله دارید.</item>
+    </plurals>
+    <plurals name="show_number_hearingaid_count">
+        <item>%1$d سمعک ذخیره‌شده</item>
+        <item>%1$d سمعک ذخیره‌شده</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item>%d برنامه می‌تواند بدون‌محدودیت از داده استفاده کند</item>
+        <item>%d برنامه می‌تواند بدون‌محدودیت از داده استفاده کند</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item>اعتماد یا حذف گواهی</item>
+        <item>اعتماد یا حذف گواهی‌ها</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item>%s مرجع صدور گواهی‌ای برای نمایه کاری شما نصب کرده است که ممکن است به او اجازه دهد فعالیت‌های کاری شبکه، از جمله رایانامه‌ها، برنامه‌ها و وب‌سایت‌های ایمن را کنترل کند.\10\10برای کسب اطلاعات بیشتر درباره این گواهی‌ها، با سرپرستتان تماس بگیرید.</item>
+        <item>%s مرجع صدور گواهی‌ای برای نمایه کاری شما نصب کرده است که ممکن است به او اجازه دهد فعالیت‌های کاری شبکه، از جمله رایانامه‌ها، برنامه‌ها و وب‌سایت‌های ایمن را کنترل کند.\10\10برای کسب اطلاعات بیشتر درباره این گواهی‌ها، با سرپرستتان تماس بگیرید.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item>%s مرجع‌های صدور گواهی در دستگاهتان نصب کرده است که ممکن است به او اجازه دهند فعالیت‌های کاری دستگاه، از جمله رایانامه‌ها، برنامه‌ها و وب‌سایت‌های ایمن را کنترل کند.\10\10برای کسب اطلاعات بیشتر درباره این گواهی‌ها، با سرپرستتان تماس بگیرید.</item>
+        <item>%s مرجع‌های صدور گواهی در دستگاهتان نصب کرده است که ممکن است به او اجازه دهند فعالیت‌های کاری دستگاه، از جمله رایانامه‌ها، برنامه‌ها و وب‌سایت‌های ایمن را کنترل کند.\10\10برای کسب اطلاعات بیشتر درباره این گواهی‌ها، با سرپرستتان تماس بگیرید.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item>بررسی گواهی</item>
+        <item>بررسی گواهی‌ها</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_summary">
+        <item>+%1$d پیشنهاد</item>
+        <item>+%1$d پیشنهاد</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_title">
+        <item>%1$d پیشنهاد</item>
+        <item>%1$d پیشنهاد</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item>‏%d مورد</item>
+        <item>‏%d مورد</item>
+    </plurals>
+    <plurals name="wifi_saved_access_points_summary">
+        <item>‏%d شبکه</item>
+        <item>‏%d شبکه</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item>‏%1$d دستگاه متصل</item>
+        <item>‏%1$d دستگاه متصل</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item>کد پین سیم‌کارت اشتباه است، %d بار دیگر می‌توانید تلاش کنید.</item>
+        <item>کد پین سیم‌کارت اشتباه است، %d بار دیگر می‌توانید تلاش کنید.</item>
+    </plurals>
+    <plurals name="zen_mode_duration_summary_time_hours">
+        <item>%d ساعت (مگراینکه به‌صورت خودکار روشن شود)</item>
+        <item>%d ساعت (مگراینکه به‌صورت خودکار روشن شود)</item>
+    </plurals>
+    <plurals name="zen_mode_settings_summary_on">
+        <item>%d قانون</item>
+        <item>%d قانون</item>
+    </plurals>
+    <plurals name="zen_mode_sound_summary_summary_off_info">
+        <item>%d قانون می‌تواند به‌طور خودکار روشن شود</item>
+        <item>%d قانون می‌تواند به‌طور خودکار روشن شود</item>
+    </plurals>
+    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+        <item>%d نفر دیگر</item>
+        <item>%d نفر دیگر</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item>تغییر در هشدارها تنها به مدت %1$d ساعت تا %2$s</item>
+        <item>تغییر در هشدارها تنها به مدت %1$d ساعت تا %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item>تغییر در هشدارها تنها به مدت %1$d دقیقه (تا %2$s)</item>
+        <item>تغییر در هشدارها تنها به مدت %1$d دقیقه (تا %2$s)</item>
+    </plurals>
+</resources>

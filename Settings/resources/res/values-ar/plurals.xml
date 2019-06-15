@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item>قبل %d يوم</item>
+        <item>قبل %d يوم</item>
+        <item>قبل يومين (%d)</item>
+        <item>قبل %d أيام</item>
+        <item>قبل %d يومًا</item>
+        <item>قبل %d يوم</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item>قبل %d دقيقة</item>
+        <item>قبل %d دقيقة</item>
+        <item>قبل دقيقتين (%d)</item>
+        <item>قبل %d دقائق</item>
+        <item>قبل %d دقيقة</item>
+        <item>قبل %d دقيقة</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item>قبل %d سنة</item>
+        <item>قبل %d سنة</item>
+        <item>قبل سنتين (%d)</item>
+        <item>قبل %d سنوات</item>
+        <item>قبل %d سنة</item>
+        <item>قبل %d سنة</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item>مهلة قصيرة للغاية (%1$d مللي ثانية)</item>
+        <item>مهلة قصيرة للغاية (%1$d مللي ثانية)</item>
+        <item>مهلة قصيرة للغاية (%1$d مللي ثانية)</item>
+        <item>مهلة قصيرة للغاية (%1$d مللي ثانية)</item>
+        <item>مهلة قصيرة للغاية (%1$d مللي ثانية)</item>
+        <item>مهلة قصيرة للغاية (%1$d مللي ثانية)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item>مهلة طويلة (%1$d مللي ثانية)</item>
+        <item>مهلة طويلة (%1$d مللي ثانية)</item>
+        <item>مهلة طويلة (%1$d مللي ثانية)</item>
+        <item>مهلة طويلة (%1$d مللي ثانية)</item>
+        <item>مهلة طويلة (%1$d مللي ثانية)</item>
+        <item>مهلة طويلة (%1$d مللي ثانية)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item>مهلة قصيرة (%1$d مللي ثانية)</item>
+        <item>مهلة قصيرة (%1$d مللي ثانية)</item>
+        <item>مهلة قصيرة (%1$d مللي ثانية)</item>
+        <item>مهلة قصيرة (%1$d مللي ثانية)</item>
+        <item>مهلة قصيرة (%1$d مللي ثانية)</item>
+        <item>مهلة قصيرة (%1$d مللي ثانية)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item>مهلة طويلة جدًا (%1$d مللي ثانية)</item>
+        <item>مهلة طويلة جدًا (%1$d مللي ثانية)</item>
+        <item>مهلة طويلة جدًا (%1$d مللي ثانية)</item>
+        <item>مهلة طويلة جدًا (%1$d مللي ثانية)</item>
+        <item>مهلة طويلة جدًا (%1$d مللي ثانية)</item>
+        <item>مهلة طويلة جدًا (%1$d مللي ثانية)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item>مهلة قصيرة جدًا (%1$d مللي ثانية)</item>
+        <item>مهلة قصيرة جدًا (%1$d مللي ثانية)</item>
+        <item>مهلة قصيرة جدًا (%1$d مللي ثانية)</item>
+        <item>مهلة قصيرة جدًا (%1$d مللي ثانية)</item>
+        <item>مهلة قصيرة جدًا (%1$d مللي ثانية)</item>
+        <item>مهلة قصيرة جدًا (%1$d مللي ثانية)</item>
+    </plurals>
+    <plurals name="app_notification_listing_summary_others">
+        <item>إيقاف الإشعارات في %d تطبيق</item>
+        <item>إيقاف الإشعارات في %d تطبيق</item>
+        <item>إيقاف الإشعارات في تطبيقين (%d)</item>
+        <item>إيقاف الإشعارات في %d تطبيقات</item>
+        <item>إيقاف الإشعارات في %d تطبيقًا</item>
+        <item>إيقاف الإشعارات في %d تطبيق</item>
+    </plurals>
+    <plurals name="battery_manager_app_restricted">
+        <item>‏تم تقييد %1$d تطبيق</item>
+        <item>‏تم تقييد تطبيق واحد (%1$d)</item>
+        <item>‏تم تقييد تطبيقين (%1$d)</item>
+        <item>‏تم تقييد %1$d تطبيقات</item>
+        <item>‏تم تقييد %1$d تطبيقًا</item>
+        <item>‏تم تقييد %1$d تطبيق</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item>‏هل تريد تقييد %1$d تطبيق؟</item>
+        <item>هل تريد تقييد التطبيق؟</item>
+        <item>هل تريد تقييد تطبيقين؟</item>
+        <item>‏هل تريد تقييد %1$d تطبيقات؟</item>
+        <item>‏هل تريد تقييد %1$d تطبيقًا؟</item>
+        <item>‏هل تريد تقييد %1$d تطبيق؟</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_summary">
+        <item>يتعذّر تشغيل هذه التطبيقات في الخلفية.</item>
+        <item>يتعذّر تشغيل هذا التطبيق في الخلفية.</item>
+        <item>يتعذّر تشغيل هذين التطبيقين في الخلفية.</item>
+        <item>يتعذّر تشغيل هذه التطبيقات في الخلفية.</item>
+        <item>يتعذّر تشغيل هذه التطبيقات في الخلفية.</item>
+        <item>يتعذّر تشغيل هذه التطبيقات في الخلفية.</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_title">
+        <item>‏تم تقييد %2$d تطبيق مؤخرًا.</item>
+        <item>‏تم تقييد %1$s مؤخرًا.</item>
+        <item>‏تم تقييد تطبيقين (%2$d) مؤخرًا.</item>
+        <item>‏تم تقييد %2$d تطبيقات مؤخرًا.</item>
+        <item>‏تم تقييد %2$d تطبيقًا مؤخرًا.</item>
+        <item>‏تم تقييد %2$d تطبيق مؤخرًا.</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_summary">
+        <item>‏هناك %2$d تطبيق يستخدم البطارية في الخلفية بدرجة عالية</item>
+        <item>‏يستخدم تطبيق %1$s البطارية في الخلفية بدرجة عالية</item>
+        <item>‏هناك تطبيقان (%2$d) يستخدمان البطارية في الخلفية بدرجة عالية</item>
+        <item>‏هناك %2$d تطبيقات تستخدم البطارية في الخلفية بدرجة عالية</item>
+        <item>‏هناك %2$d تطبيقًا يستخدم البطارية في الخلفية بدرجة عالية</item>
+        <item>‏هناك %2$d تطبيق يستخدم البطارية في الخلفية بدرجة عالية</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_title">
+        <item>‏تقييد %1$d تطبيق</item>
+        <item>‏تقييد %1$d تطبيق</item>
+        <item>تقييد تطبيقين</item>
+        <item>‏تقييد %1$d تطبيقات</item>
+        <item>‏تقييد %1$d تطبيقًا</item>
+        <item>‏تقييد %1$d تطبيق</item>
+    </plurals>
+    <plurals name="billing_cycle_days_left">
+        <item>‏يتبقى %d يوم</item>
+        <item>‏يتبقى يوم واحد (%d)</item>
+        <item>‏يتبقى يومان (%d)</item>
+        <item>‏تتبقى %d أيام</item>
+        <item>‏يتبقى %d يومًا</item>
+        <item>‏يتبقى %d يوم</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item>هناك %1$d تطبيق مسموح له باستخدام البيانات بدون قيود عند تشغيل توفير البيانات</item>
+        <item>هناك تطبيق واحد مسموح له باستخدام البيانات بدون قيود عند تشغيل توفير البيانات</item>
+        <item>هناك تطبيقان (%1$d) مسموح لهما باستخدام البيانات بدون قيود عند تشغيل توفير البيانات</item>
+        <item>هناك %1$d تطبيقات مسموح لها باستخدام البيانات بدون قيود عند تشغيل توفير البيانات</item>
+        <item>هناك %1$d تطبيقًا مسموح لها باستخدام البيانات بدون قيود عند تشغيل توفير البيانات</item>
+        <item>هناك %1$d تطبيق مسموح له باستخدام البيانات بدون قيود عند تشغيل توفير البيانات</item>
+    </plurals>
+    <plurals name="default_camera_app_title">
+        <item>تطبيقات للكاميرا</item>
+        <item>تطبيق واحد للكاميرا</item>
+        <item>تطبيقان للكاميرا</item>
+        <item>تطبيقات للكاميرا</item>
+        <item>تطبيقات للكاميرا</item>
+        <item>تطبيقات للكاميرا</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item>تطبيقات برنامج بريد إلكتروني</item>
+        <item>تطبيق برنامج بريد إلكتروني</item>
+        <item>تطبيقان لبرنامج بريد إلكتروني</item>
+        <item>تطبيقات برنامج بريد إلكتروني</item>
+        <item>تطبيقات برنامج بريد إلكتروني</item>
+        <item>تطبيقات برنامج بريد إلكتروني</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item>تطبيقات الهاتف</item>
+        <item>تطبيق الهاتف</item>
+        <item>تطبيقان للهاتف</item>
+        <item>تطبيقات الهاتف</item>
+        <item>تطبيقات الهاتف</item>
+        <item>تطبيقات الهاتف</item>
+    </plurals>
+    <plurals name="deleted_channels">
+        <item>تم حذف %d فئة</item>
+        <item>تم حذف فئة واحدة (%d)</item>
+        <item>تم حذف فئتين (%d)</item>
+        <item>تم حذف %d فئات</item>
+        <item>تم حذف %d فئة</item>
+        <item>تم حذف %d فئة</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item>هل تريد إزالة اللغة المحددة؟</item>
+        <item>هل تريد إزالة اللغة المحددة؟</item>
+        <item>هل تريد إزالة اللغتين المحددتين؟</item>
+        <item>هل تريد إزالة اللغات المحددة؟</item>
+        <item>هل تريد إزالة اللغات المحددة؟</item>
+        <item>هل تريد إزالة اللغات المحددة؟</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary_on">
+        <item>%d تطبيق يفتح الروابط المتوافقة</item>
+        <item>تطبيق واحد يفتح الروابط المتوافقة</item>
+        <item>تطبيقان (%d) يفتحان الروابط المتوافقة</item>
+        <item>%d تطبيقات تفتح الروابط المتوافقة</item>
+        <item>%d تطبيقًا يفتح الروابط المتوافقة</item>
+        <item>%d تطبيق يفتح الروابط المتوافقة</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_ca_certs">
+        <item>‏%d شهادة CA كحد أدنى</item>
+        <item>‏شهادة CA واحدة (%d) كحد أدنى</item>
+        <item>‏شهادتا CA (%d) كحد أدنى</item>
+        <item>‏%d شهادات CA كحد أدنى</item>
+        <item>‏%d شهادة CA كحد أدنى</item>
+        <item>‏%d شهادة CA كحد أدنى</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item>%d محاولة</item>
+        <item>%d محاولة</item>
+        <item>محاولتان (%d)</item>
+        <item>%d محاولات</item>
+        <item>%d محاولة</item>
+        <item>%d محاولة</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item>%d تطبيق</item>
+        <item>%d تطبيق</item>
+        <item>تطبيقان (%d)</item>
+        <item>%d تطبيقات</item>
+        <item>%d تطبيقًا</item>
+        <item>%d تطبيق</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item>%d تطبيق كحد أدنى</item>
+        <item>تطبيق واحد (%d) كحد أدنى</item>
+        <item>تطبيقان (%d) كحد أدنى</item>
+        <item>%d تطبيقات كحد أدنى</item>
+        <item>%d تطبيقًا كحد أدنى</item>
+        <item>%d تطبيق كحد أدنى</item>
+    </plurals>
+    <plurals name="hours">
+        <item>%s ساعات</item>
+        <item>ساعة واحدة</item>
+        <item>ساعتان (%s)</item>
+        <item>%s ساعات</item>
+        <item>%s ساعة</item>
+        <item>%s ساعة</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item>يجب أن تحتوي كلمة المرور على %d حرف على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على حرف واحد على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على حرفين (%d) على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على %d أحرف على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على %d حرفًا على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على %d حرف على الأقل</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item>يجب أن تحتوي كلمة المرور على %d حرف صغير على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على حرف صغير واحد على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على حرفين صغيرين (%d) على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على %d أحرف صغيرة على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على %d حرفًا صغيرًا على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على %d حرف صغير على الأقل</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item>يجب أن تحتوي كلمة المرور على %d حرف ليس من الأحرف الأبجدية على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على حرف واحد ليس من الأحرف الأبجدية على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على حرفين (%d) ليسا من الأحرف الأبجدية على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على %d أحرف ليست من الأحرف الأبجدية على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على %d حرفًا ليس من الأحرف الأبجدية على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على %d حرف ليس من الأحرف الأبجدية على الأقل</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item>يجب أن تحتوي كلمة المرور على %d رقم عددي على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على رقم عددي واحد على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على رقمين عددين (%d) على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على %d أرقام عددية على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على %d رقمًا عدديًا على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على %d رقم عددي على الأقل</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item>يجب أن تحتوي كلمة المرور على %d رمز خاص على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على رمز خاص واحد على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على رمزين خاصين (%d) على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على %d رموز خاصة على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على %d رمزًا خاصًا على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على %d رمز خاص على الأقل</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item>يجب أن تحتوي كلمة المرور على %d حرف كبير على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على حرف كبير واحد على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على حرفين كبيرين (%d) على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على %d أحرف كبيرة على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على %d حرفًا كبيرًا على الأقل</item>
+        <item>يجب أن تحتوي كلمة المرور على %d حرف كبير على الأقل</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item>‏لا يمكن قراءة الإشعارات بواسطة أي تطبيق (%d)</item>
+        <item>‏يمكن قراءة الإشعارات بواسطة تطبيق واحد (%d)</item>
+        <item>‏يمكن قراءة الإشعارات بواسطة تطبيقين (%d)</item>
+        <item>‏يمكن قراءة الإشعارات بواسطة %d تطبيقات</item>
+        <item>‏يمكن قراءة الإشعارات بواسطة %d تطبيقًا</item>
+        <item>‏يمكن قراءة الإشعارات بواسطة %d من التطبيقات</item>
+    </plurals>
+    <plurals name="manage_trust_agents_summary_on">
+        <item>%d خدمة ناشطة لمنح الثقة</item>
+        <item>خدمة واحدة ناشطة لمنح الثقة</item>
+        <item>خدمتان (%d) ناشتطان لمنح الثقة</item>
+        <item>%d خدمات ناشطة لمنح الثقة</item>
+        <item>%d خدمة ناشطة لمنح الثقة</item>
+        <item>%d خدمة ناشطة لمنح الثقة</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item>استخدمت %1$d من التطبيقات الذاكرة في آخر %2$s</item>
+        <item>استخدم تطبيق واحد الذاكرة في آخر %2$s</item>
+        <item>استخدم تطبيقان (%1$d) الذاكرة في آخر %2$s</item>
+        <item>استخدمت %1$d تطبيقات الذاكرة في آخر %2$s</item>
+        <item>استخدم %1$d تطبيقًا الذاكرة في آخر %2$s</item>
+        <item>استخدمت %1$d من التطبيقات الذاكرة في آخر %2$s</item>
+    </plurals>
+    <plurals name="minutes">
+        <item>%s دقائق</item>
+        <item>دقيقة واحدة</item>
+        <item>دقيقتان (%s)</item>
+        <item>%s دقائق</item>
+        <item>%s دقيقة</item>
+        <item>%s دقيقة</item>
+    </plurals>
+    <plurals name="network_restrictions_summary">
+        <item>%1$d قيد</item>
+        <item>قيد واحد</item>
+        <item>قيدان (%1$d)</item>
+        <item>%1$d قيود</item>
+        <item>%1$d قيدًا</item>
+        <item>%1$d قيد</item>
+    </plurals>
+    <plurals name="notification_group_summary">
+        <item>%d فئة</item>
+        <item>فئة واحدة (%d)</item>
+        <item>فئتان (%d)</item>
+        <item>%d فئات</item>
+        <item>%d فئة</item>
+        <item>%d فئة</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item>إيقاف الإشعارات في %d تطبيق</item>
+        <item>إيقاف الإشعارات في تطبيق واحد</item>
+        <item>إيقاف الإشعارات في تطبيقين (%d)</item>
+        <item>إيقاف الإشعارات في %d تطبيقات</item>
+        <item>إيقاف الإشعارات في %d تطبيقًا</item>
+        <item>إيقاف الإشعارات في %d تطبيق</item>
+    </plurals>
+    <plurals name="notifications_categories_off">
+        <item>تم إيقاف %d فئة</item>
+        <item>تم إيقاف %d فئة</item>
+        <item>تم إيقاف فئتين (%d)</item>
+        <item>تم إيقاف %d فئات</item>
+        <item>تم إيقاف %d فئة</item>
+        <item>تم إيقاف %d فئة</item>
+    </plurals>
+    <plurals name="number_of_device_admins">
+        <item>%d تطبيق نشط</item>
+        <item>%d تطبيق نشط</item>
+        <item>تطبيقان نشطان (%d)</item>
+        <item>%d تطبيقات نشطة</item>
+        <item>%d تطبيقًا نشطًا</item>
+        <item>%d تطبيق نشط</item>
+    </plurals>
+    <plurals name="oneplus_applock_wrong_pattern_warning">
+        <item>لا يزال لديك %1$d من الفرص</item>
+        <item>لا يزال لديك %1$d من الفرص</item>
+        <item>لا يزال لديك %1$d من الفرص</item>
+        <item>لا يزال لديك %1$d من الفرص</item>
+        <item>لا يزال لديك %1$d من الفرص</item>
+        <item>لا يزال لديك %1$d من الفرص</item>
+    </plurals>
+    <plurals name="oneplus_lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item>حاول مرة أخرى في غضون %d ثانية (ثواني).</item>
+        <item>حاول مرة أخرى في غضون %d ثانية (ثواني).</item>
+        <item>حاول مرة أخرى في غضون %d ثانية (ثواني).</item>
+        <item>حاول مرة أخرى في غضون %d ثانية (ثواني).</item>
+        <item>حاول مرة أخرى في غضون %d ثانية (ثواني).</item>
+        <item>حاول مرة أخرى في غضون %d ثانية (ثواني).</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item>تم منح %d من الأذونات</item>
+        <item>تم منح %d إذن</item>
+        <item>تم منح إذنين (%d)</item>
+        <item>تم منح %d أذونات</item>
+        <item>تم منح %d إذنًا</item>
+        <item>تم منح %d من الأذونات</item>
+    </plurals>
+    <plurals name="power_high_usage_summary">
+        <item>يعمل %2$d تطبيق بشكل غير طبيعي</item>
+        <item>يعمل تطبيق واحد (%1$s) بشكل غير طبيعي</item>
+        <item>يعمل تطبيقان (%2$d) بشكل غير طبيعي</item>
+        <item>تعمل %2$d تطبيقات بشكل غير طبيعي</item>
+        <item>يعمل %2$d تطبيقًا بشكل غير طبيعي</item>
+        <item>يعمل %2$d تطبيق بشكل غير طبيعي</item>
+    </plurals>
+    <plurals name="power_high_usage_title">
+        <item>تطبيقات تستنفد شحن البطارية</item>
+        <item>تطبيق واحد (%1$s) يستنفد شحن البطارية</item>
+        <item>تطبيقان يستنفدان شحن البطارية</item>
+        <item>تطبيقات تستنفد شحن البطارية</item>
+        <item>تطبيقات تستنفد شحن البطارية</item>
+        <item>تطبيقات تستنفد شحن البطارية</item>
+    </plurals>
+    <plurals name="print_jobs_summary">
+        <item>%1$d مهمة طباعة</item>
+        <item>مهمة طباعة واحدة</item>
+        <item>مهمتان (%1$d) للطباعة</item>
+        <item>%1$d مهمات طباعة</item>
+        <item>%1$d مهمة طباعة</item>
+        <item>%1$d مهمة طباعة</item>
+    </plurals>
+    <plurals name="print_settings_summary">
+        <item>تم تشغيل %1$d خدمة طباعة</item>
+        <item>تم تشغيل خدمة طباعة واحدة</item>
+        <item>تم تشغيل خدمتي طباعة (%1$d)</item>
+        <item>تم تشغيل %1$d خدمات طباعة</item>
+        <item>تم تشغيل %1$d خدمة طباعة</item>
+        <item>تم تشغيل %1$d خدمة طباعة</item>
+    </plurals>
+    <plurals name="restricted_app_summary">
+        <item>‏تقييد استخدام شحن البطارية لـ %1$d تطبيق</item>
+        <item>تقييد استخدام شحن البطارية لتطبيق واحد</item>
+        <item>تقييد استخدام شحن البطارية لتطبيقين</item>
+        <item>‏تقييد استخدام شحن البطارية لـ %1$d تطبيقات</item>
+        <item>‏تقييد استخدام شحن البطارية لـ %1$d تطبيقًا</item>
+        <item>‏تقييد استخدام شحن البطارية لـ %1$d تطبيق</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item>%d من الأذونات الإضافية</item>
+        <item>%d إذن إضافي</item>
+        <item>إذنان إضافيان (%d)</item>
+        <item>%d أذونات إضافية</item>
+        <item>%d إذنًا إضافيًا</item>
+        <item>%d من الأذونات الإضافية</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item>تم منح %d من %d من الأذونات</item>
+        <item>تم منح %d من %d إذن</item>
+        <item>تم منح %d من %d من الأذونات</item>
+        <item>تم منح %d من %d من الأذونات</item>
+        <item>تم منح %d من %d من الأذونات</item>
+        <item>تم منح %d من %d من الأذونات</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>%s ثانية</item>
+        <item>ثانية واحدة</item>
+        <item>ثانيتان (%s)</item>
+        <item>%s ثوانٍ</item>
+        <item>%s ثانية</item>
+        <item>%s ثانية</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item>عدم إعداد أي بصمة إصبع (%1$d)</item>
+        <item>تم إعداد بصمة إصبع واحدة (1( (%1$d)</item>
+        <item>تم إعداد بصمتي إصبع (%1$d)</item>
+        <item>تم إعداد %1$d بصمات إصبع</item>
+        <item>تم إعداد %1$d بصمة إصبع</item>
+        <item>تم إعداد %1$d من بصمات الإصبع</item>
+    </plurals>
+    <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item>‏عرض %d عنصر مخفي</item>
+        <item>‏عرض %d عنصر مخفي</item>
+        <item>‏عرض عنصرين (%d) مخفيين</item>
+        <item>‏عرض %d عناصر مخفية</item>
+        <item>‏عرض %d عنصرًا مخفيًّا</item>
+        <item>‏عرض %d عنصر مخفي</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item>لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج أي خطوة (%1$d).</item>
+        <item>لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى خطوة واحدة (%1$d).</item>
+        <item>لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى خطوتين (%1$d).</item>
+        <item>لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى %1$d خطوات.</item>
+        <item>لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى %1$d خطوة.</item>
+        <item>لا يفصلك الآن عن الوصول إلى مرحلة مطوري البرامج سوى %1$d من الخطوات.</item>
+    </plurals>
+    <plurals name="show_number_hearingaid_count">
+        <item>تم حفظ %1$d سماعة أذن طبية</item>
+        <item>تم حفظ %1$d سماعة أذن طبية</item>
+        <item>تم حفظ سماعتي أذن طبيتين (%1$d)</item>
+        <item>تم حفظ %1$d سماعات أذن طبية</item>
+        <item>تم حفظ %1$d سماعة أذن طبية</item>
+        <item>تم حفظ %1$d سماعة أذن طبية</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item>يمكن لـ %d تطبيق استخدام البيانات غير المقيدة</item>
+        <item>يمكن لتطبيق واحد استخدام البيانات غير المقيدة</item>
+        <item>يمكن لتطبيقين (%d) استخدام البيانات غير المقيدة</item>
+        <item>يمكن لـ %d تطبيقات استخدام البيانات غير المقيدة</item>
+        <item>يمكن لـ %d تطبيقًا استخدام البيانات غير المقيدة</item>
+        <item>يمكن لـ %d تطبيق استخدام البيانات غير المقيدة</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item>الثقة أو إزالة الشهادة</item>
+        <item>الثقة أو إزالة الشهادة</item>
+        <item>الثقة أو إزالة الشهادتين</item>
+        <item>الثقة أو إزالة الشهادات</item>
+        <item>الثقة أو إزالة الشهادات</item>
+        <item>الثقة أو إزالة الشهادات</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item>تم بواسطة %s تثبيت شهادات مرجعية لملفك الشخصي للعمل، وهذا قد يسمح بمراقبة أنشطة شبكة العمل، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.\10\10للحصول على مزيد من المعلومات حول هذه الشهادات، يمكنك الاتصال بالمشرف.</item>
+        <item>تم بواسطة %s تثبيت شهادة مرجعية لملفك الشخصي للعمل، وهذا قد يسمح بمراقبة أنشطة شبكة العمل، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.\10\10للحصول على مزيد من المعلومات حول هذه الشهادة، يمكنك الاتصال بالمشرف.</item>
+        <item>تم بواسطة %s تثبيت شهادتين مرجعيتين لملفك الشخصي للعمل، وهذا قد يسمح بمراقبة أنشطة شبكة العمل، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.\10\10للحصول على مزيد من المعلومات حول هذه الشهادات، يمكنك الاتصال بالمشرف.</item>
+        <item>تم بواسطة %s تثبيت شهادات مرجعية لملفك الشخصي للعمل، وهذا قد يسمح بمراقبة أنشطة شبكة العمل، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.\10\10للحصول على مزيد من المعلومات حول هذه الشهادات، يمكنك الاتصال بالمشرف.</item>
+        <item>تم بواسطة %s تثبيت شهادات مرجعية لملفك الشخصي للعمل، وهذا قد يسمح بمراقبة أنشطة شبكة العمل، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.\10\10للحصول على مزيد من المعلومات حول هذه الشهادات، يمكنك الاتصال بالمشرف.</item>
+        <item>تم بواسطة %s تثبيت شهادات مرجعية لملفك الشخصي للعمل، وهذا قد يسمح بمراقبة أنشطة شبكة العمل، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.\10\10للحصول على مزيد من المعلومات حول هذه الشهادات، يمكنك الاتصال بالمشرف.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item>تم بواسطة %s تثبيت شهادات مرجعية على جهازك، مما يسمح بمراقبة أنشطة الشبكة على جهازك، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.\10\10للحصول على مزيد من المعلومات حول هذه الشهادات، يمكنك الاتصال بالمشرف.</item>
+        <item>تم بواسطة %s تثبيت شهادة مرجعية على جهازك، مما يسمح بمراقبة أنشطة الشبكة على جهازك، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.\10\10للحصول على مزيد من المعلومات حول هذه الشهادة، يمكنك الاتصال بالمشرف.</item>
+        <item>تم بواسطة %s تثبيت شهادتين مرجعيتين على جهازك، مما يسمح بمراقبة أنشطة الشبكة على جهازك، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.\10\10للحصول على مزيد من المعلومات حول هذه الشهادات، يمكنك الاتصال بالمشرف.</item>
+        <item>تم بواسطة %s تثبيت شهادات مرجعية على جهازك، مما يسمح بمراقبة أنشطة الشبكة على جهازك، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.\10\10للحصول على مزيد من المعلومات حول هذه الشهادات، يمكنك الاتصال بالمشرف.</item>
+        <item>تم بواسطة %s تثبيت شهادات مرجعية على جهازك، مما يسمح بمراقبة أنشطة الشبكة على جهازك، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.\10\10للحصول على مزيد من المعلومات حول هذه الشهادات، يمكنك الاتصال بالمشرف.</item>
+        <item>تم بواسطة %s تثبيت شهادات مرجعية على جهازك، مما يسمح بمراقبة أنشطة الشبكة على جهازك، بما في ذلك الرسائل الإلكترونية والتطبيقات ومواقع الويب الآمنة.\10\10للحصول على مزيد من المعلومات حول هذه الشهادات، يمكنك الاتصال بالمشرف.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item>الاطّلاع على الشهادات</item>
+        <item>الاطّلاع على الشهادة</item>
+        <item>الاطّلاع على الشهادتين</item>
+        <item>الاطّلاع على الشهادات</item>
+        <item>الاطّلاع على الشهادات</item>
+        <item>الاطّلاع على الشهادات</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_summary">
+        <item>و%1$d اقتراح آخر</item>
+        <item>واقتراح واحد آخر</item>
+        <item>واقتراحان (%1$d) آخران</item>
+        <item>و%1$d اقتراحات أخرى</item>
+        <item>و%1$d اقتراحًا آخر</item>
+        <item>و%1$d اقتراح آخر</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_title">
+        <item>%1$d اقتراح</item>
+        <item>اقتراح واحد</item>
+        <item>اقتراحان (%1$d)</item>
+        <item>%1$d اقتراحات</item>
+        <item>%1$d اقتراحًا</item>
+        <item>%1$d اقتراح</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item>‏%d عنصر</item>
+        <item>عنصر واحد</item>
+        <item>‏عنصران (%d)</item>
+        <item>‏%d عناصر</item>
+        <item>‏%d عنصرًا</item>
+        <item>‏%d عنصر</item>
+    </plurals>
+    <plurals name="wifi_saved_access_points_summary">
+        <item>‏%d شبكة</item>
+        <item>شبكة واحدة</item>
+        <item>‏شبكتان (%d)</item>
+        <item>‏%d شبكات</item>
+        <item>‏%d شبكة</item>
+        <item>‏%d شبكة</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item>‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item>‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item>‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item>‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item>‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item>‏عدد الأجهزة المتصلة ‎%1$d</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item>‏رمز رقم التعريف الشخصي لبطاقة SIM غير صحيح، ولم يتبق لديك أي محاولات (%d).</item>
+        <item>‏رمزPIN لبطاقة SIM غير صحيح، ولديك محاولة واحدة (%d) يجب أن تتصل بعدها بمشغّل شبكة الجوّال لإلغاء قفل الجهاز.</item>
+        <item>‏رمز رقم التعريف الشخصي لبطاقة SIM غير صحيح، ويتبقى لديك محاولتان (%d).</item>
+        <item>‏رمز رقم التعريف الشخصي لبطاقة SIM غير صحيح، ويتبقى لديك %d محاولات.</item>
+        <item>‏رمز رقم التعريف الشخصي لبطاقة SIM غير صحيح، ويتبقى لديك %d محاولة.</item>
+        <item>‏رمز رقم التعريف الشخصي لبطاقة SIM غير صحيح، ويتبقى لديك %d من المحاولات.</item>
+    </plurals>
+    <plurals name="zen_mode_duration_summary_time_hours">
+        <item>%d ساعة (ما لم يتم تفعيل الحالة تلقائيًا)</item>
+        <item>ساعة واحدة (ما لم يتم تفعيل الحالة تلقائيًا)</item>
+        <item>ساعتان (%d) (ما لم يتم تفعيل الحالة تلقائيًا)</item>
+        <item>%d ساعات (ما لم يتم تفعيل الحالة تلقائيًا)</item>
+        <item>%d ساعة (ما لم يتم تفعيل الحالة تلقائيًا)</item>
+        <item>%d ساعة (ما لم يتم تفعيل الحالة تلقائيًا)</item>
+    </plurals>
+    <plurals name="zen_mode_settings_summary_on">
+        <item>%d قاعدة</item>
+        <item>قاعدة واحدة</item>
+        <item>قاعدتان (%d)</item>
+        <item>%d قواعد</item>
+        <item>%d قاعدة</item>
+        <item>%d قاعدة</item>
+    </plurals>
+    <plurals name="zen_mode_sound_summary_summary_off_info">
+        <item>يمكن تشغيل %d قاعدة تلقائيًا.</item>
+        <item>يمكن تشغيل قاعدة واحدة تلقائيًا.</item>
+        <item>يمكن تشغيل قاعدتين (%d) تلقائيًا.</item>
+        <item>يمكن تشغيل %d قواعد تلقائيًا.</item>
+        <item>يمكن تشغيل %d قاعدة تلقائيًا.</item>
+        <item>يمكن تشغيل %d قاعدة تلقائيًا.</item>
+    </plurals>
+    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+        <item>%d شخص آخر</item>
+        <item>شخص واحد آخر</item>
+        <item>شخصان (%d) آخران</item>
+        <item>%d أشخاص آخرين</item>
+        <item>%d شخصًا آخر</item>
+        <item>%d شخص آخر</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item>تغيير إلى تنبيهات فقط لمدة %1$d من الساعات حتى %2$s</item>
+        <item>تغيير إلى تنبيهات فقط لمدة ساعة واحدة حتى %2$s</item>
+        <item>تغيير إلى تنبيهات فقط لمدة ساعتين (%1$d) حتى %2$s</item>
+        <item>تغيير إلى تنبيهات فقط لمدة %1$d ساعات حتى %2$s</item>
+        <item>تغيير إلى تنبيهات فقط لمدة %1$d ساعة حتى %2$s</item>
+        <item>تغيير إلى تنبيهات فقط لمدة %1$d من الساعات حتى %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item>تغيير إلى تنبيهات فقط لمدة %1$d من الدقائق (حتى %2$s)</item>
+        <item>تغيير إلى تنبيهات فقط لمدة دقيقة واحدة حتى %2$s</item>
+        <item>تغيير إلى تنبيهات فقط لمدة دقيقتين (%1$d) (حتى %2$s)</item>
+        <item>تغيير إلى تنبيهات فقط لمدة %1$d دقائق (حتى %2$s)</item>
+        <item>تغيير إلى تنبيهات فقط لمدة %1$d دقيقة (حتى %2$s)</item>
+        <item>تغيير إلى تنبيهات فقط لمدة %1$d من الدقائق (حتى %2$s)</item>
+    </plurals>
+</resources>

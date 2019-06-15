@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:settings="http://schemas.android.com/apk/res/com.android.settings" xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:title="@string/about_settings" android:key="about_settings" app:keywords="@string/oneplus_search_keyword_about_settings">
+    <com.android.settings.applications.LayoutPreference android:layout="@layout/op_about_phone_hareware_layout" android:selectable="false" android:key="hardware_view" app:allowDividerBelow="true"/>
+    <com.android.settings.applications.LayoutPreference android:layout="@layout/op_about_phone_software_layout" android:selectable="false" android:key="soft_view_1"/>
+    <com.oneplus.settings.aboutphone.OPAboutPhoneDivider android:key="preference_divider_line_1"/>
+    <com.android.settings.applications.LayoutPreference android:layout="@layout/op_about_phone_software_layout" android:selectable="false" android:key="soft_view_2"/>
+    <com.oneplus.settings.aboutphone.OPAboutPhoneDivider android:key="preference_divider_line_2"/>
+    <com.android.settings.applications.LayoutPreference android:layout="@layout/op_about_phone_software_layout" android:selectable="false" android:key="soft_view_3"/>
+    <com.oneplus.settings.aboutphone.OPAboutPhoneDivider android:key="preference_divider_line_3"/>
+    <com.android.settings.applications.LayoutPreference android:layout="@layout/op_about_phone_software_layout" android:selectable="false" android:key="soft_view_4"/>
+    <com.oneplus.settings.aboutphone.OPAboutPhoneDivider android:key="preference_divider_line_4"/>
+    <com.android.settings.applications.LayoutPreference android:layout="@layout/op_about_phone_software_layout" android:selectable="false" android:key="soft_view_5"/>
+</PreferenceScreen>

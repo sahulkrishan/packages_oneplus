@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item>Retard molt breu (%1$d ms)</item>
+        <item>Retard molt breu (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item>Retard llarg (%1$d ms)</item>
+        <item>Retard llarg (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item>Retard breu (%1$d ms)</item>
+        <item>Retard breu (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item>Retard molt llarg (%1$d ms)</item>
+        <item>Retard molt llarg (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item>Retard molt breu (%1$d ms)</item>
+        <item>Retard molt breu (%1$d ms)</item>
+    </plurals>
+    <plurals name="app_notification_listing_summary_others">
+        <item>Desactivades per a %d aplicació</item>
+        <item>Desactivades per a %d aplicacions</item>
+    </plurals>
+    <plurals name="battery_manager_app_restricted">
+        <item>S&apos;ha restringit %1$d aplicació</item>
+        <item>S&apos;han restringit %1$d aplicacions</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item>Vols restringir l&apos;aplicació?</item>
+        <item>Vols restringir %1$d aplicacions?</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_summary">
+        <item>Aquesta aplicació no es pot executar en segon pla</item>
+        <item>Aquestes aplicacions no es poden executar en segon pla</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_title">
+        <item>Recentment s&apos;ha restringit %1$s aplicació</item>
+        <item>Recentment s&apos;han restringit %2$d aplicacions</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_summary">
+        <item>%1$s aplicació consumeix molta bateria en segon pla</item>
+        <item>%2$d aplicacions consumeixen molta bateria en segon pla</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_title">
+        <item>Restringeix %1$d aplicació</item>
+        <item>Restringeix %1$d aplicacions</item>
+    </plurals>
+    <plurals name="billing_cycle_days_left">
+        <item>Queda %d dia</item>
+        <item>Queden %d dies</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item>1 aplicació pot utilitzar dades sense restricció quan l&apos;Economitzador de dades està activat</item>
+        <item>%1$d aplicacions poden utilitzar dades sense restricció quan l&apos;Economitzador de dades està activat</item>
+    </plurals>
+    <plurals name="default_camera_app_title">
+        <item>Aplicació de càmera</item>
+        <item>Aplicacions de càmera</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item>Aplicació client de correu</item>
+        <item>Aplicacions client de correu</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item>Aplicació de telèfon</item>
+        <item>Aplicacions de telèfon</item>
+    </plurals>
+    <plurals name="deleted_channels">
+        <item>%d categoria suprimida</item>
+        <item>%d categories suprimides</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item>Vols suprimir l&apos;idioma seleccionat?</item>
+        <item>Vols suprimir els idiomes seleccionats?</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary_on">
+        <item>1 aplicació que permet obrir enllaços compatibles</item>
+        <item>%d aplicacions que permeten obrir enllaços compatibles</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_ca_certs">
+        <item>%d certificat de CA com a mínim</item>
+        <item>%d certificats de CA com a mínim</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item>%d intent</item>
+        <item>%d intents</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item>%d aplicació</item>
+        <item>%d aplicacions</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item>%d aplicació com a mínim</item>
+        <item>%d aplicacions com a mínim</item>
+    </plurals>
+    <plurals name="hours">
+        <item>1 hora</item>
+        <item>%s hores</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item>Ha de contenir com a mínim 1 lletra</item>
+        <item>Ha de contenir com a mínim %d lletres</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item>Ha de contenir com a mínim 1 lletra minúscula</item>
+        <item>Ha de contenir com a mínim %d lletres minúscules</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item>Ha de contenir com a mínim 1 caràcter que no sigui una lletra</item>
+        <item>Ha de contenir com a mínim %d caràcters que no siguin lletres</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item>Ha de contenir com a mínim 1 dígit</item>
+        <item>Ha de contenir com a mínim %d dígits</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item>Ha de contenir com a mínim 1 símbol especial</item>
+        <item>Ha de contenir com a mínim %d símbols especials</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item>Ha de contenir com a mínim 1 lletra majúscula</item>
+        <item>Ha de contenir com a mínim %d lletres majúscules</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item>%d aplicació pot llegir notificacions</item>
+        <item>%d aplicacions poden llegir notificacions</item>
+    </plurals>
+    <plurals name="manage_trust_agents_summary_on">
+        <item>1 agent de confiança actiu</item>
+        <item>%d agents de confiança actius</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item>1 aplicació ha utilitzat memòria durant les últimes %2$s</item>
+        <item>%1$d aplicacions han utilitzat memòria durant les últimes %2$s</item>
+    </plurals>
+    <plurals name="minutes">
+        <item>1 minut</item>
+        <item>%s minuts</item>
+    </plurals>
+    <plurals name="network_restrictions_summary">
+        <item>1 restricció</item>
+        <item>%1$d restriccions</item>
+    </plurals>
+    <plurals name="notification_group_summary">
+        <item>%d categoria</item>
+        <item>%d categories</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item>Desactivades per a 1 aplicació</item>
+        <item>Desactivades per a %d aplicacions</item>
+    </plurals>
+    <plurals name="notifications_categories_off">
+        <item>S&apos;ha desactivat %d categoria</item>
+        <item>S&apos;han desactivat %d categories</item>
+    </plurals>
+    <plurals name="number_of_device_admins">
+        <item>%d aplicació activa</item>
+        <item>%d aplicacions actives</item>
+    </plurals>
+    <plurals name="oneplus_applock_wrong_pattern_warning">
+        <item>Encara teniu %1$d oportunitat</item>
+        <item>Encara teniu %1$d oportunitats</item>
+    </plurals>
+    <plurals name="oneplus_lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item>Torneu-ho a provar d&apos;aquí %d segon.</item>
+        <item>Torneu-ho a provar d&apos;aquí %d segons.</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item>%d permís concedit</item>
+        <item>%d permisos concedits</item>
+    </plurals>
+    <plurals name="power_high_usage_summary">
+        <item>%1$s s&apos;està comportant de manera anòmala</item>
+        <item>%2$d aplicacions s&apos;estan comportant de manera anòmala</item>
+    </plurals>
+    <plurals name="power_high_usage_title">
+        <item>%1$s consumeix molta bateria</item>
+        <item>Hi ha aplicacions que consumeixen molta bateria</item>
+    </plurals>
+    <plurals name="print_jobs_summary">
+        <item>1 tasca d&apos;impressió</item>
+        <item>%1$d tasques d&apos;impressió</item>
+    </plurals>
+    <plurals name="print_settings_summary">
+        <item>1 servei d&apos;impressió activat</item>
+        <item>%1$d serveis d&apos;impressió activats</item>
+    </plurals>
+    <plurals name="restricted_app_summary">
+        <item>S&apos;ha limitat el consum de la bateria per a %1$d aplicació</item>
+        <item>S&apos;ha limitat el consum de la bateria per a %1$d aplicacions</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item>%d permís addicional</item>
+        <item>%d permisos addicionals</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item>%d permís de %d concedit</item>
+        <item>%d permisos de %d concedits</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>1 segon</item>
+        <item>%s segons</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item>%1$d empremta digital configurada</item>
+        <item>%1$d empremtes digitals configurades</item>
+    </plurals>
+    <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item>Mostra %d element amagat</item>
+        <item>Mostra %d elements amagats</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item>Ara només et queda %1$d pas per convertir-te en desenvolupador.</item>
+        <item>Ara només et queden %1$d passos per convertir-te en desenvolupador.</item>
+    </plurals>
+    <plurals name="show_number_hearingaid_count">
+        <item>S&apos;ha desat %1$d audiòfon</item>
+        <item>S&apos;han desat %1$d audiòfons</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item>1 aplicació pot utilitzar dades sense restricció</item>
+        <item>%d aplicacions poden utilitzar dades sense restricció</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item>Confia en el certificat o suprimeix-lo</item>
+        <item>Confia en els certificats o suprimeix-los</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item>%s ha instal·lat una autoritat de certificació per al teu perfil professional, de manera que podrà supervisar la teva activitat professional a la xarxa, inclosos els correus electrònics, les aplicacions i els llocs web segurs.\10\10Per obtenir més informació sobre aquest certificat, contacta amb l&apos;administrador.</item>
+        <item>%s ha instal·lat autoritats de certificació per al teu perfil professional, de manera que podrà supervisar la teva activitat professional a la xarxa, inclosos els correus electrònics, les aplicacions i els llocs web segurs.\10\10Per obtenir més informació sobre aquests certificats, contacta amb l&apos;administrador.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item>%s ha instal·lat una autoritat de certificació al teu dispositiu, de manera que podrà supervisar-ne l&apos;activitat a la xarxa, inclosos els correus electrònics, les aplicacions i els llocs web segurs.\10\10Per obtenir més informació sobre aquest certificat, contacta amb l&apos;administrador.</item>
+        <item>%s ha instal·lat autoritats de certificació al teu dispositiu, de manera que podrà supervisar-ne l&apos;activitat a la xarxa, inclosos els correus electrònics, les aplicacions i els llocs web segurs.\10\10Per obtenir més informació sobre aquests certificats, contacta amb l&apos;administrador.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item>Comprova el certificat</item>
+        <item>Comprova els certificats</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_summary">
+        <item>+1 suggeriment</item>
+        <item>+%1$d suggeriments</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_title">
+        <item>1 suggeriment</item>
+        <item>%1$d suggeriments</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item>1 element</item>
+        <item>%d elements</item>
+    </plurals>
+    <plurals name="wifi_saved_access_points_summary">
+        <item>1 xarxa</item>
+        <item>%d xarxes</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item>%1$d dispositiu connectat</item>
+        <item>%1$d dispositius connectats</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item>El codi PIN de la SIM no és correcte. Et queda %d intent; si no l&apos;encertes, contacta amb l&apos;operador de telefonia mòbil per desbloquejar el dispositiu.</item>
+        <item>El codi PIN de la SIM no és correcte. Et queden %d intents.</item>
+    </plurals>
+    <plurals name="zen_mode_duration_summary_time_hours">
+        <item>1 hora (tret que s&apos;activi automàticament)</item>
+        <item>%d hores (tret que s&apos;activi automàticament)</item>
+    </plurals>
+    <plurals name="zen_mode_settings_summary_on">
+        <item>1 regla</item>
+        <item>%d regles</item>
+    </plurals>
+    <plurals name="zen_mode_sound_summary_summary_off_info">
+        <item>1 regla ho pot activar automàticament</item>
+        <item>%d regles ho poden activar automàticament</item>
+    </plurals>
+    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+        <item>1 persona més</item>
+        <item>%d persones més</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item>Canvia al mode Només alarmes durant una hora fins a les %2$s</item>
+        <item>Canvia al mode Només alarmes durant %1$d hores fins a les %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item>Canvia al mode Només alarmes durant un minut fins a les %2$s</item>
+        <item>Canvia al mode Només alarmes durant %1$d minuts (fins a les %2$s)</item>
+    </plurals>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:settings="http://schemas.android.com/apk/res/com.android.settings" xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:title="@string/oneplus_screen_color_mode_title">
+    <com.oneplus.settings.ui.OPScreenColorModePreference android:key="screen_color_mode_page"/>
+    <com.android.settings.ui.RadioButtonPreference android:persistent="false" android:title="@string/oneplus_screen_color_mode_default" android:key="screen_color_mode_default_settings"/>
+    <com.android.settings.ui.OPSuwPreferenceDivider/>
+    <com.android.settings.ui.RadioButtonPreference android:persistent="false" android:title="@string/oneplus_screen_color_mode_soft" android:key="screen_color_mode_soft_settings"/>
+    <com.android.settings.ui.OPSuwPreferenceDivider android:key="screen_color_mode_soft_settings_divider"/>
+    <com.android.settings.ui.RadioButtonPreference android:persistent="false" android:title="@string/oneplus_screen_color_mode_basic" android:key="screen_color_mode_basic_settings"/>
+    <com.android.settings.ui.OPSuwPreferenceDivider android:key="oneplus_screen_color_mode_basic_divider"/>
+    <com.android.settings.ui.RadioButtonPreference android:persistent="false" android:title="@string/oneplus_screen_color_mode_dci_p3" android:key="screen_color_mode_dci_p3_settings"/>
+    <com.android.settings.ui.OPSuwPreferenceDivider/>
+    <com.android.settings.ui.RadioButtonPreference android:persistent="false" android:title="@string/oneplus_adaptive_model" android:key="screen_color_mode_adaptive_model_settings"/>
+    <com.android.settings.ui.OPSuwPreferenceDivider android:key="screen_color_mode_defined_settings_divider"/>
+    <com.android.settings.ui.RadioButtonPreference android:persistent="false" android:title="@string/oneplus_screen_color_mode_defined" android:key="screen_color_mode_defined_settings"/>
+    <com.android.settings.ui.OPSuwPreferenceDivider/>
+    <com.oneplus.settings.ui.OPSuwSeekBarPreference android:key="screen_color_mode_seekbar"/>
+    <com.oneplus.settings.ui.OPScreenColorModeSummary android:key="oneplus_screen_color_mode_title_summary" android:summary="@string/oneplus_screen_color_mode_title_summary"/>
+</PreferenceScreen>

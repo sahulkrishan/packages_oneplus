@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item>השהיה קצרה מאוד (%1$d מילישנייה)</item>
+        <item>השהיה קצרה מאוד (%1$d מילישניות)</item>
+        <item>השהיה קצרה מאוד (%1$d מילישניות)</item>
+        <item>השהיה קצרה מאוד (%1$d מילישניות)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item>השהיה ארוכה (%1$d מילישנייה)</item>
+        <item>השהיה ארוכה (%1$d מילישניות)</item>
+        <item>השהיה ארוכה (%1$d מילישניות)</item>
+        <item>השהיה ארוכה (%1$d מילישניות)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item>השהיה קצרה (%1$d מילישנייה)</item>
+        <item>השהיה קצרה (%1$d מילישניות)</item>
+        <item>השהיה קצרה (%1$d מילישניות)</item>
+        <item>השהיה קצרה (%1$d מילישניות)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item>השהיה ארוכה מאוד (%1$d מילישנייה)</item>
+        <item>השהיה ארוכה מאוד (%1$d מילישניות)</item>
+        <item>השהיה ארוכה מאוד (%1$d מילישניות)</item>
+        <item>השהיה ארוכה מאוד (%1$d מילישניות)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item>השהיה קצרה מאוד (%1$d מילישנייה)</item>
+        <item>השהיה קצרה מאוד (%1$d מילישניות)</item>
+        <item>השהיה קצרה מאוד (%1$d מילישניות)</item>
+        <item>השהיה קצרה מאוד (%1$d מילישניות)</item>
+    </plurals>
+    <plurals name="app_notification_listing_summary_others">
+        <item>כבוי עבור %d אפליקציה</item>
+        <item>כבוי עבור %d אפליקציות</item>
+        <item>כבוי עבור %d אפליקציות</item>
+        <item>כבוי עבור %d אפליקציות</item>
+    </plurals>
+    <plurals name="battery_manager_app_restricted">
+        <item>אפליקציה מוגבלת אחת</item>
+        <item>‏%1$d אפליקציות מוגבלות</item>
+        <item>‏%1$d אפליקציות מוגבלות</item>
+        <item>‏%1$d אפליקציות מוגבלות</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item>להגביל את האפליקציה?</item>
+        <item>‏להגביל %1$d אפליקציות?</item>
+        <item>‏להגביל %1$d אפליקציות?</item>
+        <item>‏להגביל %1$d אפליקציות?</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_summary">
+        <item>לא ניתן להפעיל את האפליקציה הזו ברקע</item>
+        <item>לא ניתן להפעיל את האפליקציות האלה ברקע</item>
+        <item>לא ניתן להפעיל את האפליקציות האלה ברקע</item>
+        <item>לא ניתן להפעיל את האפליקציות האלה ברקע</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_title">
+        <item>הגבלות הוטלו לאחרונה על אפליקציה אחת</item>
+        <item>‏הגבלות הוטלו לאחרונה על %2$d אפליקציות</item>
+        <item>‏הגבלות הוטלו לאחרונה על %2$d אפליקציות</item>
+        <item>‏הגבלות הוטלו לאחרונה על %2$d אפליקציות</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_summary">
+        <item>אפליקציה אחת משתמשת בסוללה באופן מוגבר ברקע</item>
+        <item>‏%2$d אפליקציות משתמשות בסוללה באופן מוגבר ברקע</item>
+        <item>‏%2$d אפליקציות משתמשות בסוללה באופן מוגבר ברקע</item>
+        <item>‏%2$d אפליקציות משתמשות בסוללה באופן מוגבר ברקע</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_title">
+        <item>הגבלת אפליקציה אחת</item>
+        <item>‏הגבלת %1$d אפליקציות</item>
+        <item>‏הגבלת %1$d אפליקציות</item>
+        <item>‏הגבלת %1$d אפליקציות</item>
+    </plurals>
+    <plurals name="billing_cycle_days_left">
+        <item>נותר יום אחד</item>
+        <item>נותרו יומיים</item>
+        <item>‏נותרו %d ימים</item>
+        <item>‏נותרו %d ימים</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item>‏מותר להשתמש בנתונים בלתי מוגבלים באפליקציה אחת כשחוסך הנתונים (Data Saver) פועל</item>
+        <item>‏מותר להשתמש בנתונים בלתי מוגבלים ב-%1$d אפליקציות כשחוסך הנתונים (Data Saver) פועל</item>
+        <item>‏מותר להשתמש בנתונים בלתי מוגבלים ב-%1$d אפליקציות כשחוסך הנתונים (Data Saver) פועל</item>
+        <item>‏מותר להשתמש בנתונים בלתי מוגבלים ב-%1$d אפליקציות כשחוסך הנתונים (Data Saver) פועל</item>
+    </plurals>
+    <plurals name="default_camera_app_title">
+        <item>אפליקציית מצלמה</item>
+        <item>אפליקציות מצלמה</item>
+        <item>אפליקציות מצלמה</item>
+        <item>אפליקציות מצלמה</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item>אפליקציה של תוכנת אימייל</item>
+        <item>אפליקציות של תוכנות אימייל</item>
+        <item>אפליקציות של תוכנות אימייל</item>
+        <item>אפליקציות של תוכנות אימייל</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item>אפליקציית טלפון</item>
+        <item>אפליקציות טלפון</item>
+        <item>אפליקציות טלפון</item>
+        <item>אפליקציות טלפון</item>
+    </plurals>
+    <plurals name="deleted_channels">
+        <item>קטגוריה %d נמחקה</item>
+        <item>%d קטגוריות נמחקו</item>
+        <item>%d קטגוריות נמחקו</item>
+        <item>%d קטגוריות נמחקו</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item>האם להסיר את השפה שנבחרה?</item>
+        <item>האם להסיר את השפות שנבחרו?</item>
+        <item>האם להסיר את השפות שנבחרו?</item>
+        <item>האם להסיר את השפות שנבחרו?</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary_on">
+        <item>אפליקציה אחת פותחת קישורים נתמכים</item>
+        <item>%d אפליקציות פותחות קישורים נתמכים</item>
+        <item>%d אפליקציות פותחות קישורים נתמכים</item>
+        <item>%d אפליקציות פותחות קישורים נתמכים</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_ca_certs">
+        <item>‏מינימום אישור CA %d</item>
+        <item>‏מינימום %d אישורי CA</item>
+        <item>‏מינימום %d אישורי CA</item>
+        <item>‏מינימום %d אישורי CA</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item>%d ניסיון</item>
+        <item>%d ניסיונות</item>
+        <item>%d ניסיונות</item>
+        <item>%d ניסיונות</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item>%d אפליקציה</item>
+        <item>%d אפליקציות</item>
+        <item>%d אפליקציות</item>
+        <item>%d אפליקציות</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item>מינימום אפליקציה %d</item>
+        <item>מינימום %d אפליקציות</item>
+        <item>מינימום %d אפליקציות</item>
+        <item>מינימום %d אפליקציות</item>
+    </plurals>
+    <plurals name="hours">
+        <item>שעה אחת</item>
+        <item>%s שעות</item>
+        <item>%s שעות</item>
+        <item>%s שעות</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item>צריכה להכיל לפחות אות אחת</item>
+        <item>צריכה להכיל לפחות %d אותיות</item>
+        <item>צריכה להכיל לפחות %d אותיות</item>
+        <item>צריכה להכיל לפחות %d אותיות</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item>צריכה להכיל לפחות אות קטנה אחת</item>
+        <item>צריכה להכיל לפחות %d אותיות קטנות</item>
+        <item>צריכה להכיל לפחות %d אותיות קטנות</item>
+        <item>צריכה להכיל לפחות %d אותיות קטנות</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item>צריכה להכיל לפחות תו אחד שאינו אות</item>
+        <item>צריכה להכיל לפחות %d תווים שאינם אותיות</item>
+        <item>צריכה להכיל לפחות %d תווים שאינם אותיות</item>
+        <item>צריכה להכיל לפחות %d תווים שאינם אותיות</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item>צריכה להכיל לפחות ספרה אחת</item>
+        <item>צריכה להכיל לפחות %d ספרות</item>
+        <item>צריכה להכיל לפחות %d ספרות</item>
+        <item>צריכה להכיל לפחות %d ספרות</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item>צריכה להכיל לפחות סמל מיוחד אחד</item>
+        <item>צריכה להכיל לפחות %d סמלים מיוחדים</item>
+        <item>צריכה להכיל לפחות %d סמלים מיוחדים</item>
+        <item>צריכה להכיל לפחות %d סמלים מיוחדים</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item>צריכה להכיל לפחות אות גדולה אחת</item>
+        <item>צריכה להכיל לפחות %d אותיות גדולות</item>
+        <item>צריכה להכיל לפחות %d אותיות גדולות</item>
+        <item>צריכה להכיל לפחות %d אותיות גדולות</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item>‏אפליקציה %d יכולה לקרוא הודעות</item>
+        <item>‏%d אפליקציות יכולות לקרוא הודעות</item>
+        <item>‏%d אפליקציות יכולות לקרוא הודעות</item>
+        <item>‏%d אפליקציות יכולות לקרוא הודעות</item>
+    </plurals>
+    <plurals name="manage_trust_agents_summary_on">
+        <item>סביבה אמינה פעילה אחת</item>
+        <item>%d סביבות אמינות פעילות</item>
+        <item>%d סביבות אמינות פעילות</item>
+        <item>%d סביבות אמינות פעילות</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item>אפליקציה אחת השתמשה בזיכרון ב-%2$s האחרונות</item>
+        <item>%1$d אפליקציות השתמשו בזיכרון ב-%2$s האחרונות</item>
+        <item>%1$d אפליקציות השתמשו בזיכרון ב-%2$s האחרונות</item>
+        <item>%1$d אפליקציות השתמשו בזיכרון ב-%2$s האחרונות</item>
+    </plurals>
+    <plurals name="minutes">
+        <item>דקה אחת</item>
+        <item>%s דקות</item>
+        <item>%s דקות</item>
+        <item>%s דקות</item>
+    </plurals>
+    <plurals name="network_restrictions_summary">
+        <item>הגבלה אחת</item>
+        <item>%1$d הגבלות</item>
+        <item>%1$d הגבלות</item>
+        <item>%1$d הגבלות</item>
+    </plurals>
+    <plurals name="notification_group_summary">
+        <item>קטגוריה אחת (%d)</item>
+        <item>%d קטגוריות</item>
+        <item>%d קטגוריות</item>
+        <item>%d קטגוריות</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item>כבויות עבור אפליקציה אחת</item>
+        <item>כבויות עבור %d אפליקציות</item>
+        <item>כבויות עבור %d אפליקציות</item>
+        <item>כבויות עבור %d אפליקציות</item>
+    </plurals>
+    <plurals name="notifications_categories_off">
+        <item>קטגוריה אחת (%d) כבויה</item>
+        <item>%d קטגוריות כבויות</item>
+        <item>%d קטגוריות כבויות</item>
+        <item>%d קטגוריות כבויות</item>
+    </plurals>
+    <plurals name="number_of_device_admins">
+        <item>%d אפליקציה פעילה</item>
+        <item>%d אפליקציות פעילות</item>
+        <item>%d אפליקציות פעילות</item>
+        <item>%d אפליקציות פעילות</item>
+    </plurals>
+    <plurals name="oneplus_applock_wrong_pattern_warning">
+        <item>נותרו לך עוד %1$d נסיונות</item>
+        <item>נותרו לך עוד %1$d נסיונות</item>
+        <item>נותרו לך עוד %1$d נסיונות</item>
+        <item>נותרו לך עוד %1$d נסיונות</item>
+    </plurals>
+    <plurals name="oneplus_lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item>נסה שוב בעוד %d שניה.</item>
+        <item>נסה שוב בעוד %d שניות.</item>
+        <item>נסה שוב בעוד %d שניות.</item>
+        <item>נסה שוב בעוד %d שניות.</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item>הוענקה הרשאה %d</item>
+        <item>הוענקו %d הרשאות</item>
+        <item>הוענקו %d הרשאות</item>
+        <item>הוענקו %d הרשאות</item>
+    </plurals>
+    <plurals name="power_high_usage_summary">
+        <item>%1$s מתנהגת באופן חריג</item>
+        <item>%2$d אפליקציות מתנהגות באופן חריג</item>
+        <item>%2$d אפליקציות מתנהגות באופן חריג</item>
+        <item>%2$d אפליקציות מתנהגות באופן חריג</item>
+    </plurals>
+    <plurals name="power_high_usage_title">
+        <item>האפליקציה %1$s מרוקנת את הסוללה</item>
+        <item>אפליקציות מרוקנות את הסוללה</item>
+        <item>אפליקציות מרוקנות את הסוללה</item>
+        <item>אפליקציות מרוקנות את הסוללה</item>
+    </plurals>
+    <plurals name="print_jobs_summary">
+        <item>משימת הדפסה אחת</item>
+        <item>%1$d משימות הדפסה</item>
+        <item>%1$d משימות הדפסה</item>
+        <item>%1$d משימות הדפסה</item>
+    </plurals>
+    <plurals name="print_settings_summary">
+        <item>שירות הדפסה אחד פועל</item>
+        <item>%1$d שירותי הדפסה פועלים</item>
+        <item>%1$d שירותי הדפסה פועלים</item>
+        <item>%1$d שירותי הדפסה פועלים</item>
+    </plurals>
+    <plurals name="restricted_app_summary">
+        <item>‏מגביל שימוש בסוללה של אפליקציה אחת (%1$d)</item>
+        <item>‏מגביל שימוש בסוללה של %1$d אפליקציות</item>
+        <item>‏מגביל שימוש בסוללה של %1$d אפליקציות</item>
+        <item>‏מגביל שימוש בסוללה של %1$d אפליקציות</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item>הרשאה %d נוספת</item>
+        <item>%d הרשאות נוספות</item>
+        <item>%d הרשאות נוספות</item>
+        <item>%d הרשאות נוספות</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item>הוענקה הרשאה %d מתוך %d</item>
+        <item>הוענקו %d הרשאות מתוך %d</item>
+        <item>הוענקו %d הרשאות מתוך %d</item>
+        <item>הוענקו %d הרשאות מתוך %d</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>שנייה אחת</item>
+        <item>%s שניות</item>
+        <item>%s שניות</item>
+        <item>%s שניות</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item>טביעת אצבע אחת (%1$d) הוגדרה</item>
+        <item>%1$d טביעות אצבע הוגדרו</item>
+        <item>%1$d טביעות אצבע הוגדרו</item>
+        <item>%1$d טביעות אצבע הוגדרו</item>
+    </plurals>
+    <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item>‏הצג פריט %d מוסתר</item>
+        <item>‏הצג %d פריטים מוסתרים</item>
+        <item>‏הצג %d פריטים מוסתרים</item>
+        <item>‏הצג %d פריטים מוסתרים</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item>אתה כעת במרחק של צעד %1$d מלהיות מפתח.</item>
+        <item>אתה כעת במרחק של %1$d צעדים מלהיות מפתח.</item>
+        <item>אתה כעת במרחק של %1$d צעדים מלהיות מפתח.</item>
+        <item>אתה כעת במרחק של %1$d צעדים מלהיות מפתח.</item>
+    </plurals>
+    <plurals name="show_number_hearingaid_count">
+        <item>מכשיר שמיעה אחד (%1$d) נשמר</item>
+        <item>%1$d מכשירי שמיעה נשמרו</item>
+        <item>%1$d מכשירי שמיעה נשמרו</item>
+        <item>%1$d מכשירי שמיעה נשמרו</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item>אפליקציה אחת יכולה להשתמש בנתונים בלתי מוגבלים</item>
+        <item>%d אפליקציות יכולות להשתמש בנתונים בלתי מוגבלים</item>
+        <item>%d אפליקציות יכולות להשתמש בנתונים בלתי מוגבלים</item>
+        <item>%d אפליקציות יכולות להשתמש בנתונים בלתי מוגבלים</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item>קבלת מהימנות או הסרה של אישור</item>
+        <item>קבלת מהימנות או הסרה של אישורים</item>
+        <item>קבלת מהימנות או הסרה של אישורים</item>
+        <item>קבלת מהימנות או הסרה של אישורים</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item>%s התקין רשות אישורים לפרופיל העבודה שלך. ייתכן שהרשות תאפשר לו לנהל מעקב אחר פעילות רשת בעבודה, כולל אימיילים, אפליקציות ואתרים מאובטחים.\10\10לקבלת מידע נוסף על אישור זה, פנה למנהל המערכת.</item>
+        <item>%s התקין רשויות אישורים לפרופיל העבודה שלך. ייתכן שהדבר יאפשר לו לנהל מעקב אחר פעילות רשת בעבודה, כולל אימיילים, אפליקציות ואתרים מאובטחים.\10\10לקבלת מידע נוסף על אישורים אלה, פנה למנהל המערכת.</item>
+        <item>%s התקין רשויות אישורים לפרופיל העבודה שלך. ייתכן שהדבר יאפשר לו לנהל מעקב אחר פעילות רשת בעבודה, כולל אימיילים, אפליקציות ואתרים מאובטחים.\10\10לקבלת מידע נוסף על אישורים אלה, פנה למנהל המערכת.</item>
+        <item>%s התקין רשויות אישורים לפרופיל העבודה שלך. ייתכן שהדבר יאפשר לו לנהל מעקב אחר פעילות רשת בעבודה, כולל אימיילים, אפליקציות ואתרים מאובטחים.\10\10לקבלת מידע נוסף על אישורים אלה, פנה למנהל המערכת.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item>%s התקין במכשירך רשות אישורים שעשויה לאפשר לו לנהל מעקב אחר פעילות המכשיר ברשת, כולל אימיילים, אפליקציות ואתרים מאובטחים.\10\10לקבלת מידע נוסף על אישור זה, פנה למנהל המערכת.</item>
+        <item>%s התקין במכשירך רשויות אישורים שעשויות לאפשר לו לנהל מעקב אחר פעילות המכשיר ברשת, כולל אימיילים, אפליקציות ואתרים מאובטחים.\10\10לקבלת מידע נוסף על אישורים אלה, פנה למנהל המערכת.</item>
+        <item>%s התקין במכשירך רשויות אישורים שעשויות לאפשר לו לנהל מעקב אחר פעילות המכשיר ברשת, כולל אימיילים, אפליקציות ואתרים מאובטחים.\10\10לקבלת מידע נוסף על אישורים אלה, פנה למנהל המערכת.</item>
+        <item>%s התקין במכשירך רשויות אישורים שעשויות לאפשר לו לנהל מעקב אחר פעילות המכשיר ברשת, כולל אימיילים, אפליקציות ואתרים מאובטחים.\10\10לקבלת מידע נוסף על אישורים אלה, פנה למנהל המערכת.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item>בדוק אישור</item>
+        <item>בדוק אישורים</item>
+        <item>בדוק אישורים</item>
+        <item>בדוק אישורים</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_summary">
+        <item>הצעה אחת נוספת</item>
+        <item>%1$d הצעות נוספות</item>
+        <item>%1$d הצעות נוספות</item>
+        <item>%1$d הצעות נוספות</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_title">
+        <item>הצעה אחת</item>
+        <item>%1$d הצעות</item>
+        <item>%1$d הצעות</item>
+        <item>%1$d הצעות</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item>פריט אחד</item>
+        <item>‏%d פריטים</item>
+        <item>‏%d פריטים</item>
+        <item>‏%d פריטים</item>
+    </plurals>
+    <plurals name="wifi_saved_access_points_summary">
+        <item>רשת אחת</item>
+        <item>‏%d רשתות</item>
+        <item>‏%d רשתות</item>
+        <item>‏%d רשתות</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item>מכשיר אחד מחובר</item>
+        <item>‏%1$d מכשירים מחוברים</item>
+        <item>‏%1$d מכשירים מחוברים</item>
+        <item>‏%1$d מכשירים מחוברים</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item>‏קוד גישה שגוי של כרטיס SIM. נותר לך ניסיון %d לפני שיהיה עליך ליצור קשר עם הספק כדי לבטל את נעילת המכשיר.</item>
+        <item>‏קוד גישה שגוי של כרטיס SIM. נותרו לך %d ניסיונות.</item>
+        <item>‏קוד גישה שגוי של כרטיס SIM. נותרו לך %d ניסיונות.</item>
+        <item>‏קוד גישה שגוי של כרטיס SIM. נותרו לך %d ניסיונות.</item>
+    </plurals>
+    <plurals name="zen_mode_duration_summary_time_hours">
+        <item>שעה אחת (אלא אם כן מופעל באופן אוטומטי)</item>
+        <item>%d שעות (אלא אם כן מופעל באופן אוטומטי)</item>
+        <item>%d שעות (אלא אם כן מופעל באופן אוטומטי)</item>
+        <item>%d שעות (אלא אם כן מופעל באופן אוטומטי)</item>
+    </plurals>
+    <plurals name="zen_mode_settings_summary_on">
+        <item>כלל אחד</item>
+        <item>%d כללים</item>
+        <item>%d כללים</item>
+        <item>%d כללים</item>
+    </plurals>
+    <plurals name="zen_mode_sound_summary_summary_off_info">
+        <item>ניתן להפעיל כלל אחד אוטומטית</item>
+        <item>ניתן להפעיל %d כללים אוטומטית</item>
+        <item>ניתן להפעיל %d כללים אוטומטית</item>
+        <item>ניתן להפעיל %d כללים אוטומטית</item>
+    </plurals>
+    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+        <item>1 נוסף</item>
+        <item>%d נוספים</item>
+        <item>%d נוספים</item>
+        <item>%d נוספים</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item>שנה ל‘רק התראות‘ למשך שעה אחת, עד %2$s</item>
+        <item>שנה ל‘רק התראות‘ למשך %1$d שעות, עד %2$s</item>
+        <item>שנה ל‘רק התראות‘ למשך %1$d שעות, עד %2$s</item>
+        <item>שנה ל‘רק התראות‘ למשך %1$d שעות, עד %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item>שנה ל‘רק התראות‘ למשך דקה אחת, עד %2$s</item>
+        <item>שנה ל‘רק התראות‘ למשך %1$d דקות (עד %2$s)</item>
+        <item>שנה ל‘רק התראות‘ למשך %1$d דקות (עד %2$s)</item>
+        <item>שנה ל‘רק התראות‘ למשך %1$d דקות (עד %2$s)</item>
+    </plurals>
+</resources>

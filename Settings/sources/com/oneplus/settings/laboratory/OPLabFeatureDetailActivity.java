@@ -1,0 +1,189 @@
+package com.oneplus.settings.laboratory;
+
+import android.content.Intent;
+import android.content.SharedPreferences;
+import android.content.SharedPreferences.Editor;
+import android.os.Bundle;
+import android.preference.PreferenceManager;
+import android.provider.Settings.Secure;
+import android.provider.Settings.System;
+import android.view.MenuItem;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.ImageButton;
+import android.widget.Switch;
+import android.widget.TextView;
+import com.android.settings.R;
+import com.oneplus.settings.BaseActivity;
+import com.oneplus.settings.laboratory.OPRadioButtinGroup.OnRadioGroupClickListener;
+import com.oneplus.settings.utils.OPUtils;
+
+public class OPLabFeatureDetailActivity extends BaseActivity implements OnClickListener, OnRadioGroupClickListener {
+    private static final int ONEPLUS_LAB_FEATURE_DISLIKE = -1;
+    private static final String ONEPLUS_LAB_FEATURE_KEY = "oneplus_lab_feature_key";
+    private static final int ONEPLUS_LAB_FEATURE_LIKE = 1;
+    private static final String ONEPLUS_LAB_FEATURE_SUMMARY = "oneplus_lab_feature_Summary";
+    private static final String ONEPLUS_LAB_FEATURE_TITLE = "oneplus_lab_feature_title";
+    private static final String ONEPLUS_LAB_FEATURE_TOGGLE_COUNT = "oneplus_lab_feature_toggle_count";
+    private static final String ONEPLUS_LAB_FEATURE_TOGGLE_NAMES = "oneplus_lab_feature_toggle_names";
+    private static final String SHOW_IMPORTANCE_SLIDER = "show_importance_slider";
+    private View mActiviteFeatureToggle;
+    private TextView mCommunirySummary;
+    private TextView mCommuniryTitle;
+    private TextView mDescriptionSummary;
+    private TextView mDescriptionTitle;
+    private ImageButton mDislikeImageButton;
+    private String[] mFeatureToggleNames;
+    private Intent mIntent;
+    private ImageButton mLikeImageButton;
+    private OPRadioButtinGroup mMultiToggleGroup;
+    private String mOneplusLabFeatureKey;
+    private String mOneplusLabFeatureTitle;
+    private int mOneplusLabFeatureToggleCount;
+    private SharedPreferences mSharedPreferences;
+    private Switch mSwitch;
+
+    /* Access modifiers changed, original: protected */
+    public void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.op_lab_feature_details_activity);
+        initIntent();
+        initView();
+    }
+
+    private void initIntent() {
+        this.mIntent = getIntent();
+        this.mOneplusLabFeatureToggleCount = this.mIntent.getIntExtra(ONEPLUS_LAB_FEATURE_TOGGLE_COUNT, 2);
+        this.mFeatureToggleNames = this.mIntent.getStringArrayExtra(ONEPLUS_LAB_FEATURE_TOGGLE_NAMES);
+        this.mOneplusLabFeatureTitle = this.mIntent.getStringExtra(ONEPLUS_LAB_FEATURE_TITLE);
+        this.mOneplusLabFeatureKey = this.mIntent.getStringExtra(ONEPLUS_LAB_FEATURE_KEY);
+        setTitle(this.mOneplusLabFeatureTitle);
+    }
+
+    private void initView() {
+        this.mSharedPreferences = PreferenceManager.getDefaultSharedPreferences(this);
+        this.mDescriptionTitle = (TextView) findViewById(R.id.op_lab_feature_description_title);
+        this.mDescriptionSummary = (TextView) findViewById(R.id.op_lab_feature_description_summary);
+        this.mCommuniryTitle = (TextView) findViewById(R.id.op_lab_feature_communiry_title);
+        this.mCommunirySummary = (TextView) findViewById(R.id.op_lab_feature_communiry_summary);
+        this.mActiviteFeatureToggle = findViewById(R.id.op_lab_feature_toggle);
+        this.mSwitch = (Switch) findViewById(R.id.op_lab_feature_switch);
+        boolean z = true;
+        Switch switchR;
+        if (SHOW_IMPORTANCE_SLIDER.equals(this.mOneplusLabFeatureKey)) {
+            switchR = this.mSwitch;
+            if (Secure.getInt(getContentResolver(), this.mOneplusLabFeatureKey, 0) != 1) {
+                z = false;
+            }
+            switchR.setChecked(z);
+        } else {
+            switchR = this.mSwitch;
+            if (System.getInt(getContentResolver(), this.mOneplusLabFeatureKey, 0) != 1) {
+                z = false;
+            }
+            switchR.setChecked(z);
+        }
+        this.mMultiToggleGroup = (OPRadioButtinGroup) findViewById(R.id.op_lab_feature_multi_toggle_group);
+        if (isMultiToggle()) {
+            this.mMultiToggleGroup.addChild(this.mOneplusLabFeatureToggleCount, this.mFeatureToggleNames);
+            this.mMultiToggleGroup.setOnRadioGroupClickListener(this);
+            this.mMultiToggleGroup.setSelect(System.getInt(getContentResolver(), this.mOneplusLabFeatureKey, 0));
+            this.mActiviteFeatureToggle.setVisibility(8);
+        } else {
+            this.mMultiToggleGroup.setVisibility(8);
+        }
+        this.mLikeImageButton = (ImageButton) findViewById(R.id.op_lab_feature_communiry_like);
+        this.mDislikeImageButton = (ImageButton) findViewById(R.id.op_lab_feature_communiry_dislike);
+        this.mActiviteFeatureToggle.setOnClickListener(this);
+        this.mLikeImageButton.setOnClickListener(this);
+        this.mDislikeImageButton.setOnClickListener(this);
+        this.mDescriptionSummary.setText(this.mIntent.getStringExtra(ONEPLUS_LAB_FEATURE_SUMMARY));
+        setLikeOrDislike();
+    }
+
+    public boolean isMultiToggle() {
+        return this.mOneplusLabFeatureToggleCount > 2;
+    }
+
+    public boolean onOptionsItemSelected(MenuItem item) {
+        if (item.getItemId() != 16908332) {
+            return super.onOptionsItemSelected(item);
+        }
+        finish();
+        return true;
+    }
+
+    public void onClick(View v) {
+        int id = v.getId();
+        if (id != R.id.op_lab_feature_toggle) {
+            switch (id) {
+                case R.id.op_lab_feature_communiry_dislike /*2131362753*/:
+                    saveActitiveHistory(-1);
+                    return;
+                case R.id.op_lab_feature_communiry_like /*2131362754*/:
+                    saveActitiveHistory(1);
+                    return;
+                default:
+                    return;
+            }
+        }
+        boolean z = false;
+        if (this.mSwitch.isChecked()) {
+            this.mSwitch.setChecked(false);
+        } else {
+            this.mSwitch.setChecked(true);
+        }
+        if (this.mSwitch.isChecked()) {
+            z = true;
+        }
+        id = z;
+        if (SHOW_IMPORTANCE_SLIDER.equals(this.mOneplusLabFeatureKey)) {
+            Secure.putInt(getContentResolver(), this.mOneplusLabFeatureKey, id);
+        } else {
+            System.putInt(getContentResolver(), this.mOneplusLabFeatureKey, id);
+        }
+        OPUtils.sendAppTracker(this.mOneplusLabFeatureKey, id);
+    }
+
+    public void OnRadioGroupClick(int clickId) {
+        System.putInt(getContentResolver(), this.mOneplusLabFeatureKey, clickId);
+        OPUtils.sendAppTracker(this.mOneplusLabFeatureKey, clickId);
+    }
+
+    private void saveActitiveHistory(int likeOrDislike) {
+        if (!this.mSharedPreferences.contains(this.mOneplusLabFeatureKey)) {
+            StringBuilder stringBuilder = new StringBuilder();
+            stringBuilder.append(this.mOneplusLabFeatureKey);
+            stringBuilder.append("_feedback");
+            OPUtils.sendAppTracker(stringBuilder.toString(), likeOrDislike);
+            Editor editor = this.mSharedPreferences.edit();
+            editor.putInt(this.mOneplusLabFeatureKey, likeOrDislike);
+            editor.commit();
+        }
+        setLikeOrDislike();
+    }
+
+    private void setLikeOrDislike() {
+        if (this.mSharedPreferences.contains(this.mOneplusLabFeatureKey)) {
+            highlightUserChoose(this.mSharedPreferences.getInt(this.mOneplusLabFeatureKey, 1));
+            this.mLikeImageButton.setEnabled(false);
+            this.mDislikeImageButton.setEnabled(false);
+            return;
+        }
+        this.mLikeImageButton.getBackground().setTint(getColor(R.color.oneplus_laboratory_grey_color));
+        this.mDislikeImageButton.getBackground().setTint(getColor(R.color.oneplus_laboratory_grey_color));
+    }
+
+    private void highlightUserChoose(int likeOrDislike) {
+        if (likeOrDislike == 1) {
+            this.mLikeImageButton.getBackground().setTint(getColor(R.color.oneplus_accent_color));
+            this.mDislikeImageButton.getBackground().setTint(getColor(R.color.oneplus_laboratory_grey_color));
+        } else if (likeOrDislike == -1) {
+            this.mLikeImageButton.getBackground().setTint(getColor(R.color.oneplus_laboratory_grey_color));
+            this.mDislikeImageButton.getBackground().setTint(getColor(R.color.oneplus_accent_color));
+        } else {
+            this.mLikeImageButton.getBackground().setTint(getColor(R.color.oneplus_laboratory_grey_color));
+            this.mDislikeImageButton.getBackground().setTint(getColor(R.color.oneplus_laboratory_grey_color));
+        }
+    }
+}

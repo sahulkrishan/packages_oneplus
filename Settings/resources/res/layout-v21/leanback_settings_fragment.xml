@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v17.preference.LeanbackSettingsRootView xmlns:settings="http://schemas.android.com/apk/res/com.android.settings" xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/settings_dialog_container" android:layout_width="match_parent" android:layout_height="match_parent">
+    <android.support.v17.internal.widget.OutlineOnlyWithChildrenFrameLayout android:layout_gravity="end" android:id="@+id/settings_preference_fragment_container" android:layout_width="@dimen/lb_settings_pane_width" android:layout_height="match_parent" android:elevation="@dimen/lb_preference_decor_elevation" android:outlineProvider="bounds"/>
+</android.support.v17.preference.LeanbackSettingsRootView>

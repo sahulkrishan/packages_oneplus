@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet xmlns:settings="http://schemas.android.com/apk/res/com.android.settings" xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <transition android:interpolator="@androidresources/FAST_OUT_LINEAR_IN" android:duration="350" android:slideEdge="bottom" class="android.support.v17.leanback.transition.SlideNoPropagation">
+        <targets>
+            <target android:excludeId="@+id/title_badge"/>
+            <target android:excludeId="@+id/title_text"/>
+            <target android:excludeId="@+id/title_orb"/>
+            <target android:excludeId="@+id/details_background_view"/>
+            <target android:excludeId="@+id/video_surface"/>
+        </targets>
+    </transition>
+    <transition android:duration="350" class="android.support.v17.leanback.transition.ParallaxTransition">
+        <targets>
+            <target android:targetId="@+id/details_frame"/>
+        </targets>
+    </transition>
+    <fade android:duration="350">
+        <targets>
+            <target android:excludeId="@+id/video_surface"/>
+        </targets>
+    </fade>
+</transitionSet>

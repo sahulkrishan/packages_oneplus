@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:settings="http://schemas.android.com/apk/res/com.android.settings" xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <TextView android:textAppearance="@style/TextAppearance.Material.Body2" android:textColor="?attr/onePlusPrimaryColor" android:gravity="center_vertical" android:paddingLeft="@dimen/oneplus_contorl_layout_margin_left4" android:paddingRight="@dimen/oneplus_settings_layout_margin_left2" android:paddingBottom="@dimen/oneplus_contorl_margin_text_top2" android:layout_width="wrap_content" android:layout_height="@dimen/oneplus_contorl_list_item_height_one_line1" android:text="@string/oneplus_instrucitons" android:textAllCaps="true" style="@style/oneplus_contorl_text_style_subtitle"/>
+    <com.airbnb.lottie.LottieAnimationView android:layout_gravity="center_horizontal" android:id="@+id/always_show_nb_anim" android:visibility="gone" android:layout_width="match_parent" android:layout_height="232dp" app:lottie_autoPlay="true" app:lottie_fileName="op_fix_navigation_bar_light_anim.json" app:lottie_loop="true"/>
+    <com.airbnb.lottie.LottieAnimationView android:layout_gravity="center_horizontal" android:id="@+id/hide_nb_anim" android:layout_width="match_parent" android:layout_height="232dp" app:lottie_autoPlay="true" app:lottie_fileName="op_back_home_light.json" app:lottie_loop="true"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/gesture_anim_viewpager_container" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content">
+        <android.support.v4.view.ViewPager android:layout_gravity="center" android:id="@+id/gesture_anim_viewpager" android:layout_width="match_parent" android:layout_height="232dp">
+            <android.support.v4.view.PagerTitleStrip android:textColor="#ffff" android:layout_gravity="bottom" android:id="@+id/pagertitle" android:background="#0000" android:layout_width="wrap_content" android:layout_height="8dp"/>
+        </android.support.v4.view.ViewPager>
+        <LinearLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="match_parent">
+            <LinearLayout android:gravity="center_horizontal" android:layout_gravity="bottom" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/oneplus_contorl_layout_margin_top3">
+                <ImageView android:id="@+id/page0" android:layout_width="8dp" android:layout_height="8dp" android:src="@drawable/op_page_now" android:scaleType="fitXY"/>
+                <ImageView android:id="@+id/page1" android:layout_width="8dp" android:layout_height="8dp" android:layout_marginLeft="8dp" android:src="@drawable/op_page" android:scaleType="fitXY"/>
+                <ImageView android:id="@+id/page2" android:layout_width="8dp" android:layout_height="8dp" android:layout_marginLeft="8dp" android:src="@drawable/op_page" android:scaleType="fitXY"/>
+                <ImageView android:id="@+id/page3" android:layout_width="8dp" android:layout_height="8dp" android:layout_marginLeft="8dp" android:src="@drawable/op_page" android:scaleType="fitXY"/>
+                <ImageView android:id="@+id/page4" android:layout_width="8dp" android:layout_height="8dp" android:layout_marginLeft="8dp" android:src="@drawable/op_page" android:scaleType="fitXY"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

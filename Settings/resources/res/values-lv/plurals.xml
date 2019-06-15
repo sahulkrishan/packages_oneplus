@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item>Pirms %d dienām</item>
+        <item>Pirms %d dienas</item>
+        <item>Pirms %d dienām</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item>Pirms %d minūtēm</item>
+        <item>Pirms %d minūtes</item>
+        <item>Pirms %d minūtēm</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item>Pirms %d gadiem</item>
+        <item>Pirms %d gada</item>
+        <item>Pirms %d gadiem</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item>Ārkārtīgi īsa aizkave (%1$d ms)</item>
+        <item>Ārkārtīgi īsa aizkave (%1$d ms)</item>
+        <item>Ārkārtīgi īsa aizkave (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item>Ilga aizkave (%1$d ms)</item>
+        <item>Ilga aizkave (%1$d ms)</item>
+        <item>Ilga aizkave (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item>Īsa aizkave (%1$d ms)</item>
+        <item>Īsa aizkave (%1$d ms)</item>
+        <item>Īsa aizkave (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item>Ļoti ilga aizkave (%1$d ms)</item>
+        <item>Ļoti ilga aizkave (%1$d ms)</item>
+        <item>Ļoti ilga aizkave (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item>Ļoti īsa aizkave (%1$d ms)</item>
+        <item>Ļoti īsa aizkave (%1$d ms)</item>
+        <item>Ļoti īsa aizkave (%1$d ms)</item>
+    </plurals>
+    <plurals name="app_notification_listing_summary_others">
+        <item>Izslēgti %d lietotnēm</item>
+        <item>Izslēgti %d lietotnei</item>
+        <item>Izslēgti %d lietotnēm</item>
+    </plurals>
+    <plurals name="battery_manager_app_restricted">
+        <item>Ierobežota %1$d lietotņu darbība</item>
+        <item>Ierobežota %1$d lietotnes darbība</item>
+        <item>Ierobežota %1$d lietotņu darbība</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item>Vai ierobežot %1$d lietotnes?</item>
+        <item>Vai ierobežot %1$d lietotni?</item>
+        <item>Vai ierobežot %1$d lietotnes?</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_summary">
+        <item>Šīs lietotnes nevar darboties fonā.</item>
+        <item>Šī lietotne nevar darboties fonā.</item>
+        <item>Šīs lietotnes nevar darboties fonā.</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_title">
+        <item>%2$d lietotnes nesen ierobežotas</item>
+        <item>%2$d lietotne nesen ierobežota</item>
+        <item>%2$d lietotnes nesen ierobežotas</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_summary">
+        <item>%2$d lietotnes patērē daudz akumulatora enerģijas.</item>
+        <item>%2$d lietotne patērē daudz akumulatora enerģijas.</item>
+        <item>%2$d lietotnes patērē daudz akumulatora enerģijas.</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_title">
+        <item>Ierobežojiet %1$d lietotnes</item>
+        <item>Ierobežojiet %1$d lietotni</item>
+        <item>Ierobežojiet %1$d lietotnes</item>
+    </plurals>
+    <plurals name="billing_cycle_days_left">
+        <item>Vēl %d dienu</item>
+        <item>Vēl %d diena</item>
+        <item>Vēl %d dienas</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item>Esot ieslēgtam datu lietojuma samazinātājam, neierobežotus datus ir atļauts izmantot %1$d lietotnēs.</item>
+        <item>Esot ieslēgtam datu lietojuma samazinātājam, neierobežotus datus ir atļauts izmantot %1$d lietotnē.</item>
+        <item>Esot ieslēgtam datu lietojuma samazinātājam, neierobežotus datus ir atļauts izmantot %1$d lietotnēs.</item>
+    </plurals>
+    <plurals name="default_camera_app_title">
+        <item>Kameras lietotnes</item>
+        <item>Kameras lietotne</item>
+        <item>Kameras lietotnes</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item>E-pasta klienta lietotnes</item>
+        <item>E-pasta klienta lietotne</item>
+        <item>E-pasta klienta lietotnes</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item>Tālruņa lietotnes</item>
+        <item>Tālruņa lietotne</item>
+        <item>Tālruņa lietotnes</item>
+    </plurals>
+    <plurals name="deleted_channels">
+        <item>%d kategorijas dzēstas</item>
+        <item>%d kategorija dzēsta</item>
+        <item>%d kategorijas dzēstas</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item>Vai noņemt atlasītās valodas?</item>
+        <item>Vai noņemt atlasītās valodas?</item>
+        <item>Vai noņemt atlasītās valodas?</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary_on">
+        <item>%d lietotnes atver atbalstītas saites</item>
+        <item>%d lietotne atver atbalstītas saites</item>
+        <item>%d lietotnes atver atbalstītas saites</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_ca_certs">
+        <item>Vismaz %d CA sertifikāti</item>
+        <item>Vismaz %d CA sertifikāts</item>
+        <item>Vismaz %d CA sertifikāti</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item>%d mēģinājumu</item>
+        <item>%d mēģinājums</item>
+        <item>%d mēģinājumi</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item>%d lietotņu</item>
+        <item>%d lietotne</item>
+        <item>%d lietotnes</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item>Vismaz %d lietotnes</item>
+        <item>Vismaz %d lietotne</item>
+        <item>Vismaz %d lietotnes</item>
+    </plurals>
+    <plurals name="hours">
+        <item>%s stundu</item>
+        <item>%s stunda</item>
+        <item>%s stundas</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item>Ir jāietver vismaz %d burti.</item>
+        <item>Ir jāietver vismaz %d burts.</item>
+        <item>Ir jāietver vismaz %d burti.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item>Ir jāietver vismaz %d mazie burti.</item>
+        <item>Ir jāietver vismaz %d mazais burts.</item>
+        <item>Ir jāietver vismaz %d mazie burti.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item>Ir jāietver vismaz %d rakstzīmes, kas nav burti.</item>
+        <item>Ir jāietver vismaz %d rakstzīme, kas nav burts.</item>
+        <item>Ir jāietver vismaz %d rakstzīmes, kas nav burti.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item>Ir jāietver vismaz %d cipari.</item>
+        <item>Ir jāietver vismaz %d cipars.</item>
+        <item>Ir jāietver vismaz %d cipari.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item>Ir jāietver vismaz %d īpašie simboli.</item>
+        <item>Ir jāietver vismaz %d īpašais simbols.</item>
+        <item>Ir jāietver vismaz %d īpašie simboli.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item>Ir jāietver vismaz %d lielie burti.</item>
+        <item>Ir jāietver vismaz %d lielais burts.</item>
+        <item>Ir jāietver vismaz %d lielie burti.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item>%d lietotnēs var lasīt paziņojumus</item>
+        <item>%d lietotnē var lasīt paziņojumus</item>
+        <item>%d lietotnē var lasīt paziņojumus</item>
+    </plurals>
+    <plurals name="manage_trust_agents_summary_on">
+        <item>%d aktīvas uzticamības pārbaudes programmas</item>
+        <item>%d aktīva uzticamības pārbaudes programma</item>
+        <item>%d aktīvas uzticamības pārbaudes programmas</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item>%1$d lietotnes izmantoja atmiņu šādā laika periodā: pēdējā(-ās) %2$s</item>
+        <item>%1$d lietotne izmantoja atmiņu šādā laika periodā: pēdējā(-ās) %2$s</item>
+        <item>%1$d lietotnes izmantoja atmiņu šādā laika periodā: pēdējā(-ās) %2$s</item>
+    </plurals>
+    <plurals name="minutes">
+        <item>%s minūšu</item>
+        <item>%s minūte</item>
+        <item>%s minūtes</item>
+    </plurals>
+    <plurals name="network_restrictions_summary">
+        <item>%1$d ierobežojumi</item>
+        <item>%1$d ierobežojums</item>
+        <item>%1$d ierobežojumi</item>
+    </plurals>
+    <plurals name="notification_group_summary">
+        <item>%d kategoriju</item>
+        <item>%d kategorija</item>
+        <item>%d kategorijas</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item>Izslēgti %d lietotnēm</item>
+        <item>Izslēgti %d lietotnei</item>
+        <item>Izslēgti %d lietotnēm</item>
+    </plurals>
+    <plurals name="notifications_categories_off">
+        <item>%d kategorijas tika izslēgtas</item>
+        <item>%d kategorija tika izslēgta</item>
+        <item>%d kategorijas tika izslēgtas</item>
+    </plurals>
+    <plurals name="number_of_device_admins">
+        <item>%d aktīvu lietotņu</item>
+        <item>%d aktīva lietotne</item>
+        <item>%d aktīvas lietotnes</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item>Piešķirtas %d atļaujas</item>
+        <item>Piešķirta %d atļauja</item>
+        <item>Piešķirtas %d atļaujas</item>
+    </plurals>
+    <plurals name="power_high_usage_summary">
+        <item>%2$d lietotnēs ir neparastas darbības</item>
+        <item>%2$d lietotnē ir neparastas darbības</item>
+        <item>%2$d lietotnēs ir neparastas darbības</item>
+    </plurals>
+    <plurals name="power_high_usage_title">
+        <item>Lietotņu darbības dēļ var tikt izlādēts akumulators</item>
+        <item>Lietotņu darbības dēļ var tikt izlādēts akumulators</item>
+        <item>Lietotņu darbības dēļ var tikt izlādēts akumulators</item>
+    </plurals>
+    <plurals name="print_jobs_summary">
+        <item>%1$d drukas uzdevumi</item>
+        <item>%1$d drukas uzdevums</item>
+        <item>%1$d drukas uzdevumi</item>
+    </plurals>
+    <plurals name="print_settings_summary">
+        <item>Ieslēgti %1$d drukāšanas pakalpojumi</item>
+        <item>Ieslēgts %1$d drukāšanas pakalpojums</item>
+        <item>Ieslēgti %1$d drukāšanas pakalpojumi</item>
+    </plurals>
+    <plurals name="restricted_app_summary">
+        <item>Akumulatora lietojums tiek ierobežots %1$d lietotnēm</item>
+        <item>Akumulatora lietojums tiek ierobežots %1$d lietotnei</item>
+        <item>Akumulatora lietojums tiek ierobežots %1$d lietotnēm</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item>%d papildu atļauju</item>
+        <item>%d papildu atļauja</item>
+        <item>%d papildu atļaujas</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item>Piešķirtās atļaujas: %d no %d</item>
+        <item>Piešķirtās atļaujas: %d no %d</item>
+        <item>Piešķirtās atļaujas: %d no %d</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>%s sekunžu</item>
+        <item>%s sekunde</item>
+        <item>%s sekundes</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item>Iestatīt %1$d pirkstu nospiedumus</item>
+        <item>Iestatīt %1$d pirkstu nospiedumu</item>
+        <item>Iestatīt %1$d pirkstu nospiedumus</item>
+    </plurals>
+    <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item>Rādīt %d slēptus vienumus</item>
+        <item>Rādīt %d slēptu vienumu</item>
+        <item>Rādīt %d slēptus vienumus</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item>Lai jūs kļūtu par izstrādātāju, atlikušas %1$d darbības.</item>
+        <item>Lai jūs kļūtu par izstrādātāju, atlikusi %1$d darbība.</item>
+        <item>Lai jūs kļūtu par izstrādātāju, atlikušas %1$d darbības.</item>
+    </plurals>
+    <plurals name="show_number_hearingaid_count">
+        <item>Saglabāti %1$d dzirdes aparāti</item>
+        <item>Saglabāts %1$d dzirdes aparāts</item>
+        <item>Saglabāti %1$d dzirdes aparāti</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item>%d lietotnēs var izmantot neierobežotu datu apjomu</item>
+        <item>%d lietotnē var izmantot neierobežotu datu apjomu</item>
+        <item>%d lietotnēs var izmantot neierobežotu datu apjomu</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item>Sertifikātu pieņemšana vai noņemšana</item>
+        <item>Sertifikātu pieņemšana vai noņemšana</item>
+        <item>Sertifikātu pieņemšana vai noņemšana</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item>%s instalēja sertificēšanas iestāžu sertifikātus jūsu darba profilam. Šie sertifikāti atļauj iestādēm pārraudzīt darbības darba tīklā, tostarp e-pasta kontus, lietotnes un drošās vietnes.\10\10Lai iegūtu plašāku informāciju par šiem sertifikātiem, sazinieties ar administratoru.</item>
+        <item>%s instalēja sertificēšanas iestāžu sertifikātus jūsu darba profilam. Šie sertifikāti atļauj iestādēm pārraudzīt darbības darba tīklā, tostarp e-pasta kontus, lietotnes un drošās vietnes.\10\10Lai iegūtu plašāku informāciju par šiem sertifikātiem, sazinieties ar administratoru.</item>
+        <item>%s instalēja sertificēšanas iestāžu sertifikātus jūsu darba profilam. Šie sertifikāti atļauj iestādēm pārraudzīt darbības darba tīklā, tostarp e-pasta kontus, lietotnes un drošās vietnes.\10\10Lai iegūtu plašāku informāciju par šiem sertifikātiem, sazinieties ar administratoru.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item>%s instalēja jūsu ierīcē sertificēšanas iestāžu sertifikātus. Šie sertifikāti atļauj iestādēm pārraudzīt darbības jūsu ierīces tīklā, tostarp e-pasta kontus, lietotnes un drošās vietnes.\10\10Lai iegūtu plašāku informāciju par šiem sertifikātiem, sazinieties ar administratoru.</item>
+        <item>%s instalēja jūsu ierīcē sertificēšanas iestāžu sertifikātus. Šie sertifikāti atļauj iestādēm pārraudzīt darbības jūsu ierīces tīklā, tostarp e-pasta kontus, lietotnes un drošās vietnes.\10\10Lai iegūtu plašāku informāciju par šiem sertifikātiem, sazinieties ar administratoru.</item>
+        <item>%s instalēja jūsu ierīcē sertificēšanas iestāžu sertifikātus. Šie sertifikāti atļauj iestādēm pārraudzīt darbības jūsu ierīces tīklā, tostarp e-pasta kontus, lietotnes un drošās vietnes.\10\10Lai iegūtu plašāku informāciju par šiem sertifikātiem, sazinieties ar administratoru.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item>Pārbaudīt sertifikātus</item>
+        <item>Pārbaudīt sertifikātus</item>
+        <item>Pārbaudīt sertifikātus</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_summary">
+        <item>un vēl %1$d ieteikumu</item>
+        <item>un vēl %1$d ieteikums</item>
+        <item>un vēl %1$d ieteikumi</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_title">
+        <item>%1$d ieteikumu</item>
+        <item>%1$d ieteikums</item>
+        <item>%1$d ieteikumi</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item>%d vienumu</item>
+        <item>%d vienums</item>
+        <item>%d vienumi</item>
+    </plurals>
+    <plurals name="wifi_saved_access_points_summary">
+        <item>%d tīkli</item>
+        <item>%d tīkls</item>
+        <item>%d tīkli</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item>Pievienotas %1$d ierīces</item>
+        <item>Pievienota %1$d ierīce</item>
+        <item>Pievienotas %1$d ierīces</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item>Nepareizs SIM kartes PIN kods. Varat mēģināt vēl %d reizes.</item>
+        <item>Nepareizs SIM kartes PIN kods. Varat mēģināt vēl %d reizi.</item>
+        <item>Nepareizs SIM kartes PIN kods. Varat mēģināt vēl %d reizes.</item>
+    </plurals>
+    <plurals name="zen_mode_duration_summary_time_hours">
+        <item>%d stundas (ja vien nav ieslēgts automātiski)</item>
+        <item>%d stundu (ja vien nav ieslēgts automātiski)</item>
+        <item>%d stundas (ja vien nav ieslēgts automātiski)</item>
+    </plurals>
+    <plurals name="zen_mode_settings_summary_on">
+        <item>%d kārtulu</item>
+        <item>%d kārtula</item>
+        <item>%d kārtulas</item>
+    </plurals>
+    <plurals name="zen_mode_sound_summary_summary_off_info">
+        <item>%d kārtulas var tikt ieslēgtas automātiski</item>
+        <item>%d kārtula var tikt ieslēgta automātiski</item>
+        <item>%d kārtulas var tikt ieslēgtas automātiski</item>
+    </plurals>
+    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+        <item>Vēl %d kontaktpersonu</item>
+        <item>Vēl %d kontaktpersona</item>
+        <item>Vēl %d kontaktpersonas</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item>Pāriet uz “Tikai signāli” %1$d stundas (līdz plkst. %2$s)</item>
+        <item>Pāriet uz “Tikai signāli” %1$d stundu (līdz plkst. %2$s)</item>
+        <item>Pāriet uz “Tikai signāli” %1$d stundas (līdz plkst. %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item>Pāriet uz “Tikai signāli” %1$d minūtes (līdz plkst. %2$s)</item>
+        <item>Pāriet uz “Tikai signāli” %1$d minūti (līdz plkst. %2$s)</item>
+        <item>Pāriet uz “Tikai signāli” %1$d minūtes (līdz plkst. %2$s)</item>
+    </plurals>
+</resources>

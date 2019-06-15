@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:settings="http://schemas.android.com/apk/res/com.android.settings" xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="0x1020474" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:gravity="left|center_vertical|center_horizontal|center|start" android:orientation="horizontal" android:id="0x102046a" android:paddingTop="@dimen/oneplus_contorl_layout_margin_top3" android:layout_width="match_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/oneplus_contorl_layout_margin_left3" android:paddingEnd="@dimen/oneplus_contorl_layout_margin_right3">
+        <ImageView android:id="@android:id/icon" android:layout_width="32dp" android:layout_height="32dp" android:src="@null" android:scaleType="fitCenter" android:layout_marginEnd="8dp"/>
+        <com.android.internal.widget.DialogTitle android:textColor="@color/oneplus_contorl_text_color_primary_default" android:ellipsize="end" android:id="@android:id/KEYCODE_VOLUME_UP" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true" android:fontFamily="Medium" android:textAlignment="viewStart" style="?android:attr/windowTitleStyle"/>
+    </LinearLayout>
+    <Space android:id="0x1020465" android:visibility="gone" android:layout_width="match_parent" android:layout_height="0dp"/>
+</LinearLayout>

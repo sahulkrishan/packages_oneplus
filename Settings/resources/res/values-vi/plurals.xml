@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item>Độ trễ cực kỳ ngắn (%1$d mili giây)</item>
+        <item>Độ trễ cực kỳ ngắn (%1$d mili giây)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item>Độ trễ dài (%1$d mili giây)</item>
+        <item>Độ trễ dài (%1$d mili giây)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item>Độ trễ ngắn (%1$d mili giây)</item>
+        <item>Độ trễ ngắn (%1$d mili giây)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item>Độ trễ rất dài (%1$d mili giây)</item>
+        <item>Độ trễ rất dài (%1$d mili giây)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item>Độ trễ rất ngắn (%1$d mili giây)</item>
+        <item>Độ trễ rất ngắn (%1$d mili giây)</item>
+    </plurals>
+    <plurals name="app_notification_listing_summary_others">
+        <item>Tắt cho %d ứng dụng</item>
+        <item>Tắt cho %d ứng dụng</item>
+    </plurals>
+    <plurals name="battery_manager_app_restricted">
+        <item>Đã hạn chế %1$d ứng dụng</item>
+        <item>Đã hạn chế %1$d ứng dụng</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item>Hạn chế ứng dụng?</item>
+        <item>Hạn chế %1$d ứng dụng?</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_summary">
+        <item>Ứng dụng này không thể chạy trong nền</item>
+        <item>Những ứng dụng này không thể chạy trong nền</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_title">
+        <item>Đã hạn chế %1$s gần đây</item>
+        <item>Đã hạn chế %2$d ứng dụng gần đây</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_summary">
+        <item>%1$s có mức sử dụng pin nền cao</item>
+        <item>%2$d ứng dụng có mức sử dụng pin nền cao</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_title">
+        <item>Hạn chế %1$d ứng dụng</item>
+        <item>Hạn chế %1$d ứng dụng</item>
+    </plurals>
+    <plurals name="billing_cycle_days_left">
+        <item>Còn %d ngày</item>
+        <item>Còn %d ngày</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item>1 ứng dụng được phép sử dụng dữ liệu không hạn chế khi Trình tiết kiệm dữ liệu đang bật</item>
+        <item>%1$d ứng dụng được phép sử dụng dữ liệu không hạn chế khi Trình tiết kiệm dữ liệu đang bật</item>
+    </plurals>
+    <plurals name="default_camera_app_title">
+        <item>Ứng dụng Máy ảnh</item>
+        <item>Ứng dụng Máy ảnh</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item>Ứng dụng Email</item>
+        <item>Ứng dụng Email</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item>Ứng dụng Điện thoại</item>
+        <item>Ứng dụng Điện thoại</item>
+    </plurals>
+    <plurals name="deleted_channels">
+        <item>Đã xóa %d danh mục</item>
+        <item>Đã xóa %d danh mục</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item>Xóa ngôn ngữ đã chọn?</item>
+        <item>Xóa các ngôn ngữ đã chọn?</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary_on">
+        <item>Một ứng dụng đang mở liên kết được hỗ trợ</item>
+        <item>%d ứng dụng đang mở liên kết được hỗ trợ</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_ca_certs">
+        <item>Tối thiểu %d chứng chỉ CA</item>
+        <item>Tối thiểu %d chứng chỉ CA</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item>%d lần thử</item>
+        <item>%d lần thử</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item>%d ứng dụng</item>
+        <item>%d ứng dụng</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item>Tối thiểu %d ứng dụng</item>
+        <item>Tối thiểu %d ứng dụng</item>
+    </plurals>
+    <plurals name="hours">
+        <item>1 giờ</item>
+        <item>%s giờ</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item>Phải chứa ít nhất 1 chữ cái</item>
+        <item>Phải chứa ít nhất %d chữ cái</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item>Phải chứa ít nhất 1 chữ thường</item>
+        <item>Phải chứa ít nhất %d chữ thường</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item>Phải chứa ít nhất 1 ký tự không phải chữ cái</item>
+        <item>Phải chứa ít nhất %d ký tự không phải chữ cái</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item>Phải chứa ít nhất 1 chữ số</item>
+        <item>Phải chứa ít nhất %d chữ số</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item>Phải chứa ít nhất 1 ký hiệu đặc biệt</item>
+        <item>Phải chứa ít nhất %d ký hiệu đặc biệt</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item>Phải chứa ít nhất 1 chữ hoa</item>
+        <item>Phải chứa ít nhất %d chữ hoa</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item>%d ứng dụng có thể đọc thông báo</item>
+        <item>%d ứng dụng có thể đọc thông báo</item>
+    </plurals>
+    <plurals name="manage_trust_agents_summary_on">
+        <item>1 tác nhân đáng tin cậy đang hoạt động</item>
+        <item>%d tác nhân đáng tin cậy đang hoạt động</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item>1 ứng dụng đã sử dụng bộ nhớ trong %2$s qua</item>
+        <item>%1$d ứng dụng đã sử dụng bộ nhớ trong %2$s qua</item>
+    </plurals>
+    <plurals name="minutes">
+        <item>1 phút</item>
+        <item>%s phút</item>
+    </plurals>
+    <plurals name="network_restrictions_summary">
+        <item>1 hạn chế</item>
+        <item>%1$d hạn chế</item>
+    </plurals>
+    <plurals name="notification_group_summary">
+        <item>%d loại</item>
+        <item>%d loại</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item>Tắt cho 1 ứng dụng</item>
+        <item>Tắt cho %d ứng dụng</item>
+    </plurals>
+    <plurals name="notifications_categories_off">
+        <item>Đã tắt %d danh mục</item>
+        <item>Đã tắt %d danh mục</item>
+    </plurals>
+    <plurals name="number_of_device_admins">
+        <item>%d ứng dụng đang hoạt động</item>
+        <item>%d ứng dụng đang hoạt động</item>
+    </plurals>
+    <plurals name="oneplus_applock_wrong_pattern_warning">
+        <item>Bạn còn %1$d cơ hội</item>
+    </plurals>
+    <plurals name="oneplus_lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item>Hãy thử lại trong %d giây.</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item>%d quyền được cấp</item>
+        <item>%d quyền được cấp</item>
+    </plurals>
+    <plurals name="power_high_usage_summary">
+        <item>%1$s đang hoạt động bất thường</item>
+        <item>%2$d ứng dụng đang hoạt động bất thường</item>
+    </plurals>
+    <plurals name="power_high_usage_title">
+        <item>%1$s tiêu hao pin</item>
+        <item>Ứng dụng tiêu hao pin</item>
+    </plurals>
+    <plurals name="print_jobs_summary">
+        <item>1 lệnh in</item>
+        <item>%1$d lệnh in</item>
+    </plurals>
+    <plurals name="print_settings_summary">
+        <item>1 dịch vụ in đang bật</item>
+        <item>%1$d dịch vụ in đang bật</item>
+    </plurals>
+    <plurals name="restricted_app_summary">
+        <item>Giới hạn mức sử dụng pin đối với ứng dụng %1$d</item>
+        <item>Giới hạn mức sử dụng pin đối với ứng dụng %1$d</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item>%d quyền bổ sung</item>
+        <item>%d quyền bổ sung</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item>Đã cấp %d trong số %d quyền</item>
+        <item>Đã cấp %d trong %d quyền</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>1 giây</item>
+        <item>%s giây</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item>Đã thiết lập %1$d tệp tham chiếu</item>
+        <item>Đã thiết lập %1$d tệp tham chiếu</item>
+    </plurals>
+    <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item>Hiển thị %d mục ẩn</item>
+        <item>Hiển thị %d mục ẩn</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item>Bây giờ, bạn chỉ cần thực hiện %1$d bước nữa là trở thành nhà phát triển.</item>
+        <item>Bây giờ, bạn chỉ cần thực hiện %1$d bước nữa là trở thành nhà phát triển.</item>
+    </plurals>
+    <plurals name="show_number_hearingaid_count">
+        <item>%1$d thiết bị trợ thính đã lưu</item>
+        <item>%1$d thiết bị trợ thính đã lưu</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item>1 ứng dụng có thể sử dụng dữ liệu không bị hạn chế</item>
+        <item>%d ứng dụng có thể sử dụng dữ liệu không bị hạn chế</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item>Tin tưởng hoặc xóa chứng chỉ</item>
+        <item>Tin tưởng hoặc xóa chứng chỉ</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item>%s đã cài đặt tổ chức phát hành chứng chỉ cho hồ sơ công việc của bạn, chứng chỉ đó có thể cho phép tổ chức này giám sát hoạt động trên mạng công việc, bao gồm email, ứng dụng và trang web bảo mật.\10\10Để biết thêm thông tin về chứng chỉ này, hãy liên hệ với quản trị viên của bạn.</item>
+        <item>%s đã cài đặt tổ chức phát hành chứng chỉ cho hồ sơ công việc của bạn, chứng chỉ đó có thể cho phép tổ chức này giám sát hoạt động trên mạng công việc, bao gồm email, ứng dụng và trang web bảo mật.\10\10Để biết thêm thông tin về các chứng chỉ này, hãy liên hệ với quản trị viên của bạn.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item>%s đã cài đặt tổ chức phát hành chứng chỉ trên thiết bị của bạn, chứng chỉ đó có thể cho phép tổ chức này giám sát hoạt động trên mạng của thiết bị, bao gồm email, ứng dụng và trang web bảo mật.\10\10Để biết thêm thông tin về chứng chỉ này, hãy liên hệ với quản trị viên của bạn.</item>
+        <item>%s đã cài đặt các tổ chức phát hành chứng chỉ trên thiết bị của bạn, chứng chỉ đó có thể cho phép tổ chức này giám sát hoạt động trên mạng của thiết bị, bao gồm email, ứng dụng và trang web bảo mật.\10\10Để biết thêm thông tin về các chứng chỉ này, hãy liên hệ với quản trị viên của bạn.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item>Kiểm tra chứng chỉ</item>
+        <item>Kiểm tra các chứng chỉ</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_summary">
+        <item>+1 đề xuất</item>
+        <item>+%1$d đề xuất</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_title">
+        <item>1 đề xuất</item>
+        <item>%1$d đề xuất</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item>1 mục</item>
+        <item>%d mục</item>
+    </plurals>
+    <plurals name="wifi_saved_access_points_summary">
+        <item>1 mạng</item>
+        <item>%d mạng</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item>%1$d thiết bị được kết nối</item>
+        <item>%1$d thiết bị được kết nối</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item>Mã PIN của SIM không chính xác, bạn còn %d lần thử trước khi bạn phải liên hệ với nhà cung cấp dịch vụ để mở khóa thiết bị của bạn.</item>
+        <item>Mã PIN SIM của bạn không chính xác, bạn còn %d lần thử.</item>
+    </plurals>
+    <plurals name="zen_mode_duration_summary_time_hours">
+        <item>1 giờ (trừ khi được bật tự động)</item>
+        <item>%d giờ (trừ khi được bật tự động)</item>
+    </plurals>
+    <plurals name="zen_mode_settings_summary_on">
+        <item>1 quy tắc</item>
+        <item>%d quy tắc</item>
+    </plurals>
+    <plurals name="zen_mode_sound_summary_summary_off_info">
+        <item>Có thể tự động bật 1 quy tắc</item>
+        <item>Có thể tự động bật %d quy tắc</item>
+    </plurals>
+    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+        <item>1 người khác</item>
+        <item>%d người khác</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item>Đổi sang chỉ báo thức trong một giờ cho đến %2$s</item>
+        <item>Đổi sang chỉ báo thức trong %1$d giờ cho đến %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item>Đổi sang chỉ báo thức trong một phút cho đến %2$s</item>
+        <item>Đổi sang chỉ báo thức trong %1$d phút (cho đến %2$s)</item>
+    </plurals>
+</resources>

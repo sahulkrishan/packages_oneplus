@@ -1,0 +1,52 @@
+package android.support.v17.leanback.widget;
+
+public class ListRow extends Row {
+    private final ObjectAdapter mAdapter;
+    private CharSequence mContentDescription;
+
+    public final ObjectAdapter getAdapter() {
+        return this.mAdapter;
+    }
+
+    public ListRow(HeaderItem header, ObjectAdapter adapter) {
+        super(header);
+        this.mAdapter = adapter;
+        verify();
+    }
+
+    public ListRow(long id, HeaderItem header, ObjectAdapter adapter) {
+        super(id, header);
+        this.mAdapter = adapter;
+        verify();
+    }
+
+    public ListRow(ObjectAdapter adapter) {
+        this.mAdapter = adapter;
+        verify();
+    }
+
+    private void verify() {
+        if (this.mAdapter == null) {
+            throw new IllegalArgumentException("ObjectAdapter cannot be null");
+        }
+    }
+
+    public CharSequence getContentDescription() {
+        if (this.mContentDescription != null) {
+            return this.mContentDescription;
+        }
+        HeaderItem headerItem = getHeaderItem();
+        if (headerItem == null) {
+            return null;
+        }
+        CharSequence contentDescription = headerItem.getContentDescription();
+        if (contentDescription != null) {
+            return contentDescription;
+        }
+        return headerItem.getName();
+    }
+
+    public void setContentDescription(CharSequence contentDescription) {
+        this.mContentDescription = contentDescription;
+    }
+}

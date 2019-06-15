@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:settings="http://schemas.android.com/apk/res/com.android.settings" xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/id_header" android:background="@drawable/op_search_bar_bg" android:layout_width="match_parent" android:layout_height="46dp" android:layout_marginTop="18dp" android:layout_marginBottom="@dimen/oneplus_contorl_layout_margin_bottom2" android:layout_marginStart="16dp" android:layout_marginEnd="16dp">
+    <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" android:layout_centerVertical="true">
+        <ImageView android:id="@android:id/icon" android:layout_width="wrap_content" android:layout_height="match_parent" android:src="@drawable/op_ic_search" android:layout_marginEnd="10dp"/>
+        <TextView android:textColor="@color/oneplus_contorl_text_color_secondary_default" android:ellipsize="marquee" android:id="@android:id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/search_menu" android:maxLines="1" style="@style/oneplus_contorl_text_style_subheading"/>
+        <TextView android:id="@android:id/summary" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    </LinearLayout>
+</RelativeLayout>

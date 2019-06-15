@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item>Kelengahan sangat singkat (%1$d ms)</item>
+        <item>Kelengahan sangat singkat (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item>Kelengahan lama (%1$d ms)</item>
+        <item>Kelengahan lama (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item>Kelengahan singkat (%1$d ms)</item>
+        <item>Kelengahan singkat (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item>Kelengahan sangat lama (%1$d ms)</item>
+        <item>Kelengahan sangat lama (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item>Kelengahan sangat singkat (%1$d ms)</item>
+        <item>Kelengahan sangat singkat (%1$d ms)</item>
+    </plurals>
+    <plurals name="app_notification_listing_summary_others">
+        <item>Dimatikan untuk %d apl</item>
+        <item>Dimatikan untuk %d apl</item>
+    </plurals>
+    <plurals name="battery_manager_app_restricted">
+        <item>%1$d apl disekat</item>
+        <item>%1$d apl disekat</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item>Hadkan apl?</item>
+        <item>Hadkan %1$d apl?</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_summary">
+        <item>Apl ini tidak dapat dijalankan di latar belakang</item>
+        <item>Apl ini tidak dapat dijalankan di latar belakang</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_title">
+        <item>%1$s disekat baru-baru ini</item>
+        <item>%2$d apl disekat baru-baru ini</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_summary">
+        <item>%1$s menunjukkan penggunaan bateri latar belakang yang tinggi</item>
+        <item>%2$d apl menunjukkan penggunaan bateri latar belakang yang tinggi</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_title">
+        <item>Hadkan %1$d apl</item>
+        <item>Hadkan %1$d apl</item>
+    </plurals>
+    <plurals name="billing_cycle_days_left">
+        <item>%d hari lagi</item>
+        <item>%d hari lagi</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item>1 apl dibenarkan menggunakan data tanpa had apabila Penjimat Data dihidupkan</item>
+        <item>%1$d apl dibenarkan menggunakan data tanpa had apabila Penjimat Data dihidupkan</item>
+    </plurals>
+    <plurals name="default_camera_app_title">
+        <item>Apl kamera</item>
+        <item>Apl kamera</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item>Apl klien e-mel</item>
+        <item>Apl klien e-mel</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item>Apl telefon</item>
+        <item>Apl telefon</item>
+    </plurals>
+    <plurals name="deleted_channels">
+        <item>%d kategori dipadamkan</item>
+        <item>%d kategori dipadamkan</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item>Alih keluar bahasa yang dipilih?</item>
+        <item>Alih keluar bahasa yang dipilih?</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary_on">
+        <item>Satu apl membuka pautan yang disokong</item>
+        <item>%d apl membuka pautan yang disokong</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_ca_certs">
+        <item>Minimum %d sijil CA</item>
+        <item>Minimum %d sijil CA</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item>%d percubaan</item>
+        <item>%d percubaan</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item>%d apl</item>
+        <item>%d apl</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item>Minimum %d apl</item>
+        <item>Minimum %d apl</item>
+    </plurals>
+    <plurals name="hours">
+        <item>1 jam</item>
+        <item>%s jam</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item>Mesti mengandungi sekurang-kurangnya 1 huruf</item>
+        <item>Mesti mengandungi sekurang-kurangnya %d huruf</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item>Mesti mengandungi sekurang-kurangnya 1 huruf kecil</item>
+        <item>Mesti mengandungi sekurang-kurangnya %d huruf kecil</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item>Mesti mengandungi sekurang-kurangnya 1 aksara bukan huruf</item>
+        <item>Mesti mengandungi sekurang-kurangnya %d aksara bukan huruf</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item>Mesti mengandungi sekurang-kurangnya 1 angka</item>
+        <item>Mesti mengandungi sekurang-kurangnya %d angka</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item>Mesti mengandungi sekurang-kurangnya 1 simbol khas</item>
+        <item>Mesti mengandungi sekurang-kurangnya %d simbol khas</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item>Mesti mengandungi sekurang-kurangnya 1 huruf besar</item>
+        <item>Mesti mengandungi sekurang-kurangnya %d huruf besar</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item>%d apl boleh membaca pemberitahuan</item>
+        <item>%d apl boleh membaca pemberitahuan</item>
+    </plurals>
+    <plurals name="manage_trust_agents_summary_on">
+        <item>1 ejen amanah aktif</item>
+        <item>%d ejen amanah aktif</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item>1 apl menggunakan memori dalam %2$s yang lalu</item>
+        <item>%1$d apl menggunakan memori dalam %2$s yang lalu</item>
+    </plurals>
+    <plurals name="minutes">
+        <item>1 minit</item>
+        <item>%s minit</item>
+    </plurals>
+    <plurals name="network_restrictions_summary">
+        <item>1 sekatan</item>
+        <item>%1$d sekatan</item>
+    </plurals>
+    <plurals name="notification_group_summary">
+        <item>%d kategori</item>
+        <item>%d kategori</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item>Dimatikan untuk 1 apl</item>
+        <item>Dimatikan untuk %d apl</item>
+    </plurals>
+    <plurals name="notifications_categories_off">
+        <item>%d kategori dimatikan</item>
+        <item>%d kategori dimatikan</item>
+    </plurals>
+    <plurals name="number_of_device_admins">
+        <item>%d apl aktif</item>
+        <item>%d apl aktif</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item>%d kebenaran diberikan</item>
+        <item>%d kebenaran diberikan</item>
+    </plurals>
+    <plurals name="power_high_usage_summary">
+        <item>%1$s bergelagat luar biasa</item>
+        <item>%2$d apl bergelagat luar biasa</item>
+    </plurals>
+    <plurals name="power_high_usage_title">
+        <item>%1$s menyusutkan kuasa bateri</item>
+        <item>Apl menyusutkan kuasa bateri</item>
+    </plurals>
+    <plurals name="print_jobs_summary">
+        <item>1 tugas cetak</item>
+        <item>%1$d tugas cetak</item>
+    </plurals>
+    <plurals name="print_settings_summary">
+        <item>1 perkhidmatan cetak dihidupkan</item>
+        <item>%1$d perkhidmatan cetak dihidupkan</item>
+    </plurals>
+    <plurals name="restricted_app_summary">
+        <item>Mengehadkan penggunaan bateri untuk %1$d apl</item>
+        <item>Mengehadkan penggunaan bateri untuk %1$d apl</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item>%d kebenaran tambahan</item>
+        <item>%d kebenaran tambahan</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item>%d daripada %d kebenaran diberikan</item>
+        <item>%d daripada %d kebenaran diberikan</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>1 saat</item>
+        <item>%s saat</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item>%1$d cap jari disediakan</item>
+        <item>%1$d cap jari disediakan</item>
+    </plurals>
+    <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item>Tunjukkan %d item yang tersembunyi</item>
+        <item>Tunjukkan %d item yang tersembunyi</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item>Anda kini %1$d langkah daripada menjadi pembangun.</item>
+        <item>Anda kini %1$d langkah daripada menjadi pembangun.</item>
+    </plurals>
+    <plurals name="show_number_hearingaid_count">
+        <item>%1$d alat bantu pendengaran disimpan</item>
+        <item>%1$d alat bantu pendengaran disimpan</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item>1 apl boleh menggunakan data tanpa had</item>
+        <item>%d apl boleh menggunakan data tanpa had</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item>Percayai atau alih keluar sijil</item>
+        <item>Percayai atau alih keluar sijil</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item>%s telah memasang sijil kuasa untuk profil kerja anda yang mungkin membenarkan pemantauan aktiviti rangkaian kerja, termasuk e-mel, apl dan tapak web selamat.\10\10Hubungi pentadbir anda untuk mengetahui lebih lanjut tentang sijil ini.</item>
+        <item>%s telah memasang sijil kuasa untuk profil kerja anda yang mungkin membenarkan pemantauan aktiviti rangkaian kerja, termasuk e-mel, apl dan tapak web selamat.\10\10Hubungi pentadbir anda untuk mengetahui lebih lanjut tentang sijil ini.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item>%s telah memasang sijil kuasa pada peranti anda yang mungkin membenarkan pemantauan aktiviti rangkaian peranti anda, termasuk e-mel, apl dan tapak web selamat.\10\10Hubungi pentadbir anda untuk mengetahui lebih lanjut tentang sijil ini.</item>
+        <item>%s telah memasang sijil kuasa pada peranti anda yang mungkin membenarkan pemantauan aktiviti rangkaian peranti anda, termasuk e-mel, apl dan tapak web selamat.\10\10Hubungi pentadbir anda untuk mengetahui lebih lanjut tentang sijil ini.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item>Semak sijil</item>
+        <item>Semak sijil</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_summary">
+        <item>+1 cadangan</item>
+        <item>+%1$d cadangan</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_title">
+        <item>1 cadangan</item>
+        <item>%1$d cadangan</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item>1 item</item>
+        <item>%d item</item>
+    </plurals>
+    <plurals name="wifi_saved_access_points_summary">
+        <item>1 rangkaian</item>
+        <item>%d rangkaian</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item>%1$d peranti disambungkan</item>
+        <item>%1$d peranti disambungkan</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item>Kod PIN SIM tidak betul. Anda ada %d cubaan lagi sebelum anda harus menghubungi pembawa anda untuk membuka kunci peranti.</item>
+        <item>Kod PIN SIM salah, anda ada %d cubaan lagi.</item>
+    </plurals>
+    <plurals name="zen_mode_duration_summary_time_hours">
+        <item>1 jam (melainkan dihidupkan secara automatik)</item>
+        <item>%d jam (melainkan dihidupkan secara automatik)</item>
+    </plurals>
+    <plurals name="zen_mode_settings_summary_on">
+        <item>1 peraturan</item>
+        <item>%d peraturan</item>
+    </plurals>
+    <plurals name="zen_mode_sound_summary_summary_off_info">
+        <item>1 peraturan boleh dihidupkan secara automatik</item>
+        <item>%d peraturan boleh dihidupkan secara automatik</item>
+    </plurals>
+    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+        <item>seorang lagi</item>
+        <item>%d yang lain</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item>Tukar kepada penggera hanya untuk satu jam sehingga %2$s</item>
+        <item>Tukar kepada penggera hanya untuk %1$d jam sehingga %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item>Tukar kepada penggera hanya untuk satu minit sehingga %2$s</item>
+        <item>Tukar kepada penggera hanya untuk %1$d minit (sehingga %2$s)</item>
+    </plurals>
+</resources>
