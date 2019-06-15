@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:settings="http://schemas.android.com/apk/res/com.android.settings" xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="56dp">
+    <ImageView android:id="@+id/left_ico" android:layout_width="40dp" android:layout_height="40dp" android:src="@mipmap/op_ic_launcher_settings" android:layout_centerVertical="true" android:layout_marginStart="16dp" android:layout_alignParentStart="true"/>
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@+id/layout_center" android:layout_width="150dp" android:layout_height="wrap_content" android:layout_marginTop="5dp" android:layout_marginBottom="5dp" android:layout_centerVertical="true" android:layout_marginStart="16dp" android:layout_toEndOf="@+id/left_ico">
+        <TextView android:textSize="16sp" android:textColor="@color/oneplus_font_list_subtitle" android:ellipsize="marquee" android:id="@+id/lefttitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true"/>
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@+id/layout_right" android:layout_width="wrap_content" android:layout_height="52dp" android:minWidth="64dp" android:layout_marginEnd="@dimen/oneplus_settings_layout_margin_right1" android:layout_alignParentEnd="true">
+        <TextView android:textSize="16sp" android:gravity="center" android:id="@+id/right_button" android:layout_width="wrap_content" android:layout_height="36dp" android:minWidth="@dimen/oneplus_contorl_list_item_height_one_line2" android:layout_marginStart="8dp" android:layout_marginEnd="8dp"/>
+    </LinearLayout>
+</RelativeLayout>

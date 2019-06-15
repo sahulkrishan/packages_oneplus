@@ -1,0 +1,16 @@
+package com.android.settings.dashboard;
+
+import java.util.List;
+import java.util.function.Function;
+
+/* compiled from: lambda */
+public final /* synthetic */ class -$$Lambda$seyL25CSW2NInOydsTbSDrNW6pM implements Function {
+    public static final /* synthetic */ -$$Lambda$seyL25CSW2NInOydsTbSDrNW6pM INSTANCE = new -$$Lambda$seyL25CSW2NInOydsTbSDrNW6pM();
+
+    private /* synthetic */ -$$Lambda$seyL25CSW2NInOydsTbSDrNW6pM() {
+    }
+
+    public final Object apply(Object obj) {
+        return ((List) obj).stream();
+    }
+}

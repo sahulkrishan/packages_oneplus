@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item>Pred %d dňom</item>
+        <item>Pred %d dňami</item>
+        <item>Pred %d dňami</item>
+        <item>Pred %d dňami</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item>Pred %d min</item>
+        <item>Pred %d min</item>
+        <item>Pred %d min</item>
+        <item>Pred %d min</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item>Pred %d rokom</item>
+        <item>Pred %d rokmi</item>
+        <item>Pred %d rokom</item>
+        <item>Pred %d rokmi</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item>Extrémne krátke oneskorenie (%1$d ms)</item>
+        <item>Extrémne krátke oneskorenie (%1$d ms)</item>
+        <item>Extrémne krátke oneskorenie (%1$d ms)</item>
+        <item>Extrémne krátke oneskorenie (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item>Dlhé oneskorenie (%1$d ms)</item>
+        <item>Dlhé oneskorenie (%1$d ms)</item>
+        <item>Dlhé oneskorenie (%1$d ms)</item>
+        <item>Dlhé oneskorenie (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item>Krátke oneskorenie (%1$d ms)</item>
+        <item>Krátke oneskorenie (%1$d ms)</item>
+        <item>Krátke oneskorenie (%1$d ms)</item>
+        <item>Krátke oneskorenie (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item>Veľmi dlhé oneskorenie (%1$d ms)</item>
+        <item>Veľmi dlhé oneskorenie (%1$d ms)</item>
+        <item>Veľmi dlhé oneskorenie (%1$d ms)</item>
+        <item>Veľmi dlhé oneskorenie (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item>Veľmi krátke oneskorenie (%1$d ms)</item>
+        <item>Veľmi krátke oneskorenie (%1$d ms)</item>
+        <item>Veľmi krátke oneskorenie (%1$d ms)</item>
+        <item>Veľmi krátke oneskorenie (%1$d ms)</item>
+    </plurals>
+    <plurals name="app_notification_listing_summary_others">
+        <item>Vypnuté pre %d aplikáciu</item>
+        <item>Vypnuté pre %d aplikácie</item>
+        <item>Off for %d apps</item>
+        <item>Vypnuté pre %d aplikácií</item>
+    </plurals>
+    <plurals name="battery_manager_app_restricted">
+        <item>%1$d obmedzená aplikácia</item>
+        <item>%1$d obmedzené aplikácie</item>
+        <item>%1$d obmedzenej aplikácie</item>
+        <item>%1$d obmedzených aplikácií</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item>Obmedziť aplikáciu?</item>
+        <item>Obmedziť %1$d aplikácie?</item>
+        <item>Obmedziť %1$d aplikácie?</item>
+        <item>Obmedziť %1$d aplikácií?</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_summary">
+        <item>Táto aplikácia sa nedá spustiť na pozadí</item>
+        <item>Tieto aplikácie sa nedajú spustiť na pozadí</item>
+        <item>Tieto aplikácie sa nedajú spustiť na pozadí</item>
+        <item>Tieto aplikácie sa nedajú spustiť na pozadí</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_title">
+        <item>%1$s aplikácia bola nedávno obmedzená</item>
+        <item>%2$d aplikácie boli nedávno obmedzené</item>
+        <item>%2$d aplikácie bolo nedávno obmedzenej</item>
+        <item>%2$d aplikácií bolo nedávno obmedzených</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_summary">
+        <item>%1$s aplikácia má vysokú spotrebu batérie na pozadí</item>
+        <item>%2$d aplikácie majú vysokú spotrebu batérie na pozadí</item>
+        <item>%2$d aplikácie má vysokú spotrebu batérie na pozadí</item>
+        <item>%2$d aplikácií má vysokú spotrebu batérie na pozadí</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_title">
+        <item>Obmedziť %1$d aplikáciu</item>
+        <item>Obmedziť %1$d aplikácie</item>
+        <item>Obmedziť %1$d aplikácie</item>
+        <item>Obmedziť %1$d aplikácií</item>
+    </plurals>
+    <plurals name="billing_cycle_days_left">
+        <item>Zostáva %d deň</item>
+        <item>Zostávajú %d dni</item>
+        <item>Zostáva %d dňa</item>
+        <item>Zostáva %d dní</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item>1 aplikácia má povolené používať neobmedzené dáta, keď je zapnutý šetrič dát</item>
+        <item>%1$d aplikácie majú povolené používať neobmedzené dáta, keď je zapnutý šetrič dát</item>
+        <item>%1$d aplikácie má povolené používať neobmedzené dáta, keď je zapnutý šetrič dáta</item>
+        <item>%1$d aplikácií má povolené používať neobmedzené dáta, keď je zapnutý šetrič dát</item>
+    </plurals>
+    <plurals name="default_camera_app_title">
+        <item>Aplikácia na fotografovanie</item>
+        <item>Aplikácie na fotografovanie</item>
+        <item>Aplikácie na fotografovanie</item>
+        <item>Aplikácie na fotografovanie</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item>E-mailová aplikácia</item>
+        <item>E-mailové aplikácie</item>
+        <item>E-mailové aplikácie</item>
+        <item>E-mailové aplikácie</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item>Aplikácia na telefonovanie</item>
+        <item>Aplikácie na telefonovanie</item>
+        <item>Aplikácie na telefonovanie</item>
+        <item>Aplikácie na telefonovanie</item>
+    </plurals>
+    <plurals name="deleted_channels">
+        <item>Bola odstránená %d kategória</item>
+        <item>Boli odstránené %d kategórie</item>
+        <item>Bolo odstránenej %d kategórie</item>
+        <item>Bolo odstránených %d kategórií</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item>Odstrániť vybratý jazyk?</item>
+        <item>Odstrániť vybraté jazyky?</item>
+        <item>Odstrániť vybraté jazyky?</item>
+        <item>Odstrániť vybraté jazyky?</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary_on">
+        <item>Podporované odkazy otvára jedna aplikácia</item>
+        <item>Podporované odkazy otvárajú %d aplikácie</item>
+        <item>Podporované odkazy otvára %d aplikácie</item>
+        <item>Podporované odkazy otvára %d aplikácií</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_ca_certs">
+        <item>Minimálne %d certifikát CA</item>
+        <item>Minimálne %d certifikáty CA</item>
+        <item>Minimálne %d certifikátu CA</item>
+        <item>Minimálne %d certifikátov CA</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item>%d pokus</item>
+        <item>%d pokusy</item>
+        <item>%d pokusu</item>
+        <item>%d pokusov</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item>%d aplikácia</item>
+        <item>%d aplikácie</item>
+        <item>%d aplikácie</item>
+        <item>%d aplikácií</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item>Minimálne %d aplikácia</item>
+        <item>Minimálne %d aplikácie</item>
+        <item>Minimálne %d aplikácie</item>
+        <item>Minimálne %d aplikácií</item>
+    </plurals>
+    <plurals name="hours">
+        <item>1 hodina</item>
+        <item>%s hodiny</item>
+        <item>%s hodiny</item>
+        <item>%s hodín</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item>Musí obsahovať aspoň 1 písmeno</item>
+        <item>Musí obsahovať aspoň %d písmená</item>
+        <item>Musí obsahovať aspoň %d písmena</item>
+        <item>Musí obsahovať aspoň %d písmen</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item>Musí obsahovať aspoň 1 malé písmeno</item>
+        <item>Musí obsahovať aspoň %d malé písmená</item>
+        <item>Musí obsahovať aspoň %d malého písmena</item>
+        <item>Musí obsahovať aspoň %d malých písmen</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item>Musí obsahovať aspoň 1 znak, ktorý nie je písmeno</item>
+        <item>Musí obsahovať aspoň %d znaky, ktoré nie sú písmená</item>
+        <item>Musí obsahovať aspoň %d znaku, ktorý nie je písmeno</item>
+        <item>Musí obsahovať aspoň %d znakov, ktoré nie sú písmená</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item>Musí obsahovať aspoň 1 číslo</item>
+        <item>Musí obsahovať aspoň %d čísla</item>
+        <item>Musí obsahovať aspoň %d čísla</item>
+        <item>Musí obsahovať aspoň %d čísel</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item>Musí obsahovať aspoň 1 špeciálny symbol</item>
+        <item>Musí obsahovať aspoň %d špeciálne symboly</item>
+        <item>Musí obsahovať aspoň %d špeciálneho symbolu</item>
+        <item>Musí obsahovať aspoň %d špeciálnych symbolov</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item>Musí obsahovať aspoň 1 veľké písmeno</item>
+        <item>Musí obsahovať aspoň %d veľké písmená</item>
+        <item>Musí obsahovať aspoň %d veľkého písmena</item>
+        <item>Musí obsahovať aspoň %d veľkých písmen</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item>%d aplikácia dokáže čítať upozornenia</item>
+        <item>%d aplikácie dokážu čítať upozornenia</item>
+        <item>%d aplikácie dokáže čítať upozornenia</item>
+        <item>%d aplikácií dokáže čítať upozornenia</item>
+    </plurals>
+    <plurals name="manage_trust_agents_summary_on">
+        <item>1 aktívny agent dôvery</item>
+        <item>%d aktívne agenty dôvery</item>
+        <item>%d aktívneho agenta dôvery</item>
+        <item>%d aktívnych agentov dôvery</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item>1 aplikácia použila pamäť za obdobie: %2$s</item>
+        <item>%1$d aplikácie použili pamäť za obdobie: %2$s</item>
+        <item>%1$d aplikácie použilo pamäť za obdobie: %2$s</item>
+        <item>%1$d aplikácií použilo pamäť za obdobie: %2$s</item>
+    </plurals>
+    <plurals name="minutes">
+        <item>1 minúta</item>
+        <item>%s minúty</item>
+        <item>%s minúty</item>
+        <item>%s minút</item>
+    </plurals>
+    <plurals name="network_restrictions_summary">
+        <item>1 obmedzenie</item>
+        <item>%1$d obmedzenia</item>
+        <item>%1$d obmedzenia</item>
+        <item>%1$d obmedzení</item>
+    </plurals>
+    <plurals name="notification_group_summary">
+        <item>%d kategória</item>
+        <item>%d kategórie</item>
+        <item>%d kategórie</item>
+        <item>%d kategórií</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item>Vypnuté pre 1 aplikáciu</item>
+        <item>Vypnuté pre %d aplikácie</item>
+        <item>Vypnuté pre %d aplikácie</item>
+        <item>Vypnuté pre %d aplikácií</item>
+    </plurals>
+    <plurals name="notifications_categories_off">
+        <item>%d kategória bola vypnutá</item>
+        <item>%d kategórie boli vypnuté</item>
+        <item>%d categories turned off</item>
+        <item>%d kategórií bolo vypnutých</item>
+    </plurals>
+    <plurals name="number_of_device_admins">
+        <item>%d aktívna aplikácia</item>
+        <item>%d aktívne aplikácie</item>
+        <item>%d aktívnej aplikácie</item>
+        <item>%d aktívnych aplikácií</item>
+    </plurals>
+    <plurals name="oneplus_applock_wrong_pattern_warning">
+        <item>Zostáva %1$d pokus</item>
+        <item>Zostávajú %1$d pokusy</item>
+        <item>Zostáva %1$d pokusov</item>
+        <item>Zostáva %1$d pokusov</item>
+    </plurals>
+    <plurals name="oneplus_lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item>Skúste znova o %d sekundu.</item>
+        <item>Skúste znova o %d sekundy.</item>
+        <item>Skúste znova o %d sekúnd.</item>
+        <item>Skúste znova o %d sekúnd.</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item>Bolo udelené %d povolenie</item>
+        <item>Boli udelené %d povolenia</item>
+        <item>Bolo udeleného %d povolenia</item>
+        <item>Bolo udelených %d povolení</item>
+    </plurals>
+    <plurals name="power_high_usage_summary">
+        <item>%1$s aplikácia sa správa nezvyčajne</item>
+        <item>%2$d aplikácie sa správajú nezvyčajne</item>
+        <item>%2$d apps behaving abnormally</item>
+        <item>%2$d aplikácií sa správa nezvyčajne</item>
+    </plurals>
+    <plurals name="power_high_usage_title">
+        <item>%1$s vybíja batériu</item>
+        <item>Aplikácie vybíjajúce batériu</item>
+        <item>Aplikácie vybíjajúce batériu</item>
+        <item>Aplikácie vybíjajúce batériu</item>
+    </plurals>
+    <plurals name="print_jobs_summary">
+        <item>1 tlačová úloha</item>
+        <item>%1$d tlačové úlohy</item>
+        <item>%1$d tlačovej úlohy</item>
+        <item>%1$d tlačových úloh</item>
+    </plurals>
+    <plurals name="print_settings_summary">
+        <item>1 zapnutá tlačová služba</item>
+        <item>%1$d zapnuté tlačové služby</item>
+        <item>%1$d print services on</item>
+        <item>%1$d zapnutých tlačových služieb</item>
+    </plurals>
+    <plurals name="restricted_app_summary">
+        <item>Obmedzuje sa využitie batérie %1$d aplikáciou</item>
+        <item>Obmedzuje sa využitie batérie %1$d aplikáciami</item>
+        <item>Limiting battery usage for %1$d apps</item>
+        <item>Obmedzuje sa využitie batérie %1$d aplikáciami</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item>%d ďalšie povolenie</item>
+        <item>%d ďalšie povolenia</item>
+        <item>%d ďalšieho povolenia</item>
+        <item>%d ďalších povolení</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item>%d udelené povolenie z %d</item>
+        <item>%d udelené povolenia z %d</item>
+        <item>%d udeleného povolenia z %d</item>
+        <item>%d udelených povolení z %d</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>1 sekunda</item>
+        <item>%s sekundy</item>
+        <item>%s sekundy</item>
+        <item>%s sekúnd</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item>Nastavený %1$d odtlačok</item>
+        <item>Nastavené %1$d odtlačky</item>
+        <item>%1$d fingerprints set up</item>
+        <item>Nastavených %1$d odtlačkov</item>
+    </plurals>
+    <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item>Zobraziť %d skrytú položku</item>
+        <item>Zobraziť %d skryté položky</item>
+        <item>Zobraziť %d skrytej položky</item>
+        <item>Zobraziť %d skrytých položiek</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item>Ešte %1$d krok a bude z vás vývojár.</item>
+        <item>Ešte %1$d krok a bude z vás vývojár.</item>
+        <item>Ešte %1$d kroka a bude z vás vývojár.</item>
+        <item>Ešte %1$d krokov a bude z vás vývojár.</item>
+    </plurals>
+    <plurals name="show_number_hearingaid_count">
+        <item>%1$d uložená načúvacia pomôcka</item>
+        <item>%1$d uložené načúvacie pomôcky</item>
+        <item>%1$d saved hearing aids</item>
+        <item>%1$d uložených načúvacích pomôcok</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item>Neobmedzené dáta môže používať 1 aplikácia</item>
+        <item>Neobmedzené dáta môžu používať %d aplikácie</item>
+        <item>Neobmedzené dáta môže používať %d aplikácie</item>
+        <item>Neobmedzené dáta môže používať %d aplikácií</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item>Nastavte certifikát ako dôveryhodný alebo ho odstráňte</item>
+        <item>Nastavte certifikáty ako dôveryhodné alebo ich odstráňte</item>
+        <item>Nastavte certifikáty ako dôveryhodné alebo ich odstráňte</item>
+        <item>Nastavte certifikáty ako dôveryhodné alebo ich odstráňte</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item>Doména %s nainštalovala pre váš pracovný profil certifikačnú autoritu, ktorá jej môže umožniť monitorovať aktivitu v pracovnej sieti vrátane pošty, aplikácií a zabezpečených webov.\10\10Ďalšie informácie o tomto certifikáte získate od svojho správcu.</item>
+        <item>Doména %s nainštalovala pre váš pracovný profil certifikačné autority, ktoré jej môžu umožniť monitorovať aktivitu v pracovnej sieti vrátane pošty, aplikácií a zabezpečených webov.\10\10Ďalšie informácie o týchto certifikátoch získate od svojho správcu.</item>
+        <item>Doména %s nainštalovala pre váš pracovný profil certifikačné autority, ktoré jej môžu umožniť monitorovať aktivitu v pracovnej sieti vrátane pošty, aplikácií a zabezpečených webov.\10\10Ďalšie informácie o týchto certifikátoch získate od svojho správcu.</item>
+        <item>Doména %s nainštalovala pre váš pracovný profil certifikačné autority, ktoré jej môžu umožniť monitorovať aktivitu v pracovnej sieti vrátane pošty, aplikácií a zabezpečených webov.\10\10Ďalšie informácie o týchto certifikátoch získate od svojho správcu.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item>Doména %s nainštalovala na vaše zariadenie certifikačnú autoritu, ktorá jej umožní monitorovať aktivitu v sieti zariadenia vrátane pošty, aplikácií a zabezpečených webov.\10\10Ďalšie informácie o tomto certifikáte získate od svojho správcu.</item>
+        <item>Doména %s nainštalovala na vaše zariadenie certifikačné autority, ktoré jej umožnia monitorovať aktivitu v sieti zariadenia vrátane pošty, aplikácií a zabezpečených webov.\10\10Ďalšie informácie o týchto certifikátoch získate od svojho správcu.</item>
+        <item>Doména %s nainštalovala na vaše zariadenie certifikačné autority, ktoré jej umožnia monitorovať aktivitu v sieti zariadenia vrátane pošty, aplikácií a zabezpečených webov.\10\10Ďalšie informácie o týchto certifikátoch získate od svojho správcu.</item>
+        <item>Doména %s nainštalovala na vaše zariadenie certifikačné autority, ktoré jej umožnia monitorovať aktivitu v sieti zariadenia vrátane pošty, aplikácií a zabezpečených webov.\10\10Ďalšie informácie o týchto certifikátoch získate od svojho správcu.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item>Overiť certifikát</item>
+        <item>Overiť certifikáty</item>
+        <item>Overiť certifikáty</item>
+        <item>Overiť certifikáty</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_summary">
+        <item>+ 1 návrh</item>
+        <item>+ %1$d návrhy</item>
+        <item>+ %1$d návrhu</item>
+        <item>+ %1$d návrhov</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_title">
+        <item>1 návrh</item>
+        <item>%1$d návrhy</item>
+        <item>%1$d návrhu</item>
+        <item>%1$d návrhov</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item>1 položka</item>
+        <item>%d položky</item>
+        <item>%d položky</item>
+        <item>%d položiek</item>
+    </plurals>
+    <plurals name="wifi_saved_access_points_summary">
+        <item>1 sieť</item>
+        <item>%d siete</item>
+        <item>%d siete</item>
+        <item>%d sietí</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item>%1$d pripojené zariadenie</item>
+        <item>%1$d pripojené zariadenia</item>
+        <item>%1$d pripojeného zariadenia</item>
+        <item>%1$d pripojených zariadení</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item>Nesprávny kód PIN SIM karty. Zostáva vám %d pokus, potom budete musieť kontaktovať svojho operátora, aby vám odomkol zariadenie.</item>
+        <item>Nesprávny kód PIN SIM karty. Zostávajú vám %d pokusy.</item>
+        <item>Nesprávny kód PIN SIM karty. Zostáva vám %d pokusu.</item>
+        <item>Nesprávny kód PIN SIM karty. Zostáva vám %d pokusov.</item>
+    </plurals>
+    <plurals name="zen_mode_duration_summary_time_hours">
+        <item>1 hodina (pokiaľ nebolo zapnuté automaticky)</item>
+        <item>%d hodiny (pokiaľ nebolo zapnuté automaticky)</item>
+        <item>%d hodiny (pokiaľ nebolo zapnuté automaticky)</item>
+        <item>%d hodín (pokiaľ nebolo zapnuté automaticky)</item>
+    </plurals>
+    <plurals name="zen_mode_settings_summary_on">
+        <item>1 pravidlo</item>
+        <item>%d pravidlá</item>
+        <item>%d pravidla</item>
+        <item>%d pravidiel</item>
+    </plurals>
+    <plurals name="zen_mode_sound_summary_summary_off_info">
+        <item>1 pravidlo sa môže zapnúť automaticky</item>
+        <item>%d pravidlá sa môžu zapnúť automaticky</item>
+        <item>%d pravidla sa môže zapnúť automaticky</item>
+        <item>%d pravidiel sa môže zapnúť automaticky</item>
+    </plurals>
+    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+        <item>1 ďalší</item>
+        <item>%d ďalší</item>
+        <item>%d others</item>
+        <item>%d ďalších</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item>Zmena na možnosť Iba budíky platná hodinu do %2$s</item>
+        <item>Zmena na možnosť Iba budíky platná %1$d hodiny do %2$s</item>
+        <item>Zmena na možnosť Iba budíky platná %1$d hodiny do %2$s</item>
+        <item>Zmena na možnosť Iba budíky platná %1$d hodín do %2$s</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item>Zmena na možnosť Iba budíky platná minútu do %2$s</item>
+        <item>Zmena na možnosť Iba budíky platná %1$d minúty (do %2$s)</item>
+        <item>Zmena na možnosť Iba budíky platná %1$d minúty (do %2$s)</item>
+        <item>Zmena na možnosť Iba budíky platná %1$d minút (do %2$s)</item>
+    </plurals>
+</resources>

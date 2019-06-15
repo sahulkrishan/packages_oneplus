@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="KeyguardAppWidgetItem">
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="Theme.ConfirmDeviceCredentials">
+        <item name="confirmDeviceCredentialsSideMargin">@dimen/confirm_credentials_side_margin</item>
+        <item name="confirmDeviceCredentialsTopMargin">@dimen/confirm_credentials_top_margin</item>
+    </style>
+    <style name="Theme.CreateShortCut">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="setup_wizard_button">
+        <item name="android:textAppearance">?android:attr/textAppearanceMedium</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:minWidth">208dp</item>
+    </style>
+</resources>

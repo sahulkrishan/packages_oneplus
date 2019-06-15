@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Menu">
+    </style>
+    <style name="Base.TextAppearance.AppCompat.Widget.Button.Inverse">
+    </style>
+    <style name="Base.Theme.AppCompat">
+    </style>
+    <style name="Base.Theme.AppCompat.Light">
+    </style>
+    <style name="Base.V23.Theme.AppCompat">
+        <item name="actionBarItemBackground">?android:attr/actionBarItemBackground</item>
+        <item name="actionMenuTextAppearance">?android:attr/actionMenuTextAppearance</item>
+        <item name="actionMenuTextColor">?android:attr/actionMenuTextColor</item>
+        <item name="controlBackground">@drawable/abc_control_background_material</item>
+        <item name="ratingBarStyleIndicator">?android:attr/ratingBarStyleIndicator</item>
+        <item name="ratingBarStyleSmall">?android:attr/ratingBarStyleSmall</item>
+    </style>
+    <style name="Base.V23.Theme.AppCompat.Light">
+        <item name="actionBarItemBackground">?android:attr/actionBarItemBackground</item>
+        <item name="actionMenuTextAppearance">?android:attr/actionMenuTextAppearance</item>
+        <item name="actionMenuTextColor">?android:attr/actionMenuTextColor</item>
+        <item name="controlBackground">@drawable/abc_control_background_material</item>
+        <item name="ratingBarStyleIndicator">?android:attr/ratingBarStyleIndicator</item>
+        <item name="ratingBarStyleSmall">?android:attr/ratingBarStyleSmall</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Button.Borderless.Colored">
+    </style>
+    <style name="Base.Widget.AppCompat.Button.Colored">
+    </style>
+    <style name="Base.Widget.AppCompat.RatingBar.Indicator">
+    </style>
+    <style name="Base.Widget.AppCompat.RatingBar.Small">
+    </style>
+    <style name="Base.Widget.AppCompat.Spinner.Underlined">
+    </style>
+    <style name="CardView">
+        <item name="cardBackgroundColor">?unknown_attr_ref: 10104e2</item>
+    </style>
+    <style name="Oneplus.Widget.Material.Light.TimePicker">
+        <item name="android:headerBackground">?attr/onePlusPrimaryColor</item>
+        <item name="android:numbersTextColor">@color/op_timepicker_text_inverse_when_activated_material_light</item>
+        <item name="android:numbersBackgroundColor">@color/timepicker_numbers_background_color_light</item>
+        <item name="android:numbersSelectorColor">?attr/opPickerColorActivated</item>
+        <item name="android:amPmTextColor">@color/timepicker_ampmlabel_text_color_light</item>
+        <item name="?0x10104e1">@color/op_timepicker_text_inverse_when_activated_material_light</item>
+        <item name="headerTextColor">@color/op_primary_text_secondary_when_activated_material_inverse</item>
+        <item name="internalLayout">@layout/op_time_picker_material</item>
+        <item name="legacyLayout">@layout/op_time_picker_legacy_material</item>
+        <item name="numbersInnerTextColor">@color/op_timepicker_text_inverse_when_activated_material_light</item>
+        <item name="numbersTextColor">@color/op_timepicker_text_inverse_when_activated_material_light</item>
+    </style>
+    <style name="SetupWizardAccessibilityTheme">
+        <item name="android:colorPrimary">@color/material_grey_100</item>
+        <item name="android:colorAccent">@color/material_blue_700</item>
+        <item name="?0x10104e0">false</item>
+        <item name="?0x10104e3">@color/material_blue_700</item>
+        <item name="preferenceTheme">@style/PreferenceTheme</item>
+        <item name="switchBarTheme">@style/ThemeOverlay.SwitchBar.Settings</item>
+    </style>
+    <style name="SuwThemeGlifV2">
+        <item name="android:colorBackground">@color/suw_glif_background_color_dark</item>
+        <item name="android:editTextStyle">@style/SuwEditText</item>
+        <item name="android:alertDialogTheme">@style/SuwAlertDialogTheme</item>
+        <item name="?0x10104e0">false</item>
+        <item name="suwBackgroundBaseColor">?android:attr/colorBackground</item>
+        <item name="suwBackgroundPatterned">false</item>
+        <item name="suwDividerInsetEnd">?attr/suwMarginSides</item>
+        <item name="suwDividerInsetStart">?attr/suwMarginSides</item>
+        <item name="suwDividerInsetStartNoIcon">?attr/suwMarginSides</item>
+        <item name="suwEditTextBackgroundColor">@color/suw_glif_edit_text_bg_light_color</item>
+        <item name="suwGlifHeaderGravity">1</item>
+        <item name="suwScrollIndicators">3</item>
+    </style>
+    <style name="SuwThemeGlifV2.Light">
+        <item name="android:colorBackground">@color/suw_glif_background_color_light</item>
+        <item name="android:editTextStyle">@style/SuwEditText</item>
+        <item name="android:alertDialogTheme">@style/SuwAlertDialogTheme.Light</item>
+        <item name="?0x10104e0">true</item>
+        <item name="suwBackgroundBaseColor">?android:attr/colorBackground</item>
+        <item name="suwBackgroundPatterned">false</item>
+        <item name="suwDividerInsetEnd">?attr/suwMarginSides</item>
+        <item name="suwDividerInsetStart">?attr/suwMarginSides</item>
+        <item name="suwDividerInsetStartNoIcon">?attr/suwMarginSides</item>
+        <item name="suwEditTextBackgroundColor">@color/suw_glif_edit_text_bg_light_color</item>
+        <item name="suwGlifHeaderGravity">1</item>
+        <item name="suwScrollIndicators">3</item>
+    </style>
+    <style name="Widget.SwitchBar.Switch">
+        <item name="android:minHeight">@dimen/min_tap_target_size</item>
+        <item name="android:thumbTint">@color/switchbar_switch_thumb_tint</item>
+        <item name="?0x10104d9">@color/switchbar_switch_track_tint</item>
+    </style>
+    <style name="oneplus_contorl_text_style_base">
+        <item name="?0x10104dd">@null</item>
+    </style>
+    <style name="oneplus_contorl_text_style_title_extended">
+        <item name="android:textSize">@dimen/oneplus_contorl_text_size_extended</item>
+        <item name="android:fontFamily">@string/oneplus_contorl_font_family_title_extended</item>
+        <item name="?0x10104dd">@null</item>
+    </style>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:settings="http://schemas.android.com/apk/res/com.android.settings" xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <TextView android:textAppearance="@style/TextAppearance.Material.Body2" android:textColor="?attr/onePlusPrimaryColor" android:gravity="center_vertical" android:id="@+id/op_viewpager_guide_title" android:paddingLeft="@dimen/oneplus_contorl_layout_margin_left4" android:paddingTop="@dimen/oneplus_contorl_margin_text_top2" android:paddingRight="@dimen/oneplus_settings_layout_margin_left2" android:clickable="false" android:layout_width="wrap_content" android:layout_height="@dimen/oneplus_contorl_list_item_height_one_line1" android:text="@string/oneplus_instrucitons" android:textAllCaps="true" style="@style/oneplus_contorl_text_style_subtitle"/>
+    <LinearLayout android:orientation="vertical" android:id="@+id/op_viewpager_guide_container" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/oneplus_contorl_layout_margin_top2" android:minHeight="300dp" android:layout_below="@+id/op_viewpager_guide_title">
+        <com.oneplus.settings.ui.OPAutoWrapperViewPager android:layout_gravity="center" android:id="@+id/op_viewpager_guide_viewpager" android:layout_width="match_parent" android:layout_height="300dp">
+            <android.support.v4.view.PagerTitleStrip android:textColor="#ffff" android:layout_gravity="bottom" android:id="@+id/pagertitle" android:background="#0000" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="8dp"/>
+        </com.oneplus.settings.ui.OPAutoWrapperViewPager>
+        <LinearLayout android:orientation="horizontal" android:id="@+id/op_viewpager_guide_dot_container" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginTop="@dimen/oneplus_contorl_layout_margin_top2" android:layout_below="@+id/op_viewpager_guide_viewpager" android:layout_centerHorizontal="true">
+            <LinearLayout android:gravity="center_horizontal" android:layout_gravity="bottom" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginBottom="@dimen/oneplus_contorl_layout_margin_top2">
+                <ImageView android:id="@+id/page0" android:layout_width="8dp" android:layout_height="8dp" android:src="@drawable/op_page_now" android:scaleType="fitXY"/>
+                <ImageView android:id="@+id/page1" android:layout_width="8dp" android:layout_height="8dp" android:layout_marginLeft="8dp" android:src="@drawable/op_page" android:scaleType="fitXY"/>
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

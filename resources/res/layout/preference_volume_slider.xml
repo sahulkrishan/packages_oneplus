@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:settings="http://schemas.android.com/apk/res/com.android.settings" xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:gravity="center_vertical" android:orientation="horizontal" android:clickable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="@dimen/oneplus_contorl_list_item_height_one_line1" android:paddingStart="@dimen/oneplus_contorl_margin_avatar_left2" android:paddingEnd="@dimen/oneplus_contorl_margin_avatar_right2">
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@+id/icon_frame" android:paddingTop="4dp" android:paddingBottom="4dp" android:layout_width="@dimen/oneplus_contorl_avatar_mini" android:layout_height="@dimen/oneplus_contorl_avatar_mini" android:layout_marginEnd="8dp">
+        <com.android.internal.widget.PreferenceImageView android:id="@android:id/icon" android:layout_width="@dimen/oneplus_contorl_icon_size_list" android:layout_height="@dimen/oneplus_contorl_icon_size_list"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="8dp" android:layout_marginBottom="8dp" android:paddingStart="5dp">
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content">
+            <TextView android:textAppearance="@style/TextAppearance.Material.Subhead" android:textColor="?android:attr/textColorPrimary" android:ellipsize="marquee" android:id="@android:id/title" android:fadingEdge="horizontal" android:layout_width="0dp" android:layout_height="wrap_content" android:singleLine="true" android:layout_weight="1"/>
+            <LinearLayout android:gravity="right|center_vertical|center_horizontal|center|end" android:orientation="vertical" android:id="@android:id/widget_frame" android:layout_width="wrap_content" android:layout_height="match_parent" android:paddingStart="12dp"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="6dp">
+            <SeekBar android:layout_gravity="center_vertical" android:id="@android:id/zoomIn" android:layout_width="match_parent" android:layout_height="24dp"/>
+            <TextView android:textAppearance="@style/TextAppearance.Material.Body1" android:textColor="?android:attr/textColorSecondary" android:ellipsize="end" android:layout_gravity="left|center_vertical|center_horizontal|center|start" android:id="@+id/suppression_text" android:visibility="gone" android:layout_width="match_parent" android:layout_height="wrap_content" android:singleLine="true" android:textAlignment="viewStart" android:paddingStart="12dp"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

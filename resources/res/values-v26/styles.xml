@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.AppCompat">
+    </style>
+    <style name="Base.Theme.AppCompat.Light">
+    </style>
+    <style name="Base.V26.Theme.AppCompat">
+        <item name="colorError">?unknown_attr_ref: 1010543</item>
+    </style>
+    <style name="Base.V26.Theme.AppCompat.Light">
+        <item name="colorError">?unknown_attr_ref: 1010543</item>
+    </style>
+    <style name="Base.V26.Widget.AppCompat.Toolbar">
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="?0x1010540">true</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Toolbar">
+    </style>
+    <style name="GlifTheme.Light">
+        <item name="android:windowBackground">?android:attr/colorBackground</item>
+        <item name="android:alertDialogTheme">@style/ThemeOverlay.AlertDialog</item>
+        <item name="?0x1010543">@color/glif_error_color</item>
+        <item name="?0x1110067">@style/LockPatternStyle.Setup</item>
+        <item name="?0x11100a7">@android:style/Widget.DeviceDefault.TimePicker</item>
+        <item name="fingerprint_layout_theme">@style/FingerprintLayoutTheme</item>
+        <item name="ic_menu_moreoverflow">@android:drawable/jog_tab_right_sound_on</item>
+        <item name="preferenceBackgroundColor">?android:attr/colorBackground</item>
+        <item name="preferenceTheme">@style/PreferenceTheme.SetupWizard</item>
+        <item name="side_margin">0dp</item>
+        <item name="suwMarginSides">@dimen/oneplus_suw_margin_start</item>
+        <item name="wifi_friction">@drawable/wifi_friction</item>
+        <item name="wifi_signal">@drawable/wifi_signal</item>
+        <item name="wifi_signal_color">@color/setup_wizard_wifi_color_light</item>
+    </style>
+    <style name="GlifV2Theme.Light">
+        <item name="android:windowBackground">?android:attr/colorBackground</item>
+        <item name="android:alertDialogTheme">@style/GlifV2ThemeAlertDialog.Light</item>
+        <item name="?0x1010543">@color/glif_error_color</item>
+        <item name="?0x1110067">@style/LockPatternStyle.Setup</item>
+        <item name="?0x11100a7">@android:style/Widget.DeviceDefault.TimePicker</item>
+        <item name="fingerprint_layout_theme">@style/FingerprintLayoutTheme</item>
+        <item name="ic_menu_moreoverflow">@android:drawable/jog_tab_right_sound_on</item>
+        <item name="preferenceBackgroundColor">?android:attr/colorBackground</item>
+        <item name="preferenceTheme">@style/PreferenceTheme.SetupWizard</item>
+        <item name="side_margin">0dp</item>
+        <item name="wifi_friction">@drawable/wifi_friction</item>
+        <item name="wifi_signal">@drawable/wifi_signal</item>
+        <item name="wifi_signal_color">@color/setup_wizard_wifi_color_light</item>
+    </style>
+    <style name="GlifV3Theme.Light">
+        <item name="android:windowBackground">?android:attr/colorBackground</item>
+        <item name="android:alertDialogTheme">@style/GlifV2ThemeAlertDialog.Light</item>
+        <item name="?0x1010543">@color/glif_error_color</item>
+        <item name="?0x1110067">@style/LockPatternStyle.Setup</item>
+        <item name="?0x11100a7">@android:style/Widget.DeviceDefault.TimePicker</item>
+        <item name="fingerprint_layout_theme">@style/FingerprintLayoutTheme</item>
+        <item name="ic_menu_moreoverflow">@android:drawable/jog_tab_right_sound_on</item>
+        <item name="preferenceBackgroundColor">?android:attr/colorBackground</item>
+        <item name="preferenceTheme">@style/PreferenceTheme.SetupWizard</item>
+        <item name="side_margin">0dp</item>
+        <item name="wifi_friction">@drawable/wifi_friction</item>
+        <item name="wifi_signal">@drawable/wifi_signal</item>
+        <item name="wifi_signal_color">@color/setup_wizard_wifi_color_light</item>
+    </style>
+    <style name="LockPatternContainerStyle">
+        <item name="android:paddingTop">0dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:maxWidth">420dp</item>
+        <item name="android:maxHeight">400dp</item>
+        <item name="android:minWidth">0dp</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="?0x101053d">44dp</item>
+    </style>
+</resources>

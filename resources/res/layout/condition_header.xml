@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:settings="http://schemas.android.com/apk/res/com.android.settings" xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:paddingTop="10dp" android:paddingBottom="10dp" android:layout_width="match_parent" android:layout_height="wrap_content" style="@style/SuggestionConditionStyle">
+    <RelativeLayout android:layout_width="match_parent" android:layout_height="55dp" android:layout_centerHorizontal="true">
+        <FrameLayout android:id="@androidresources/ANDROID_R_ICON_FRAME" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="22dp">
+            <include layout="@layout/condition_header_icon"/>
+        </FrameLayout>
+        <ImageView android:id="@+id/expand_indicator" android:paddingTop="4dp" android:layout_width="wrap_content" android:layout_height="match_parent" android:src="@drawable/ic_expand_more" android:paddingStart="@dimen/oneplus_contorl_layout_margin_right2" android:layout_marginEnd="@dimen/oneplus_contorl_layout_margin_right2" android:layout_alignParentEnd="true"/>
+        <TextView android:textColor="?android:attr/colorAccent" android:gravity="end" android:id="@android:id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="8dp" android:layout_toStartOf="@+id/expand_indicator" style="@style/oneplus_contorl_text_style_subheading"/>
+        <TextView android:textColor="?android:attr/colorAccent" android:ellipsize="end" android:id="@android:id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_centerVertical="true" android:layout_toStartOf="@android:id/summary" android:layout_toEndOf="@androidresources/ANDROID_R_ICON_FRAME" style="@style/oneplus_contorl_text_style_subheading"/>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@+id/additional_icons" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_toStartOf="@android:id/summary" android:layout_toEndOf="@androidresources/ANDROID_R_ICON_FRAME"/>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibilty_autoclick_preference_subtitle_extremely_short_delay">
+        <item>Extreem korte vertraging (%1$d ms)</item>
+        <item>Extreem korte vertraging (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_long_delay">
+        <item>Lange vertraging (%1$d ms)</item>
+        <item>Lange vertraging (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_short_delay">
+        <item>Korte vertraging (%1$d ms)</item>
+        <item>Korte vertraging (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_long_delay">
+        <item>Zeer lange vertraging (%1$d ms)</item>
+        <item>Zeer lange vertraging (%1$d ms)</item>
+    </plurals>
+    <plurals name="accessibilty_autoclick_preference_subtitle_very_short_delay">
+        <item>Zeer korte vertraging (%1$d ms)</item>
+        <item>Zeer korte vertraging (%1$d ms)</item>
+    </plurals>
+    <plurals name="app_notification_listing_summary_others">
+        <item>Uitgeschakeld voor %d app</item>
+        <item>Uitgeschakeld voor %d apps</item>
+    </plurals>
+    <plurals name="battery_manager_app_restricted">
+        <item>%1$d app beperkt</item>
+        <item>%1$d apps beperkt</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_app_dialog_title">
+        <item>App beperken?</item>
+        <item>%1$d apps beperken?</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_summary">
+        <item>Deze app kan niet op de achtergrond worden uitgevoerd</item>
+        <item>Deze apps kunnen niet op de achtergrond worden uitgevoerd</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_handled_title">
+        <item>%1$s is onlangs beperkt</item>
+        <item>%2$d apps zijn onlangs beperkt</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_summary">
+        <item>%1$s heeft een hoog batterijverbruik op de achtergrond</item>
+        <item>%2$d apps hebben een hoog batterijverbruik op de achtergrond</item>
+    </plurals>
+    <plurals name="battery_tip_restrict_title">
+        <item>%1$d app beperken</item>
+        <item>%1$d apps beperken</item>
+    </plurals>
+    <plurals name="billing_cycle_days_left">
+        <item>%d dag resterend</item>
+        <item>%d dagen resterend</item>
+    </plurals>
+    <plurals name="data_saver_unrestricted_summary">
+        <item>1 app mag onbeperkt data gebruiken terwijl Databesparing is ingeschakeld</item>
+        <item>%1$d apps mogen onbeperkt data gebruiken terwijl Databesparing is ingeschakeld</item>
+    </plurals>
+    <plurals name="default_camera_app_title">
+        <item>Camera-app</item>
+        <item>Camera-apps</item>
+    </plurals>
+    <plurals name="default_email_app_title">
+        <item>E-mailclient-app</item>
+        <item>E-mailclient-apps</item>
+    </plurals>
+    <plurals name="default_phone_app_title">
+        <item>Telefoon-app</item>
+        <item>Telefoon-apps</item>
+    </plurals>
+    <plurals name="deleted_channels">
+        <item>%d categorie verwijderd</item>
+        <item>%d categorieën verwijderd</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item>Geselecteerde taal verwijderen?</item>
+        <item>Geselecteerde talen verwijderen?</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary_on">
+        <item>Eén app die ondersteunde links opent</item>
+        <item>%d apps die ondersteunde links openen</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_ca_certs">
+        <item>Minimaal %d CA-certificaat</item>
+        <item>Minimaal %d CA-certificaten</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_failed_password_wipe">
+        <item>%d poging</item>
+        <item>%d pogingen</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages">
+        <item>%d app</item>
+        <item>%d apps</item>
+    </plurals>
+    <plurals name="enterprise_privacy_number_packages_lower_bound">
+        <item>Minimaal %d app</item>
+        <item>Minimaal %d apps</item>
+    </plurals>
+    <plurals name="hours">
+        <item>1 uur</item>
+        <item>%s uur</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item>Moet ten minste één letter bevatten</item>
+        <item>Moet ten minste %d letters bevatten</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item>Moet ten minste één kleine letter bevatten</item>
+        <item>Moet ten minste %d kleine letters bevatten</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item>Moet ten minste één teken bevatten dat geen letter is</item>
+        <item>Moet ten minste %d tekens bevatten die geen letters zijn</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item>Moet ten minste één cijfer bevatten</item>
+        <item>Moet ten minste %d cijfers bevatten</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item>Moet ten minste één speciaal symbool bevatten</item>
+        <item>Moet ten minste %d speciale symbolen bevatten</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item>Moet ten minste één hoofdletter bevatten</item>
+        <item>Moet ten minste %d hoofdletters bevatten</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item>%d app kan meldingen lezen</item>
+        <item>%d apps kunnen meldingen lezen</item>
+    </plurals>
+    <plurals name="manage_trust_agents_summary_on">
+        <item>1 actieve trust agent</item>
+        <item>%d actieve trust agents</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item>1 app heeft geheugen gebruikt in de afgelopen %2$s</item>
+        <item>%1$d apps hebben geheugen gebruikt in de afgelopen %2$s</item>
+    </plurals>
+    <plurals name="minutes">
+        <item>1 minuut</item>
+        <item>%s minuten</item>
+    </plurals>
+    <plurals name="network_restrictions_summary">
+        <item>1 beperking</item>
+        <item>%1$d beperkingen</item>
+    </plurals>
+    <plurals name="notification_group_summary">
+        <item>%d categorie</item>
+        <item>%d categorieën</item>
+    </plurals>
+    <plurals name="notification_summary">
+        <item>Uitgeschakeld voor 1 app</item>
+        <item>Uitgeschakeld voor %d apps</item>
+    </plurals>
+    <plurals name="notifications_categories_off">
+        <item>%d categorie uitgeschakeld</item>
+        <item>%d categorieën uitgeschakeld</item>
+    </plurals>
+    <plurals name="number_of_device_admins">
+        <item>%d actieve app</item>
+        <item>%d actieve apps</item>
+    </plurals>
+    <plurals name="oneplus_applock_wrong_pattern_warning">
+        <item>U hebt nog %1$d kans</item>
+        <item>U hebt nog %1$d kansen</item>
+    </plurals>
+    <plurals name="oneplus_lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item>Probeer het opnieuw in %d seconde.</item>
+        <item>Probeer het opnieuw in %d seconden.</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item>%d machtiging verleend</item>
+        <item>%d machtigingen verleend</item>
+    </plurals>
+    <plurals name="power_high_usage_summary">
+        <item>%1$s vertoont abnormaal gedrag</item>
+        <item>%2$d vertonen abnormaal gedrag</item>
+    </plurals>
+    <plurals name="power_high_usage_title">
+        <item>%1$s met hoog batterijverbruik</item>
+        <item>apps met hoog batterijgebruik</item>
+    </plurals>
+    <plurals name="print_jobs_summary">
+        <item>1 afdruktaak</item>
+        <item>%1$d afdruktaken</item>
+    </plurals>
+    <plurals name="print_settings_summary">
+        <item>1 afdrukservice ingeschakeld</item>
+        <item>%1$d afdrukservices ingeschakeld</item>
+    </plurals>
+    <plurals name="restricted_app_summary">
+        <item>Batterijgebruik voor %1$d app wordt beperkt</item>
+        <item>Batterijgebruik voor %1$d apps wordt beperkt</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item>%d aanvullend machtiging</item>
+        <item>%d aanvullende machtigingen</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item>%d van %d machtiging verleend</item>
+        <item>%d van %d machtigingen verleend</item>
+    </plurals>
+    <plurals name="seconds">
+        <item>1 seconde</item>
+        <item>%s seconden</item>
+    </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item>%1$d vingerafdruk ingesteld</item>
+        <item>%1$d vingerafdrukken ingesteld</item>
+    </plurals>
+    <plurals name="settings_suggestion_header_summary_hidden_items">
+        <item>%d verborgen item weergeven</item>
+        <item>%d verborgen items weergeven</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item>Je moet nog %1$d stap uitvoeren om ontwikkelaar te worden.</item>
+        <item>Je moet nog %1$d stappen uitvoeren om ontwikkelaar te worden.</item>
+    </plurals>
+    <plurals name="show_number_hearingaid_count">
+        <item>%1$d opgeslagen gehoorapparaat</item>
+        <item>%1$d opgeslagen gehoorapparaten</item>
+    </plurals>
+    <plurals name="special_access_summary">
+        <item>1 app kan onbeperkt data gebruiken</item>
+        <item>%d apps kunnen onbeperkt data gebruiken</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_dialog_title">
+        <item>Certificaat vertrouwen of verwijderen</item>
+        <item>Certificaten vertrouwen of verwijderen</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message">
+        <item>%s heeft een certificeringsinstantie voor je werkprofiel geïnstalleerd, waardoor dit domein activiteit in het werknetwerk kan bijhouden, waaronder e-mails, apps en beveiligde websites.\10\10Neem contact op met je beheerder voor meer informatie over dit certificaat.</item>
+        <item>%s heeft certificeringsinstanties voor je werkprofiel geïnstalleerd, waardoor dit domein activiteit in het werknetwerk kan bijhouden, waaronder e-mails, apps en beveiligde websites.\10\10Neem contact op met je beheerder voor meer informatie over deze certificaten.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_info_message_device_owner">
+        <item>%s heeft een certificeringsinstantie geïnstalleerd op je apparaat, waardoor dit domein activiteit in het apparaatnetwerk kan bijhouden, waaronder e-mails, apps en beveiligde websites.\10\10Neem contact op met je beheerder voor meer informatie over dit certificaat.</item>
+        <item>%s heeft certificeringsinstanties geïnstalleerd op je apparaat, waardoor dit domein activiteit in het apparaatnetwerk kan bijhouden, waaronder e-mails, apps en beveiligde websites.\10\10Neem contact op met je beheerder voor meer informatie over deze certificaten.</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item>Certificaat controleren</item>
+        <item>Certificaten controleren</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_summary">
+        <item>+1 suggestie</item>
+        <item>+%1$d suggesties</item>
+    </plurals>
+    <plurals name="suggestions_collapsed_title">
+        <item>1 suggestie</item>
+        <item>%1$d suggesties</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item>1 item</item>
+        <item>%d items</item>
+    </plurals>
+    <plurals name="wifi_saved_access_points_summary">
+        <item>1 netwerk</item>
+        <item>%d netwerken</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item>%1$d apparaat verbonden</item>
+        <item>%1$d apparaten verbonden</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item>Onjuiste pincode voor simkaart. Je hebt nog %d poging over voordat je contact met je provider moet opnemen om je apparaat te ontgrendelen.</item>
+        <item>Onjuiste pincode voor simkaart. Je hebt nog %d pogingen over.</item>
+    </plurals>
+    <plurals name="zen_mode_duration_summary_time_hours">
+        <item>1 uur (tenzij automatisch ingeschakeld)</item>
+        <item>%d uur (tenzij automatisch ingeschakeld)</item>
+    </plurals>
+    <plurals name="zen_mode_settings_summary_on">
+        <item>Eén regel</item>
+        <item>%d regels</item>
+    </plurals>
+    <plurals name="zen_mode_sound_summary_summary_off_info">
+        <item>1 regel kan automatisch worden ingeschakeld</item>
+        <item>%d regels kunnen automatisch worden ingeschakeld</item>
+    </plurals>
+    <plurals name="zen_mode_starred_contacts_summary_additional_contacts">
+        <item>1 andere persoon</item>
+        <item>%d anderen</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item>Wijzigen in &apos;Alleen wekkers&apos; gedurende één uur (tot %2$s)</item>
+        <item>Wijzigen in &apos;Alleen wekkers&apos; gedurende %1$d uur (tot %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item>Wijzigen in &apos;Alleen wekkers&apos; gedurende één minuut (tot %2$s)</item>
+        <item>Wijzigen in &apos;Alleen wekkers&apos; gedurende %1$d minuten (tot %2$s)</item>
+    </plurals>
+</resources>

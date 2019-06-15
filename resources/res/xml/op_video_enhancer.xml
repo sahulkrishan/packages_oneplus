@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:settings="http://schemas.android.com/apk/res/com.android.settings" xmlns:androidprv="http://schemas.android.com/apk/prv/res/android" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:title="@string/oneplus_video_enhancer" android:key="video_enhancer">
+    <com.oneplus.settings.widget.OPVideoPreference android:key="video_source" app:animation="@raw/video_enhancer" app:preview="@drawable/video_enhancer_frist_frame"/>
+    <SwitchPreference android:title="@string/oneplus_video_enhancer" android:key="video_enhancer_switch" app:allowDividerAbove="true" app:controller="com.oneplus.settings.OPVideoEnhancerSwitchPreferenceController"/>
+</PreferenceScreen>
